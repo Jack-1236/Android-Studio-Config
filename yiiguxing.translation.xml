@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="lateinit property orderList has not been initialized" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@cd862df is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Inconsistency detected. Invalid view holder adapter positionViewHolder{62d094 position=4 id=-1, oldPos=2, pLpos:2 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{24e487e VFED..... ......I. 0,168-1080,1096 7f090163 app:idrecyclerview}, adapter:com.example.mcrnfc.history.RecyclerViewAdapter@4df71df, layout:androidx.recyclerview.widget.LinearLayoutManager@94f9e2c, context:com.example.mcrnfc.history.MainActivity2@f801921" />
@@ -54,17 +55,16 @@
       <item value="Condition 'nfcCardTools == null' is always 'false'" />
       <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
       <item value="NFC service dead - attempting to recover" />
-      <item value="A resource failed to call release." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="283" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656400356931" />
+    <option name="lastTrimTime" value="1657611552351" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
