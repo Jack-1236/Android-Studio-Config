@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="Skipped 32 frames! The application may be doing too much work on its main thread." />
       <item value="java.lang.Integer cannot be cast to java.lang.String" />
       <item value="lateinit property orderList has not been initialized" />
@@ -54,12 +55,11 @@
       <item value="Unable to resume activity {com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: java.lang.NullPointerException" />
       <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: kotlin.UninitializedPropertyAccessException: lateinit property LoadingToken has not been initialized" />
       <item value="kotlin.UninitializedPropertyAccessException: lateinit property activity has not been initialized" />
-      <item value="Condition 'nfcCardTools == null' is always 'false'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="285" />
       </map>
     </option>
   </component>
