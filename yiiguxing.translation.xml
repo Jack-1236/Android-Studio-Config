@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot format given Object (java.lang.String) as a Date" />
       <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="Skipped 32 frames! The application may be doing too much work on its main thread." />
       <item value="java.lang.Integer cannot be cast to java.lang.String" />
@@ -54,12 +55,11 @@
       <item value="Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
       <item value="Unable to resume activity {com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: java.lang.NullPointerException" />
       <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: kotlin.UninitializedPropertyAccessException: lateinit property LoadingToken has not been initialized" />
-      <item value="kotlin.UninitializedPropertyAccessException: lateinit property activity has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="286" />
       </map>
     </option>
   </component>
