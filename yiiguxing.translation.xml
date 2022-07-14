@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Skipped 51 frames! The application may be doing too much work on its main thread." />
       <item value="LifecycleOwner com.example.nfctools.main.activity.MainActivity@6d82af5 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Class 'LoadDataType' is never used" />
       <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.card.activity.WriteCardActivity}: java.lang.NullPointerException" />
@@ -54,12 +55,11 @@
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value=".IndexOutOfBoundsException: Index: 8, Size: 8" />
       <item value="Inconsistency detected. Invalid view holder adapter positionCardBatchesViewHolder{54dcb32 position=5 id=-1, oldPos=4, pLpos:4 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{4ba4f12 VFED.V... ......I. 0,0-1080,1824 7f08006c app:idcardBatches_Reyclerview}, adapter:com.example.nfctools.adapter.CardBatchesAdapter@15756e3, layout:androidx.recyclerview.widget.LinearLayoutManager@53b58e0, context:com.example.nfctools.MainActivity@8768cf6" />
-      <item value="Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="291" />
       </map>
     </option>
   </component>
