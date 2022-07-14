@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Class 'LoadDataType' is never used" />
+      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.card.activity.WriteCardActivity}: java.lang.NullPointerException" />
+      <item value="ifecycleOwner com.example.nfctools.main.activity.MainActivity@5ca9bdf is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Cannot format given Object (java.lang.String) as a Date" />
       <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="Skipped 32 frames! The application may be doing too much work on its main thread." />
@@ -38,7 +41,6 @@
       <item value="Failed to resolve: androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1" />
       <item value="Cancels this scope, including its job and all its children with an optional cancellation cause. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws IllegalStateException if the scope does not have a job in it." />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders" />
-      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.card.activity.WriteCardActivity}: java.lang.NullPointerException" />
       <item value="Cannot assign to 'value': the setter is protectedprotected and package for synthetic extension in '&lt;library Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar&gt;'" />
       <item value="Dex file created by class-definition time transformation of LcomsquareupokhttpOkHttpClient; is not checked for all retransformation invariants." />
       <item value="android:windowSplashScreenBrandingImage requires API level 31 (current min is 24" />
@@ -53,13 +55,11 @@
       <item value="Inconsistency detected. Invalid view holder adapter positionCardBatchesViewHolder{54dcb32 position=5 id=-1, oldPos=4, pLpos:4 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{4ba4f12 VFED.V... ......I. 0,0-1080,1824 7f08006c app:idcardBatches_Reyclerview}, adapter:com.example.nfctools.adapter.CardBatchesAdapter@15756e3, layout:androidx.recyclerview.widget.LinearLayoutManager@53b58e0, context:com.example.nfctools.MainActivity@8768cf6" />
       <item value="Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference" />
       <item value="Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
-      <item value="Unable to resume activity {com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: java.lang.NullPointerException" />
-      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: kotlin.UninitializedPropertyAccessException: lateinit property LoadingToken has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="289" />
       </map>
     </option>
   </component>
