@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="this cast can never succee" />
+      <item value="his cast can never succee" />
+      <item value="The root of the Kotlin class hierarchy. Every Kotlin class has Any as a superclass." />
       <item value="Candidate resolution will be changed soon, please use fully qualified name to invoke the following closer candidate explicitly: public open fun observe(owner: LifecycleOwner, observer: Observer&lt;in MutableList&lt;CardModel&gt;!&gt;): Unit defined in androidx.lifecycle.MutableLiveData 'observe(LifecycleOwner, crossinline (T) -&gt; Unit): Observer&lt;T&gt;' is deprecated. This extension method is not required when using Kotlin 1.4. You should remove &quot;import androidx.lifecycle.observe&quot;" />
       <item value="Adds the given observer to the observers list within the lifespan of the given owner. The events are dispatched on the main thread. If LiveData already has data set, it will be delivered to the observer. The observer will only receive events if the owner is in Lifecycle.State.STARTED or Lifecycle.State.RESUMED state (active). If the owner moves to the Lifecycle.State.DESTROYED state, the observer will automatically be removed. When data changes while the owner is not active, it will not receive any updates. If it becomes active again, it will receive the last available data automatically. LiveData keeps a strong reference to the observer and the owner as long as the given LifecycleOwner is not destroyed. When it is destroyed, LiveData removes references to the observer &amp; the owner. If the given owner is already in Lifecycle.State.DESTROYED state, LiveData ignores the call. If the given owner, observer tuple is already in the list, the call is ignored. If the observer is already in the list with another owner, LiveData throws an IllegalArgumentException. Params: owner – The LifecycleOwner which controls the observer observer – The observer that will receive the events" />
       <item value="lateinit property logicModel has not been initialized" />
@@ -52,14 +55,11 @@
       <item value="&lt;!-- Set the theme of the Activity that directly follows your splash screen. --&gt; &lt;!-- Required --&gt;" />
       <item value="&lt;!-- Required for animated icons --&gt;" />
       <item value="&lt;!-- Use windowSplashScreenAnimatedIcon to add either a drawable or an animated drawable. One of these is required. --&gt;" />
-      <item value="&lt;!-- Set the splash screen background, animated icon, and animation duration. --&gt;" />
-      <item value="Content is not allowed in trailing section." />
-      <item value=": You need to use a Theme.AppCompat theme (or descendant) with this activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="298" />
       </map>
     </option>
   </component>
