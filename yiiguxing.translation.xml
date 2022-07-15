@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="lateinit property binding has not been initialized" />
       <item value="this cast can never succee" />
       <item value="his cast can never succee" />
       <item value="The root of the Kotlin class hierarchy. Every Kotlin class has Any as a superclass." />
@@ -54,12 +55,11 @@
       <item value="android:windowSplashScreenBrandingImage requires API level 31 (current min is 24" />
       <item value="&lt;!-- Set the theme of the Activity that directly follows your splash screen. --&gt; &lt;!-- Required --&gt;" />
       <item value="&lt;!-- Required for animated icons --&gt;" />
-      <item value="&lt;!-- Use windowSplashScreenAnimatedIcon to add either a drawable or an animated drawable. One of these is required. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="299" />
       </map>
     </option>
   </component>
