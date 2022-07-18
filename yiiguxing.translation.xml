@@ -5,10 +5,12 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
-      <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
       <item value="A resource failed to call close." />
+      <item value="~duration=211 ms: android.os.strictmode.DiskReadViolation" />
+      <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
+      <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
+      <item value="StrictMode policy violation; ~duration=158 ms: android.os.strictmode.DiskReadViolation" />
+      <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
       <item value="Animators may only be run on Looper threads" />
       <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
       <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
@@ -53,13 +55,11 @@
       <item value="com.example.mcrnfc.room.dto.AppDataBase_Impl1&gt;�е�onCreate(SupportSQLiteDatabase)�޷�����Delegate�е�onCreate(SupportSQLiteDatabase) protected void onCreate(SupportSQLiteDatabase _db) {" />
       <item value=":\SaveProject\McrNfcTools\McrNfc\app\build\tmp\kapt3\stubs\debug\com\example\mcrnfc\room\dto\AppDataBase.java:11: ����: Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false. public abstract class AppDataBase extends androidx.room.RoomDatabase { ^" />
       <item value="The single primary key field in an FTS entity must either be named 'rowid' or must be annotated with @ColumnInfo(name = &quot;rowid&quot;)" />
-      <item value="To use Kotlin Symbolic Processing (KSP)" />
-      <item value="A problem occurred configuring root project 'McrNfc'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':' project:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="320" />
       </map>
     </option>
   </component>
