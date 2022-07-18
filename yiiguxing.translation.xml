@@ -5,8 +5,15 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
+      <item value="requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e969839 V.ED..... ......ID 48,47-284,102} during layout: running second layout pass" />
+      <item value="Accessing hidden method Lcom" />
+      <item value="Flattened final assist data: 2056 bytes, containing 1 windows, 14 views" />
+      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="A resource failed to call close." />
+      <item value="Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
+      <item value="is in boot class path but is not in a known location" />
+      <item value="Wre-initialized&gt;: type=1400 audit(0.0:171177): avc: granted { execute } for path=&quot;datadatacom.example.nfctoolscode_cachestartup_agents4cead168-agent.so&quot; dev=&quot;dm-10&quot; ino=2601883 scontext=u:r:untrusted_app:s0:c236,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c236,c257,c512,c768 tclass=file app=com.example.nfctools" />
+      <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
       <item value="~duration=211 ms: android.os.strictmode.DiskReadViolation" />
       <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
       <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
@@ -19,7 +26,6 @@
       <item value="Compiler allocated 4MB to compile void android.widget.TextView.&lt;init&gt;(android.content.Context, android.util.AttributeSet, int, int)" />
       <item value="WView: requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e532d3b V.ED..... ......ID 32,23-224,77} during layout: running second layout pass" />
       <item value="WActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@4bb2787" />
-      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="Condition 'it.getSearchDialog()!=null' is always 'true'" />
       <item value="lateinit property selectIF has not been initialized" />
       <item value="lateinit property binding has not been initialized" />
@@ -49,17 +55,11 @@
       <item value="Unable to perform an operation on database (id=1). The database may have already been closed" />
       <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="ileDebugJavaWithJavac' task (current target is 11) and 'compileDebugKotlin' task (current target is 1.8) jvm target compatibility should be set to the same Java version." />
-      <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
-      <item value="Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
-      <item value="Type of the parameter must be a class annotated with @Entity or a collectionarray of it." />
-      <item value="com.example.mcrnfc.room.dto.AppDataBase_Impl1&gt;�е�onCreate(SupportSQLiteDatabase)�޷�����Delegate�е�onCreate(SupportSQLiteDatabase) protected void onCreate(SupportSQLiteDatabase _db) {" />
-      <item value=":\SaveProject\McrNfcTools\McrNfc\app\build\tmp\kapt3\stubs\debug\com\example\mcrnfc\room\dto\AppDataBase.java:11: ����: Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false. public abstract class AppDataBase extends androidx.room.RoomDatabase { ^" />
-      <item value="The single primary key field in an FTS entity must either be named 'rowid' or must be annotated with @ColumnInfo(name = &quot;rowid&quot;)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="329" />
       </map>
     </option>
   </component>
