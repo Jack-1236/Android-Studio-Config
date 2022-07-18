@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
+      <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
       <item value="No field mLock in class LcomandroidinternalviewIInputContextStub; (declaration of 'com.android.internal.view.IInputContextStub' appears in systemframeworkframework.jar!classes4.dex)" />
       <item value=": Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
       <item value="A resource failed to call close." />
@@ -53,13 +55,11 @@
       <item value="String resource ID 0x8" />
       <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@b80d38a is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint" />
-      <item value="Unable to start activity ComponentInfo{com.example.mcrnfccom.example.mcrnfc.MainActivity}: kotlin.UninitializedPropertyAccessException: lateinit property coroutineScope has not been initialized" />
-      <item value="Unable to perform an operation on database (id=1). The database may have already been closed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="336" />
       </map>
     </option>
   </component>
