@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
+      <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
+      <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
       <item value="A resource failed to call close." />
       <item value="Animators may only be run on Looper threads" />
       <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
@@ -52,14 +55,11 @@
       <item value="The single primary key field in an FTS entity must either be named 'rowid' or must be annotated with @ColumnInfo(name = &quot;rowid&quot;)" />
       <item value="To use Kotlin Symbolic Processing (KSP)" />
       <item value="A problem occurred configuring root project 'McrNfc'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':' project:" />
-      <item value="Could not compile build file 'E:\SaveProject\McrNfcTools\McrNfc\app\build.gradle'. &gt; startup failed:" />
-      <item value="Unable to create application com.example.mcrnfc.base.App: java.lang.RuntimeException: Cannot find implementation for com.example.mcrnfc.room.dto.AppDataBase. AppDataBase_Impl does n" />
-      <item value="java.lang.RuntimeException: Cannot find implementation for com.example.mcrnfc.room.dto.AppDataBase. AppDataBase_Impl does not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="314" />
       </map>
     </option>
   </component>
