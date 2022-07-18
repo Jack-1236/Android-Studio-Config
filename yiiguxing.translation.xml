@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A resource failed to call close." />
+      <item value="Animators may only be run on Looper threads" />
+      <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
+      <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
+      <item value=": Background concurrent copying GC freed 215666(9MB) AllocSpace objects, 1(20KB) LOS objects, 61% free, 7MB19MB, paused 206us total 120.286ms" />
+      <item value="EditText added is not a TextInputEditText. Please switch to using that class instead." />
+      <item value="Compiler allocated 4MB to compile void android.widget.TextView.&lt;init&gt;(android.content.Context, android.util.AttributeSet, int, int)" />
+      <item value="WView: requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e532d3b V.ED..... ......ID 32,23-224,77} during layout: running second layout pass" />
+      <item value="WActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@4bb2787" />
       <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="Condition 'it.getSearchDialog()!=null' is always 'true'" />
       <item value="lateinit property selectIF has not been initialized" />
@@ -46,25 +55,16 @@
       <item value="Could not compile build file 'E:\SaveProject\McrNfcTools\McrNfc\app\build.gradle'. &gt; startup failed:" />
       <item value="Unable to create application com.example.mcrnfc.base.App: java.lang.RuntimeException: Cannot find implementation for com.example.mcrnfc.room.dto.AppDataBase. AppDataBase_Impl does n" />
       <item value="java.lang.RuntimeException: Cannot find implementation for com.example.mcrnfc.room.dto.AppDataBase. AppDataBase_Impl does not exist" />
-      <item value="A problem occurred evaluating project ':app'. &gt; Could not find method kapt() for arguments [androidx.room:room-compiler:2.4.2] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
-      <item value="trying to use a recycled bitmap android.graphics.Bitmap@3d3b724" />
-      <item value="Cannot invoke setValue on a background thread" />
-      <item value="Inappropriate blocking method cal" />
-      <item value="Failed to resolve: androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1" />
-      <item value="Cancels this scope, including its job and all its children with an optional cancellation cause. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws IllegalStateException if the scope does not have a job in it." />
-      <item value="Do not concatenate text displayed with setText. Use resource string with placeholders" />
-      <item value="Cannot assign to 'value': the setter is protectedprotected and package for synthetic extension in '&lt;library Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar&gt;'" />
-      <item value="Dex file created by class-definition time transformation of LcomsquareupokhttpOkHttpClient; is not checked for all retransformation invariants." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="309" />
+        <entry key="ENGLISH" value="311" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657611552351" />
+    <option name="lastTrimTime" value="1658110072019" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
