@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Got a deoptimization request" />
       <item value="A resource failed to call release." />
       <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
       <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
@@ -54,12 +55,11 @@
       <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@cd862df is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Inconsistency detected. Invalid view holder adapter positionViewHolder{62d094 position=4 id=-1, oldPos=2, pLpos:2 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{24e487e VFED..... ......I. 0,168-1080,1096 7f090163 app:idrecyclerview}, adapter:com.example.mcrnfc.history.RecyclerViewAdapter@4df71df, layout:androidx.recyclerview.widget.LinearLayoutManager@94f9e2c, context:com.example.mcrnfc.history.MainActivity2@f801921" />
       <item value="String resource ID 0x8" />
-      <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@b80d38a is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="338" />
       </map>
     </option>
   </component>
