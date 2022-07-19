@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="nvocation failed Unexpected end of file from server" />
       <item value="The expression cannot be a selector (occur after a dot)" />
       <item value="Got a deoptimization request" />
       <item value="A resource failed to call release." />
@@ -54,12 +55,11 @@
       <item value="lateinit property orderList has not been initialized" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@cd862df is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
-      <item value="Inconsistency detected. Invalid view holder adapter positionViewHolder{62d094 position=4 id=-1, oldPos=2, pLpos:2 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{24e487e VFED..... ......I. 0,168-1080,1096 7f090163 app:idrecyclerview}, adapter:com.example.mcrnfc.history.RecyclerViewAdapter@4df71df, layout:androidx.recyclerview.widget.LinearLayoutManager@94f9e2c, context:com.example.mcrnfc.history.MainActivity2@f801921" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="340" />
       </map>
     </option>
   </component>
