@@ -5,66 +5,66 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="nvocation failed Unexpected end of file from server" />
+      <item value="The expression cannot be a selector (occur after a dot)" />
+      <item value="Got a deoptimization request" />
+      <item value="A resource failed to call release." />
+      <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
+      <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
+      <item value="No field mLock in class LcomandroidinternalviewIInputContextStub; (declaration of 'com.android.internal.view.IInputContextStub' appears in systemframeworkframework.jar!classes4.dex)" />
+      <item value=": Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
+      <item value="A resource failed to call close." />
+      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
+      <item value="requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e969839 V.ED..... ......ID 48,47-284,102} during layout: running second layout pass" />
+      <item value="Accessing hidden method Lcom" />
+      <item value="Flattened final assist data: 2056 bytes, containing 1 windows, 14 views" />
+      <item value="Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
+      <item value="is in boot class path but is not in a known location" />
+      <item value="Wre-initialized&gt;: type=1400 audit(0.0:171177): avc: granted { execute } for path=&quot;datadatacom.example.nfctoolscode_cachestartup_agents4cead168-agent.so&quot; dev=&quot;dm-10&quot; ino=2601883 scontext=u:r:untrusted_app:s0:c236,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c236,c257,c512,c768 tclass=file app=com.example.nfctools" />
+      <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
+      <item value="~duration=211 ms: android.os.strictmode.DiskReadViolation" />
+      <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
+      <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
+      <item value="StrictMode policy violation; ~duration=158 ms: android.os.strictmode.DiskReadViolation" />
+      <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
+      <item value="Animators may only be run on Looper threads" />
+      <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
+      <item value=": Background concurrent copying GC freed 215666(9MB) AllocSpace objects, 1(20KB) LOS objects, 61% free, 7MB19MB, paused 206us total 120.286ms" />
+      <item value="EditText added is not a TextInputEditText. Please switch to using that class instead." />
+      <item value="Compiler allocated 4MB to compile void android.widget.TextView.&lt;init&gt;(android.content.Context, android.util.AttributeSet, int, int)" />
+      <item value="WView: requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e532d3b V.ED..... ......ID 32,23-224,77} during layout: running second layout pass" />
+      <item value="WActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@4bb2787" />
+      <item value="Condition 'it.getSearchDialog()!=null' is always 'true'" />
+      <item value="lateinit property selectIF has not been initialized" />
+      <item value="lateinit property binding has not been initialized" />
+      <item value="this cast can never succee" />
+      <item value="his cast can never succee" />
+      <item value="The root of the Kotlin class hierarchy. Every Kotlin class has Any as a superclass." />
+      <item value="Candidate resolution will be changed soon, please use fully qualified name to invoke the following closer candidate explicitly: public open fun observe(owner: LifecycleOwner, observer: Observer&lt;in MutableList&lt;CardModel&gt;!&gt;): Unit defined in androidx.lifecycle.MutableLiveData 'observe(LifecycleOwner, crossinline (T) -&gt; Unit): Observer&lt;T&gt;' is deprecated. This extension method is not required when using Kotlin 1.4. You should remove &quot;import androidx.lifecycle.observe&quot;" />
+      <item value="Adds the given observer to the observers list within the lifespan of the given owner. The events are dispatched on the main thread. If LiveData already has data set, it will be delivered to the observer. The observer will only receive events if the owner is in Lifecycle.State.STARTED or Lifecycle.State.RESUMED state (active). If the owner moves to the Lifecycle.State.DESTROYED state, the observer will automatically be removed. When data changes while the owner is not active, it will not receive any updates. If it becomes active again, it will receive the last available data automatically. LiveData keeps a strong reference to the observer and the owner as long as the given LifecycleOwner is not destroyed. When it is destroyed, LiveData removes references to the observer &amp; the owner. If the given owner is already in Lifecycle.State.DESTROYED state, LiveData ignores the call. If the given owner, observer tuple is already in the list, the call is ignored. If the observer is already in the list with another owner, LiveData throws an IllegalArgumentException. Params: owner – The LifecycleOwner which controls the observer observer – The observer that will receive the events" />
+      <item value="lateinit property logicModel has not been initialized" />
+      <item value="Skipped 51 frames! The application may be doing too much work on its main thread." />
+      <item value="LifecycleOwner com.example.nfctools.main.activity.MainActivity@6d82af5 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
+      <item value="Class 'LoadDataType' is never used" />
+      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.card.activity.WriteCardActivity}: java.lang.NullPointerException" />
+      <item value="ifecycleOwner com.example.nfctools.main.activity.MainActivity@5ca9bdf is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
+      <item value="Cannot format given Object (java.lang.String) as a Date" />
+      <item value="have you declared this activity in your AndroidManifest.xml?" />
+      <item value="Skipped 32 frames! The application may be doing too much work on its main thread." />
+      <item value="java.lang.Integer cannot be cast to java.lang.String" />
+      <item value="lateinit property orderList has not been initialized" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@cd862df is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
-      <item value="Inconsistency detected. Invalid view holder adapter positionViewHolder{62d094 position=4 id=-1, oldPos=2, pLpos:2 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{24e487e VFED..... ......I. 0,168-1080,1096 7f090163 app:idrecyclerview}, adapter:com.example.mcrnfc.history.RecyclerViewAdapter@4df71df, layout:androidx.recyclerview.widget.LinearLayoutManager@94f9e2c, context:com.example.mcrnfc.history.MainActivity2@f801921" />
-      <item value="String resource ID 0x8" />
-      <item value="LifecycleOwner com.example.mcrnfc.main.MainActivity@b80d38a is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
-      <item value="This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint" />
-      <item value="Unable to start activity ComponentInfo{com.example.mcrnfccom.example.mcrnfc.MainActivity}: kotlin.UninitializedPropertyAccessException: lateinit property coroutineScope has not been initialized" />
-      <item value="Unable to perform an operation on database (id=1). The database may have already been closed" />
-      <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
-      <item value="ileDebugJavaWithJavac' task (current target is 11) and 'compileDebugKotlin' task (current target is 1.8) jvm target compatibility should be set to the same Java version." />
-      <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
-      <item value="Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
-      <item value="Type of the parameter must be a class annotated with @Entity or a collectionarray of it." />
-      <item value="com.example.mcrnfc.room.dto.AppDataBase_Impl1&gt;�е�onCreate(SupportSQLiteDatabase)�޷�����Delegate�е�onCreate(SupportSQLiteDatabase) protected void onCreate(SupportSQLiteDatabase _db) {" />
-      <item value=":\SaveProject\McrNfcTools\McrNfc\app\build\tmp\kapt3\stubs\debug\com\example\mcrnfc\room\dto\AppDataBase.java:11: ����: Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false. public abstract class AppDataBase extends androidx.room.RoomDatabase { ^" />
-      <item value="The single primary key field in an FTS entity must either be named 'rowid' or must be annotated with @ColumnInfo(name = &quot;rowid&quot;)" />
-      <item value="To use Kotlin Symbolic Processing (KSP)" />
-      <item value="A problem occurred configuring root project 'McrNfc'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':' project:" />
-      <item value="Could not compile build file 'E:\SaveProject\McrNfcTools\McrNfc\app\build.gradle'. &gt; startup failed:" />
-      <item value="Unable to create application com.example.mcrnfc.base.App: java.lang.RuntimeException: Cannot find implementation for com.example.mcrnfc.room.dto.AppDataBase. AppDataBase_Impl does n" />
-      <item value="java.lang.RuntimeException: Cannot find implementation for com.example.mcrnfc.room.dto.AppDataBase. AppDataBase_Impl does not exist" />
-      <item value="A problem occurred evaluating project ':app'. &gt; Could not find method kapt() for arguments [androidx.room:room-compiler:2.4.2] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
-      <item value="trying to use a recycled bitmap android.graphics.Bitmap@3d3b724" />
-      <item value="Cannot invoke setValue on a background thread" />
-      <item value="Inappropriate blocking method cal" />
-      <item value="Failed to resolve: androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1" />
-      <item value="Cancels this scope, including its job and all its children with an optional cancellation cause. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws IllegalStateException if the scope does not have a job in it." />
-      <item value="Do not concatenate text displayed with setText. Use resource string with placeholders" />
-      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.card.activity.WriteCardActivity}: java.lang.NullPointerException" />
-      <item value="Cannot assign to 'value': the setter is protectedprotected and package for synthetic extension in '&lt;library Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar&gt;'" />
-      <item value="Dex file created by class-definition time transformation of LcomsquareupokhttpOkHttpClient; is not checked for all retransformation invariants." />
-      <item value="android:windowSplashScreenBrandingImage requires API level 31 (current min is 24" />
-      <item value="&lt;!-- Set the theme of the Activity that directly follows your splash screen. --&gt; &lt;!-- Required --&gt;" />
-      <item value="&lt;!-- Required for animated icons --&gt;" />
-      <item value="&lt;!-- Use windowSplashScreenAnimatedIcon to add either a drawable or an animated drawable. One of these is required. --&gt;" />
-      <item value="&lt;!-- Set the splash screen background, animated icon, and animation duration. --&gt;" />
-      <item value="Content is not allowed in trailing section." />
-      <item value=": You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value=".IndexOutOfBoundsException: Index: 8, Size: 8" />
-      <item value="Inconsistency detected. Invalid view holder adapter positionCardBatchesViewHolder{54dcb32 position=5 id=-1, oldPos=4, pLpos:4 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{4ba4f12 VFED.V... ......I. 0,0-1080,1824 7f08006c app:idcardBatches_Reyclerview}, adapter:com.example.nfctools.adapter.CardBatchesAdapter@15756e3, layout:androidx.recyclerview.widget.LinearLayoutManager@53b58e0, context:com.example.nfctools.MainActivity@8768cf6" />
-      <item value="Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference" />
-      <item value="Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
-      <item value="Unable to resume activity {com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: java.lang.NullPointerException" />
-      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.activity.WriteCardActivity}: kotlin.UninitializedPropertyAccessException: lateinit property LoadingToken has not been initialized" />
-      <item value="kotlin.UninitializedPropertyAccessException: lateinit property activity has not been initialized" />
-      <item value="Condition 'nfcCardTools == null' is always 'false'" />
-      <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
-      <item value="NFC service dead - attempting to recover" />
-      <item value="A resource failed to call release." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="340" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656400356931" />
+    <option name="lastTrimTime" value="1658110072019" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
