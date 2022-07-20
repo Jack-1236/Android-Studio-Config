@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="aused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
+      <item value=": Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.nfctools.nfcutil.NfcWriteTools, unresolved supertypes: com.example.nfctools.nfcutil.NfcWrite Adding -Xextended-compiler-checks argument might provide additional information." />
       <item value="Invocation failed Unexpected end of file from server" />
       <item value="nvocation failed Unexpected end of file from server" />
       <item value="The expression cannot be a selector (occur after a dot)" />
@@ -53,13 +55,11 @@
       <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="Skipped 32 frames! The application may be doing too much work on its main thread." />
       <item value="java.lang.Integer cannot be cast to java.lang.String" />
-      <item value="lateinit property orderList has not been initialized" />
-      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="343" />
       </map>
     </option>
   </component>
