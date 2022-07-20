@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unchecked cast: MutableList&lt;T&gt; to MutableList&lt;CardModel&gt;" />
       <item value="Cannot access '&lt;init&gt;': it is internal in 'BaseViewHolde" />
       <item value="aused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
       <item value=": Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.nfctools.nfcutil.NfcWriteTools, unresolved supertypes: com.example.nfctools.nfcutil.NfcWrite Adding -Xextended-compiler-checks argument might provide additional information." />
@@ -54,12 +55,11 @@
       <item value="ifecycleOwner com.example.nfctools.main.activity.MainActivity@5ca9bdf is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Cannot format given Object (java.lang.String) as a Date" />
       <item value="have you declared this activity in your AndroidManifest.xml?" />
-      <item value="Skipped 32 frames! The application may be doing too much work on its main thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="345" />
       </map>
     </option>
   </component>
