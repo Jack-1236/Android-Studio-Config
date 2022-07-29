@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="'if' must have both main and 'else' branches if used as an expression" />
       <item value="Fragment already added" />
       <item value="Can't toast on a thread that has not called Looper.prepare()" />
       <item value="The specified Android SDK Build Tools version (24.0.3) is ignored, as it is below the minimum supported version (30.0.3) for Android Gradle Plugin 7.2.1. Android SDK Build Tools 30.0.3 will be used. To suppress this warning, remove &quot;buildToolsVersion '24.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
@@ -54,12 +55,11 @@
       <item value="this cast can never succee" />
       <item value="his cast can never succee" />
       <item value="The root of the Kotlin class hierarchy. Every Kotlin class has Any as a superclass." />
-      <item value="Candidate resolution will be changed soon, please use fully qualified name to invoke the following closer candidate explicitly: public open fun observe(owner: LifecycleOwner, observer: Observer&lt;in MutableList&lt;CardModel&gt;!&gt;): Unit defined in androidx.lifecycle.MutableLiveData 'observe(LifecycleOwner, crossinline (T) -&gt; Unit): Observer&lt;T&gt;' is deprecated. This extension method is not required when using Kotlin 1.4. You should remove &quot;import androidx.lifecycle.observe&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="357" />
       </map>
     </option>
   </component>
