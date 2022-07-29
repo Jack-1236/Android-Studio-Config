@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No direct method &lt;init&gt;(LandroidxpagingDifferCallback;LkotlinxcoroutinesCoroutineDispatcher;)V in class LandroidxpagingPagingDataDiffer; or its super classes (declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~5G2Jsf2ZtWunSnXDatJhew==com.example.nfctools-nCOrVIY03m6KAlDnmw7U7g==base.apk)" />
       <item value="Skipped 41 frames! The application may be doing too much work on its main thread." />
       <item value="color On Surface Variant" />
       <item value="color Surface" />
@@ -54,12 +55,11 @@
       <item value="WView: requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e532d3b V.ED..... ......ID 32,23-224,77} during layout: running second layout pass" />
       <item value="WActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@4bb2787" />
       <item value="Condition 'it.getSearchDialog()!=null' is always 'true'" />
-      <item value="lateinit property selectIF has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="363" />
       </map>
     </option>
   </component>
