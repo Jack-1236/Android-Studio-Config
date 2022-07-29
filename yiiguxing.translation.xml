@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ecom.example.nfctools.publicblanket.excepition.CrashHandlers: The same value, 0, was passed as the nextKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
       <item value="EditText added is not a TextInputEditText. Please switch to using that class instead. ITextInputLayout: EditText added is not a TextInputEditText. Please switch to using that class instead. IChoreographer: Skipped 34 frames! The application may be doing too much work on its main thread." />
       <item value="Not Loading" />
       <item value="No direct method &lt;init&gt;(LandroidxpagingDifferCallback;LkotlinxcoroutinesCoroutineDispatcher;)V in class LandroidxpagingPagingDataDiffer; or its super classes (declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~5G2Jsf2ZtWunSnXDatJhew==com.example.nfctools-nCOrVIY03m6KAlDnmw7U7g==base.apk)" />
@@ -54,12 +55,11 @@
       <item value=": Background concurrent copying GC freed 215666(9MB) AllocSpace objects, 1(20KB) LOS objects, 61% free, 7MB19MB, paused 206us total 120.286ms" />
       <item value="EditText added is not a TextInputEditText. Please switch to using that class instead." />
       <item value="Compiler allocated 4MB to compile void android.widget.TextView.&lt;init&gt;(android.content.Context, android.util.AttributeSet, int, int)" />
-      <item value="WView: requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e532d3b V.ED..... ......ID 32,23-224,77} during layout: running second layout pass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="366" />
       </map>
     </option>
   </component>
