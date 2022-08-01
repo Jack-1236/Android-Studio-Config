@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 134 path .created" />
       <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
       <item value="This class can only be used with the compiler argument '-opt-in=kotlin.RequiresOptIn" />
       <item value="Variable 'list' must be initialized" />
@@ -54,12 +55,11 @@
       <item value="StrictMode policy violation; ~duration=158 ms: android.os.strictmode.DiskReadViolation" />
       <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
       <item value="Animators may only be run on Looper threads" />
-      <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="371" />
       </map>
     </option>
   </component>
