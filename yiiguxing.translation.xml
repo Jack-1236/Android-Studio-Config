@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This class can only be used with the compiler argument '-opt-in=kotlin.RequiresOptIn" />
       <item value="Variable 'list' must be initialized" />
       <item value="initial Load Size" />
       <item value="Ecom.example.nfctools.publicblanket.excepition.CrashHandlers: The same value, 0, was passed as the nextKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
@@ -54,12 +55,11 @@
       <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
       <item value="Animators may only be run on Looper threads" />
       <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
-      <item value=": Background concurrent copying GC freed 215666(9MB) AllocSpace objects, 1(20KB) LOS objects, 61% free, 7MB19MB, paused 206us total 120.286ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="369" />
       </map>
     </option>
   </component>
