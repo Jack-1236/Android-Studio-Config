@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fragment MainFragment{733c812} (e242831b-4c50-4e96-8e98-d499f598ffb4 id=0x7f080081) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="No Activity found to handle Intent { act=android.intent.action.OPEN_DOCUMENT_TREE cat=[android.intent.category.OPENABLE] }" />
       <item value="Invocation failed Unexpected end of file from server" />
       <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 134 path .created" />
       <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
@@ -53,13 +55,11 @@
       <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
       <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
       <item value="StrictMode policy violation; ~duration=158 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="Animators may only be run on Looper threads" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="374" />
       </map>
     </option>
   </component>
