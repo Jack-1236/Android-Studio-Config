@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A WebView method was called on thread 'DefaultDispatcher-worker-1'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 2) {ecd5005} called on null, FYI main Looper is Looper (main, tid 2) {ecd5005})" />
+      <item value="8com.example.mywebview Ichromium: [INFO:CONSOLE(17)] &quot;Uncaught TypeError: Cannot set property 'innerHTML' of null&quot;, source: (17)" />
       <item value="database is locked (code 5 SQLITE_BUSY)" />
       <item value="The database 'datauser0com.example.nfctoolsdatabasesLogError.db' is not open." />
       <item value="Cannot perform this operation because the connection pool has been closed." />
@@ -53,13 +55,11 @@
       <item value="Accessing hidden method Lcom" />
       <item value="Flattened final assist data: 2056 bytes, containing 1 windows, 14 views" />
       <item value="Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
-      <item value="is in boot class path but is not in a known location" />
-      <item value="Wre-initialized&gt;: type=1400 audit(0.0:171177): avc: granted { execute } for path=&quot;datadatacom.example.nfctoolscode_cachestartup_agents4cead168-agent.so&quot; dev=&quot;dm-10&quot; ino=2601883 scontext=u:r:untrusted_app:s0:c236,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c236,c257,c512,c768 tclass=file app=com.example.nfctools" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="381" />
       </map>
     </option>
   </component>
