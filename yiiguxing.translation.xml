@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handle query method's return type (java.lang.Object). DELETE query methods must either return void or int (the number of deleted rows). public abstract java.lang.Object clearAll(@org.jetbrains.annotations.NotNull()" />
+      <item value="Manifest merger failed : android:exported needs to be explicitly specified for element &lt;activitycom.metinozcura.rickandmorty.ui.main.MainActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
       <item value="Fragment MainFragment{733c812} (e242831b-4c50-4e96-8e98-d499f598ffb4 id=0x7f080081) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="No Activity found to handle Intent { act=android.intent.action.OPEN_DOCUMENT_TREE cat=[android.intent.category.OPENABLE] }" />
       <item value="Invocation failed Unexpected end of file from server" />
@@ -53,13 +55,11 @@
       <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
       <item value="~duration=211 ms: android.os.strictmode.DiskReadViolation" />
       <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
-      <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
-      <item value="StrictMode policy violation; ~duration=158 ms: android.os.strictmode.DiskReadViolation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="376" />
       </map>
     </option>
   </component>
