@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="lateinit property webViewUtil has not been initialized" />
+      <item value="Frame time is 0.15710899 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="Uncaught TypeError: window.Android.Test is not a function" />
+      <item value="Uncaught TypeError: Cannot set property 'innerHTML' of null" />
+      <item value="&quot;Uncaught TypeError: Cannot set property" />
+      <item value="Uncaught SyntaxError: Unexpected token" />
+      <item value="ncaught ReferenceError: HelloWord is not defined" />
+      <item value="A WebView method was called on thread 'DefaultDispatcher-worker-1'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 2) {ecd5005} called on null, FYI main Looper is Looper (main, tid 2) {ecd5005})" />
+      <item value="8com.example.mywebview Ichromium: [INFO:CONSOLE(17)] &quot;Uncaught TypeError: Cannot set property 'innerHTML' of null&quot;, source: (17)" />
+      <item value="database is locked (code 5 SQLITE_BUSY)" />
+      <item value="The database 'datauser0com.example.nfctoolsdatabasesLogError.db' is not open." />
+      <item value="Cannot perform this operation because the connection pool has been closed." />
+      <item value="handle query method's return type (java.lang.Object). DELETE query methods must either return void or int (the number of deleted rows). public abstract java.lang.Object clearAll(@org.jetbrains.annotations.NotNull()" />
+      <item value="Manifest merger failed : android:exported needs to be explicitly specified for element &lt;activitycom.metinozcura.rickandmorty.ui.main.MainActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
+      <item value="Fragment MainFragment{733c812} (e242831b-4c50-4e96-8e98-d499f598ffb4 id=0x7f080081) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="No Activity found to handle Intent { act=android.intent.action.OPEN_DOCUMENT_TREE cat=[android.intent.category.OPENABLE] }" />
+      <item value="Invocation failed Unexpected end of file from server" />
+      <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 134 path .created" />
+      <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
+      <item value="This class can only be used with the compiler argument '-opt-in=kotlin.RequiresOptIn" />
+      <item value="Variable 'list' must be initialized" />
       <item value="initial Load Size" />
       <item value="Ecom.example.nfctools.publicblanket.excepition.CrashHandlers: The same value, 0, was passed as the nextKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
       <item value="EditText added is not a TextInputEditText. Please switch to using that class instead. ITextInputLayout: EditText added is not a TextInputEditText. Please switch to using that class instead. IChoreographer: Skipped 34 frames! The application may be doing too much work on its main thread." />
@@ -28,43 +49,22 @@
       <item value="Cannot access '&lt;init&gt;': it is internal in 'BaseViewHolde" />
       <item value="aused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
       <item value=": Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.nfctools.nfcutil.NfcWriteTools, unresolved supertypes: com.example.nfctools.nfcutil.NfcWrite Adding -Xextended-compiler-checks argument might provide additional information." />
-      <item value="Invocation failed Unexpected end of file from server" />
       <item value="nvocation failed Unexpected end of file from server" />
       <item value="The expression cannot be a selector (occur after a dot)" />
       <item value="Got a deoptimization request" />
       <item value="A resource failed to call release." />
-      <item value="Skipped 31 frames! The application may be doing too much work on its main thread." />
       <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
       <item value="No field mLock in class LcomandroidinternalviewIInputContextStub; (declaration of 'com.android.internal.view.IInputContextStub' appears in systemframeworkframework.jar!classes4.dex)" />
-      <item value=": Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
-      <item value="A resource failed to call close." />
-      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
-      <item value="requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e969839 V.ED..... ......ID 48,47-284,102} during layout: running second layout pass" />
-      <item value="Accessing hidden method Lcom" />
-      <item value="Flattened final assist data: 2056 bytes, containing 1 windows, 14 views" />
-      <item value="Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
-      <item value="is in boot class path but is not in a known location" />
-      <item value="Wre-initialized&gt;: type=1400 audit(0.0:171177): avc: granted { execute } for path=&quot;datadatacom.example.nfctoolscode_cachestartup_agents4cead168-agent.so&quot; dev=&quot;dm-10&quot; ino=2601883 scontext=u:r:untrusted_app:s0:c236,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c236,c257,c512,c768 tclass=file app=com.example.nfctools" />
-      <item value="Redefining intrinsic method java.lang.Thread java.lang.Thread.currentThread(). This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
-      <item value="~duration=211 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="Binder ioctl to enable oneway spam detection failed: Invalid argument" />
-      <item value="android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: close" />
-      <item value="StrictMode policy violation; ~duration=158 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="StrictMode policy violation; ~duration=201 ms: android.os.strictmode.DiskReadViolation" />
-      <item value="Animators may only be run on Looper threads" />
-      <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed) WSystem: A resource failed to call close." />
-      <item value=": Background concurrent copying GC freed 215666(9MB) AllocSpace objects, 1(20KB) LOS objects, 61% free, 7MB19MB, paused 206us total 120.286ms" />
-      <item value="EditText added is not a TextInputEditText. Please switch to using that class instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="389" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658804560473" />
+    <option name="lastTrimTime" value="1659320577621" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
