@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Frame time is 0.15710899 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="Uncaught TypeError: window.Android.Test is not a function" />
       <item value="Uncaught TypeError: Cannot set property 'innerHTML' of null" />
       <item value="&quot;Uncaught TypeError: Cannot set property" />
@@ -54,12 +55,11 @@
       <item value="Skipped 39 frames! The application may be doing too much work on its main thread." />
       <item value="No field mLock in class LcomandroidinternalviewIInputContextStub; (declaration of 'com.android.internal.view.IInputContextStub' appears in systemframeworkframework.jar!classes4.dex)" />
       <item value=": Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
-      <item value="A resource failed to call close." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="387" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="388" />
       </map>
     </option>
   </component>
