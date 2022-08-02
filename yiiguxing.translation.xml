@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Uncaught TypeError: Cannot set property 'innerHTML' of null" />
+      <item value="&quot;Uncaught TypeError: Cannot set property" />
       <item value="Uncaught SyntaxError: Unexpected token" />
       <item value="ncaught ReferenceError: HelloWord is not defined" />
       <item value="A WebView method was called on thread 'DefaultDispatcher-worker-1'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 2) {ecd5005} called on null, FYI main Looper is Looper (main, tid 2) {ecd5005})" />
@@ -53,13 +55,11 @@
       <item value=": Studio Profilers encountered an unexpected error. Consider reporting a bug, including logcat output below." />
       <item value="A resource failed to call close." />
       <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
-      <item value="requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e969839 V.ED..... ......ID 48,47-284,102} during layout: running second layout pass" />
-      <item value="Accessing hidden method Lcom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="386" />
       </map>
     </option>
   </component>
