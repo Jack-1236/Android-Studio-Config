@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Uncaught SyntaxError: Unexpected token" />
+      <item value="ncaught ReferenceError: HelloWord is not defined" />
       <item value="A WebView method was called on thread 'DefaultDispatcher-worker-1'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 2) {ecd5005} called on null, FYI main Looper is Looper (main, tid 2) {ecd5005})" />
       <item value="8com.example.mywebview Ichromium: [INFO:CONSOLE(17)] &quot;Uncaught TypeError: Cannot set property 'innerHTML' of null&quot;, source: (17)" />
       <item value="database is locked (code 5 SQLITE_BUSY)" />
@@ -53,13 +55,11 @@
       <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="requestLayout() improperly called by androidx.appcompat.widget.AppCompatTextView{e969839 V.ED..... ......ID 48,47-284,102} during layout: running second layout pass" />
       <item value="Accessing hidden method Lcom" />
-      <item value="Flattened final assist data: 2056 bytes, containing 1 windows, 14 views" />
-      <item value="Redefining intrinsic method boolean java.lang.Thread.interrupted(). This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="384" />
       </map>
     </option>
   </component>
