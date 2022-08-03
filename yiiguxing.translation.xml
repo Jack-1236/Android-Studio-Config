@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="One type argument expected for class Task&lt;TResult : Any!" />
       <item value="A resource failed to call close." />
       <item value="Requires BLUETOOTH permission" />
       <item value="[ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -101" />
@@ -54,12 +55,11 @@
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 33 This Android Gradle plugin (7.2.1) was tested up to compileSdk = 32 This warning can be suppressed by adding android.suppressUnsupportedCompileSdk=33 to this project's gradle.properties The build will continue, but you are strongly encouraged to update your project to use a newer Android Gradle Plugin that has been tested with compileSdk = 33" />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 33 This Android Gradle plugin (7.2.0) was tested up to compileSdk = 32 This warning can be suppressed by adding android.suppressUnsupportedCompileSdk=33 to this project's gradle.properties The build will continue, but you are strongly encouraged to update your project to use a newer Android Gradle Plugin that has been tested with compileSdk = 33" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.nfctools.nfcutil.NfcWriteTools, unresolved supertypes: com.example.nfctools.nfcutil.NfcWrite Adding -Xextended-compiler-checks argument might provide additional information." />
-      <item value="Caused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="402" />
       </map>
     </option>
   </component>
