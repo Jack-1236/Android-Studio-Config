@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -101" />
       <item value="Unable to start activity ComponentInfo{com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3932)" />
       <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="Unable to create JsDialog without an Activity" />
@@ -54,12 +55,11 @@
       <item value="Caused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
       <item value="Attempt to invoke virtual method 'void android.widget.ImageView.setImageDrawable(android.graphics.drawable.Drawable)' on a null object reference" />
       <item value="true: conn is already closed on readError closeConn socketEngineID: 1 socket hashcode: 0java.lang.Throwable" />
-      <item value="Unchecked cast: MutableList&lt;T&gt; to MutableList&lt;CardModel&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="399" />
       </map>
     </option>
   </component>
