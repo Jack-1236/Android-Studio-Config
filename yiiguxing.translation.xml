@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="take photo" />
+      <item value="start capture" />
       <item value="Execution failed for task ':app:dataBindingMergeDependencyArtifactsDebug'. &gt; Could not resolve all files for configuration ':app:debugCompileClasspath'. &gt; Could not find cn.yipianfengye.android:zxing-library:2.2." />
       <item value="Unable to destroy activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
       <item value="Unable to pause activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
@@ -53,13 +55,11 @@
       <item value="No direct method &lt;init&gt;(LandroidxpagingDifferCallback;LkotlinxcoroutinesCoroutineDispatcher;)V in class LandroidxpagingPagingDataDiffer; or its super classes (declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~5G2Jsf2ZtWunSnXDatJhew==com.example.nfctools-nCOrVIY03m6KAlDnmw7U7g==base.apk)" />
       <item value="Skipped 41 frames! The application may be doing too much work on its main thread." />
       <item value="color On Surface Variant" />
-      <item value="color Surface" />
-      <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.main.activity.MainActivity}: java.lang.NullPointerException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="412" />
       </map>
     </option>
   </component>
