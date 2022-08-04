@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Execution failed for task ':app:dataBindingMergeDependencyArtifactsDebug'. &gt; Could not resolve all files for configuration ':app:debugCompileClasspath'. &gt; Could not find cn.yipianfengye.android:zxing-library:2.2." />
       <item value="Unable to destroy activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
       <item value="Unable to pause activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
       <item value=": Application attempted to call on a destroyed WebView" />
@@ -54,12 +55,11 @@
       <item value="color On Surface Variant" />
       <item value="color Surface" />
       <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.main.activity.MainActivity}: java.lang.NullPointerException" />
-      <item value="'if' must have both main and 'else' branches if used as an expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="410" />
       </map>
     </option>
   </component>
