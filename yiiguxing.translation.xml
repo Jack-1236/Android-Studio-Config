@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Set the desired barcode formats to scan. Params: desiredBarcodeFormats – names of BarcodeFormats to scan for Returns:" />
       <item value="set Orientation Locked" />
       <item value="set Barcode Image Enabled" />
       <item value="set Beep Enabled" />
@@ -54,12 +55,11 @@
       <item value="Fragment MainFragment{733c812} (e242831b-4c50-4e96-8e98-d499f598ffb4 id=0x7f080081) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="No Activity found to handle Intent { act=android.intent.action.OPEN_DOCUMENT_TREE cat=[android.intent.category.OPENABLE] }" />
       <item value="Invocation failed Unexpected end of file from server" />
-      <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 134 path .created" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="424" />
       </map>
     </option>
   </component>
