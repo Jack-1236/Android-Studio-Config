@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to pause activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
+      <item value=": Application attempted to call on a destroyed WebView" />
       <item value="SocketReaderNewtrue: socketEngine: 1socket hashCode: 0SocketReader(430) errorjava.net.SocketException: Socket is closed" />
       <item value="Variable 'result' is never used" />
       <item value="Task is not yet complete" />
@@ -53,13 +55,11 @@
       <item value="Unable to start activity ComponentInfo{com.example.nfctoolscom.example.nfctools.main.activity.MainActivity}: java.lang.NullPointerException" />
       <item value="'if' must have both main and 'else' branches if used as an expression" />
       <item value="Fragment already added" />
-      <item value="Can't toast on a thread that has not called Looper.prepare()" />
-      <item value="The specified Android SDK Build Tools version (24.0.3) is ignored, as it is below the minimum supported version (30.0.3) for Android Gradle Plugin 7.2.1. Android SDK Build Tools 30.0.3 will be used. To suppress this warning, remove &quot;buildToolsVersion '24.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="407" />
       </map>
     </option>
   </component>
