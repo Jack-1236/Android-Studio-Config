@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="stop Camera" />
+      <item value="is Torch Enabled" />
+      <item value="set Vibrate" />
+      <item value="set Play Beep" />
+      <item value="set Dark Light Lux" />
+      <item value="Handle these events so they don't launch the Camera app" />
+      <item value="KEYCODE VOLUME UP:" />
+      <item value="Use volume updown to turn on light" />
+      <item value=": Closing camera" />
+      <item value="Shutting down VM" />
+      <item value="Camera is closed, not requesting preview" />
+      <item value="set Beep Enabled" />
+      <item value="set Barcode Image Enabled" />
+      <item value="set Prompt" />
+      <item value="set Torch Enabled" />
+      <item value="set Orientation Locked" />
+      <item value="set Camera Settings" />
       <item value="Override to use a different layout. Returns: the DecoratedBarcodeView" />
       <item value="outline Ambient Shadow Color" />
       <item value="Set to true to enable initial torch Params: enabled – true to enable initial torch Returns: this" />
@@ -16,12 +33,8 @@
       <item value="e the specified camera ID. Params: cameraId – camera ID of the camera to use. A negative value means &quot;no preference&quot;. Returns: this" />
       <item value="By default, the orientation is locked. Set to false to not lock. Params: locked – true to lock orientation" />
       <item value="Set a prompt to display on the capture screen, instead of using the default. Params: prompt – the prompt to display" />
-      <item value="set Prompt" />
-      <item value="set Beep Enabled" />
       <item value="Use the specified camera ID. @param cameraId camera ID of the camera to use. A negative value means &quot;no preference&quot;. @return this" />
       <item value="Set the desired barcode formats to scan. Params: desiredBarcodeFormats – names of BarcodeFormats to scan for Returns:" />
-      <item value="set Orientation Locked" />
-      <item value="set Barcode Image Enabled" />
       <item value="Forward results to EasyPermissions" />
       <item value="Android resource linking failed com.example.mywebview.app-mergeDebugResources-4:layoutactivity_zxing2.xml:19: error: attribute zxing_frame_color (aka com.example.mywebview:zxing_frame_color) not found. error: failed linking file resources." />
       <item value="Attribute &quot;xmlns:android&quot; was already specified for element &quot;FrameLayout&quot;." />
@@ -42,24 +55,11 @@
       <item value="A resource failed to call close." />
       <item value="Requires BLUETOOTH permission" />
       <item value="[ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -101" />
-      <item value="Unable to start activity ComponentInfo{com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3932)" />
-      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
-      <item value="Unable to create JsDialog without an Activity" />
-      <item value="nable to create JsDialog without an Activity" />
-      <item value="WRITE_EXTERNAL_STORAGE no longer provides write access when targeting Android 10" />
-      <item value="Failure delivering result ResultInfo{who=null, request=1920908524, result=0, data=null} to activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
-      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="Execution failed for task ':app:compileDebugKotlin'. &gt; Compilation error. See log for more details" />
-      <item value="This version (1.1.0-beta01) of the Compose Compiler requires Kotlin version 1.5.31 but you appear to be using Kotlin version 1.6.10 which is not known to be compatible. Please fix your configuration (or `suppressKotlinVersionCompatibilityCheck` but don't say I didn't warn you!)." />
-      <item value="lateinit property webViewUtil has not been initialized" />
-      <item value="Frame time is 0.15710899 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
-      <item value="Uncaught TypeError: window.Android.Test is not a function" />
-      <item value="Uncaught TypeError: Cannot set property 'innerHTML' of null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="460" />
       </map>
     </option>
   </component>
