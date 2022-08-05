@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A problem occurred evaluating project ':zxing-lite'. &gt; Plugin with id 'com.vanniktech.maven.publish' not found." />
+      <item value="A camera on the device facing the same direction as the device's screen." />
+      <item value="A camera on the device facing the opposite direction as the device's screen." />
+      <item value="A static CameraSelector that selects the default front facing camera." />
+      <item value="camera on the device facing the same direction as the device's screen." />
+      <item value="Process Camera Provider" />
+      <item value="start Focus And Metering" />
       <item value="stop Camera" />
       <item value="is Torch Enabled" />
       <item value="set Vibrate" />
@@ -48,18 +55,11 @@
       <item value="Unable to destroy activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
       <item value="Unable to pause activity {com.example.mywebviewcom.example.mywebview.MainActivity}: java.lang.NullPointerException" />
       <item value=": Application attempted to call on a destroyed WebView" />
-      <item value="SocketReaderNewtrue: socketEngine: 1socket hashCode: 0SocketReader(430) errorjava.net.SocketException: Socket is closed" />
-      <item value="Variable 'result' is never used" />
-      <item value="Task is not yet complete" />
-      <item value="One type argument expected for class Task&lt;TResult : Any!" />
-      <item value="A resource failed to call close." />
-      <item value="Requires BLUETOOTH permission" />
-      <item value="[ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -101" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="469" />
       </map>
     </option>
   </component>
