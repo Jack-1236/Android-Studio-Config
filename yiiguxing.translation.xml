@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Override to use a different layout. Returns: the DecoratedBarcodeView" />
       <item value="outline Ambient Shadow Color" />
       <item value="Set to true to enable initial torch Params: enabled – true to enable initial torch Returns: this" />
       <item value="eate an scan intent with the specified options. Returns: the intent" />
@@ -54,12 +55,11 @@
       <item value="Frame time is 0.15710899 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="Uncaught TypeError: window.Android.Test is not a function" />
       <item value="Uncaught TypeError: Cannot set property 'innerHTML' of null" />
-      <item value="&quot;Uncaught TypeError: Cannot set property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="441" />
       </map>
     </option>
   </component>
