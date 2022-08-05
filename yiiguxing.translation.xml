@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="canonical File" />
       <item value="! The application may be doing too much work on its main thread." />
       <item value="queueBuffer: BufferQueue has been abandoned" />
       <item value="CameraX is not configured properly. The most likely cause is you did not include a default implementation in your build such as 'camera-camera2'." />
@@ -54,12 +55,11 @@
       <item value="Set a prompt to display on the capture screen, instead of using the default. Params: prompt – the prompt to display" />
       <item value="Use the specified camera ID. @param cameraId camera ID of the camera to use. A negative value means &quot;no preference&quot;. @return this" />
       <item value="Set the desired barcode formats to scan. Params: desiredBarcodeFormats – names of BarcodeFormats to scan for Returns:" />
-      <item value="Forward results to EasyPermissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="480" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="483" />
       </map>
     </option>
   </component>
