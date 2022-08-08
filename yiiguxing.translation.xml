@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="WebView cannot be initialized on a thread that has no Looper." />
+      <item value="Platform declaration clash: The following declarations have the same JVM signature (getScope()LkotlinxcoroutinesCoroutineScope;): private final fun &lt;get-scope&gt;(): CoroutineScope defined in com.example.baseandroidaar.baseactivity.BaseActivity public final fun getScope(): CoroutineScope defined in com.example.baseandroidaar.baseactivity.BaseActivity" />
       <item value="Compilation failed; see the compiler error output for details." />
       <item value="Unable to start activity ComponentInfo{com.example.mywebviewcom.example.mywebview.MainActivity}: kotlin.UninitializedPropertyAccessException: lateinit property binding has not been initialized" />
       <item value="Skipped 36 frames! The application may be doing too much work on its main thread." />
@@ -53,13 +55,11 @@
       <item value="Set to true to enable initial torch Params: enabled – true to enable initial torch Returns: this" />
       <item value="eate an scan intent with the specified options. Returns: the intent" />
       <item value="et the desired barcode formats to scan. Params: desiredBarcodeFormats – names of BarcodeFormats to scan for Returns: this" />
-      <item value="Set the desired barcode formats to scan. Params: desiredBarcodeFormats – names of BarcodeFormats to scan for Returns: this" />
-      <item value="Set to true to enable saving the barcode image and sending its path in the result Intent. Params: enabled – true to enable barcode image Returns: this" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="492" />
       </map>
     </option>
   </component>
