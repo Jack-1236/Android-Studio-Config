@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No such file or directory (2) Echromium: [ERROR:simple_index_file.cc(617)] Could not reconstruct index from disk" />
       <item value="Only one class may appear in a supertype list" />
       <item value="This type has a constructor, and thus must be initialized here" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
@@ -54,12 +55,11 @@
       <item value="set Orientation Locked" />
       <item value="set Camera Settings" />
       <item value="Override to use a different layout. Returns: the DecoratedBarcodeView" />
-      <item value="outline Ambient Shadow Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="496" />
       </map>
     </option>
   </component>
