@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:debugCompileClasspath'." />
       <item value="BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand. Releasing leaked death recipient: com.google.android.play.core.appupdate.internal.zzp" />
       <item value="Returns an intent object that you use to check for an update." />
       <item value="Checks that the platform will allow the specified type of update." />
@@ -54,12 +55,11 @@
       <item value="Process Camera Provider" />
       <item value="start Focus And Metering" />
       <item value="stop Camera" />
-      <item value="is Torch Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="516" />
       </map>
     </option>
   </component>
