@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plugin id 'com.google.gms:google-services' is invalid: Plugin id contains invalid char ':' (only ASCII alphanumeric characters, '.', '_' and '-' characters are valid)" />
+      <item value="&gt; plugin id 'com.google.gms:google-services' is invalid: Plugin id contains invalid char ':' (only ASCII alphanumeric characters, '.', '_' and '-' characters are valid)" />
       <item value="BufferQueue has been abandoned" />
       <item value="Exception dispatching finished signal for seq=3" />
       <item value="No such file or directory (2) Echromium: [ERROR:simple_index_file.cc(617)] Could not reconstruct index from disk" />
@@ -53,13 +55,11 @@
       <item value="set Beep Enabled" />
       <item value="set Barcode Image Enabled" />
       <item value="set Prompt" />
-      <item value="set Torch Enabled" />
-      <item value="set Orientation Locked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="502" />
       </map>
     </option>
   </component>
