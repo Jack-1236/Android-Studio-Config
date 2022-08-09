@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Inactivity, disconnecting from the service" />
+      <item value="activity, disconnecting from the service" />
       <item value="File google-services.json is missing. The Google Services Plugin cannot function without it. Searched Location:" />
       <item value="plugin id 'com.google.gms:google-services' is invalid: Plugin id contains invalid char ':' (only ASCII alphanumeric characters, '.', '_' and '-' characters are valid)" />
       <item value="&gt; plugin id 'com.google.gms:google-services' is invalid: Plugin id contains invalid char ':' (only ASCII alphanumeric characters, '.', '_' and '-' characters are valid)" />
@@ -53,13 +55,11 @@
       <item value=": Closing camera" />
       <item value="Shutting down VM" />
       <item value="Camera is closed, not requesting preview" />
-      <item value="set Beep Enabled" />
-      <item value="set Barcode Image Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="505" />
       </map>
     </option>
   </component>
