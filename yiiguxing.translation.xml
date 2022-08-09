@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand. Releasing leaked death recipient: com.google.android.play.core.appupdate.internal.zzp" />
+      <item value="Returns an intent object that you use to check for an update." />
+      <item value="Checks that the platform will allow the specified type of update." />
+      <item value="Request the update." />
+      <item value="This example applies an immediate update. To apply a flexible update instead, pass in AppUpdateType.FLEXIBLE" />
       <item value="start called in state 0, mPlayer(0x0" />
       <item value="Event not sent since app measurement is disabled" />
       <item value="requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
@@ -50,16 +55,11 @@
       <item value="start Focus And Metering" />
       <item value="stop Camera" />
       <item value="is Torch Enabled" />
-      <item value="set Vibrate" />
-      <item value="set Play Beep" />
-      <item value="set Dark Light Lux" />
-      <item value="Handle these events so they don't launch the Camera app" />
-      <item value="KEYCODE VOLUME UP:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="515" />
       </map>
     </option>
   </component>
