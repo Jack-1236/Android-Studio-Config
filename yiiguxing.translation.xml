@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="please make sure you have permission to create file or directory on the path: Download" />
+      <item value="fileDownloCreate parent directory failed, please make sure you have permission to create file or directory on the path: storageemulated0miniVideo" />
+      <item value="Please invoke the 'FileDownloadersetup' before using FileDownloader. If you want to register some components on FileDownloader please invoke the 'FileDownloadersetupOnApplicationOnCreate' on the 'ApplicationonCreate' first." />
+      <item value="before using FileDownloader. If you want to register some components on FileDownloader please invoke the" />
+      <item value="Params: minIntervalUpdateSpeedMs – The minimum interval millisecond for updating the downloading speed in downloading process(Status equal to progress). Default: 5 ms. If the value is less than or equal to 0, will not calculate the download speed in process." />
+      <item value="total Bytes" />
+      <item value="so Far Bytes" />
       <item value="Error receiving broadcast Intent" />
       <item value="register receiver for when .apk download is compete register receiver for when .apk download is compete" />
       <item value="exposed beyond app through Intent.getData()" />
@@ -48,18 +55,11 @@
       <item value="Platform declaration clash: The following declarations have the same JVM signature (getScope()LkotlinxcoroutinesCoroutineScope;): private final fun &lt;get-scope&gt;(): CoroutineScope defined in com.example.baseandroidaar.baseactivity.BaseActivity public final fun getScope(): CoroutineScope defined in com.example.baseandroidaar.baseactivity.BaseActivity" />
       <item value="Compilation failed; see the compiler error output for details." />
       <item value="Unable to start activity ComponentInfo{com.example.mywebviewcom.example.mywebview.MainActivity}: kotlin.UninitializedPropertyAccessException: lateinit property binding has not been initialized" />
-      <item value="Skipped 36 frames! The application may be doing too much work on its main thread." />
-      <item value="Save File Error:Stream Closed" />
-      <item value="Variable 'fileOutputStream' must be initialized" />
-      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
-      <item value="canonical File" />
-      <item value="! The application may be doing too much work on its main thread." />
-      <item value="queueBuffer: BufferQueue has been abandoned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="545" />
       </map>
     </option>
   </component>
