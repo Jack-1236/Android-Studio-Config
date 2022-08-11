@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="an't find its directory VFA: Inactivity, disconnecting from the service" />
-      <item value="provided mPath[Download] is invalid, can't find its directory VMediaPlayerNative: message received msg=211, ext1=0, ext2=0" />
-      <item value="can't find its directory VFA: Inactivity, disconnecting from the service" />
-      <item value="please make sure you have permission to create file or directory on the path: Download" />
-      <item value="fileDownloCreate parent directory failed, please make sure you have permission to create file or directory on the path: storageemulated0miniVideo" />
-      <item value="Please invoke the 'FileDownloadersetup' before using FileDownloader. If you want to register some components on FileDownloader please invoke the 'FileDownloadersetupOnApplicationOnCreate' on the 'ApplicationonCreate' first." />
-      <item value="before using FileDownloader. If you want to register some components on FileDownloader please invoke the" />
-      <item value="Params: minIntervalUpdateSpeedMs – The minimum interval millisecond for updating the downloading speed in downloading process(Status equal to progress). Default: 5 ms. If the value is less than or equal to 0, will not calculate the download speed in process." />
-      <item value="total Bytes" />
-      <item value="so Far Bytes" />
-      <item value="Error receiving broadcast Intent" />
-      <item value="register receiver for when .apk download is compete register receiver for when .apk download is compete" />
-      <item value="exposed beyond app through Intent.getData()" />
-      <item value="Frame time is 0.08698 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
-      <item value="Not one of standard directories: download" />
-      <item value="Inactivity, disconnecting from the service" />
-      <item value="baseUrl must end in" />
-      <item value="Too many arguments for public open fun source(): BufferedSource defined in com.example.tekweldmachinemonitoring.main.download.DownLoadResponseBody" />
-      <item value="Cannot use 'DATA' as reified type parameter. Use a class instead." />
-      <item value="Platform declaration clash: The following declarations have the same JVM signature (getDataModel(" />
-      <item value="android.hardware.display.DisplayManager cannot be cast to android.app.DownloadManager" />
-      <item value="Uncaught Error: Java exception was raised during method invocation" />
-      <item value="Skipped 46 frames! The application may be doing too much work on its main thread." />
-      <item value="VISIBILITY VISIBLE NOTIFY ONLY COMPLETION" />
-      <item value="VISIBILITY VISIBLE NOTIFY COMPLETED" />
-      <item value="VISIBILITY HIDDEN" />
-      <item value="NETWORK MOBILE" />
-      <item value="NETWORK WIFI" />
-      <item value="VISIBILITY VISIBLE" />
-      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:debugCompileClasspath'." />
-      <item value="BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand. Releasing leaked death recipient: com.google.android.play.core.appupdate.internal.zzp" />
-      <item value="Returns an intent object that you use to check for an update." />
-      <item value="Checks that the platform will allow the specified type of update." />
-      <item value="Request the update." />
-      <item value="This example applies an immediate update. To apply a flexible update instead, pass in AppUpdateType.FLEXIBLE" />
-      <item value="start called in state 0, mPlayer(0x0" />
-      <item value="Event not sent since app measurement is disabled" />
-      <item value="requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
-      <item value="com.example.tekweldmachinemonitoring: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
-      <item value="activity, disconnecting from the service" />
-      <item value="File google-services.json is missing. The Google Services Plugin cannot function without it. Searched Location:" />
-      <item value="plugin id 'com.google.gms:google-services' is invalid: Plugin id contains invalid char ':' (only ASCII alphanumeric characters, '.', '_' and '-' characters are valid)" />
-      <item value="&gt; plugin id 'com.google.gms:google-services' is invalid: Plugin id contains invalid char ':' (only ASCII alphanumeric characters, '.', '_' and '-' characters are valid)" />
-      <item value="BufferQueue has been abandoned" />
-      <item value="Exception dispatching finished signal for seq=3" />
-      <item value="No such file or directory (2) Echromium: [ERROR:simple_index_file.cc(617)] Could not reconstruct index from disk" />
-      <item value="Only one class may appear in a supertype list" />
-      <item value="This type has a constructor, and thus must be initialized here" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="WebView cannot be initialized on a thread that has no Looper." />
+      <item value="refresh Drawable State" />
+      <item value="MENU ITEM PROCESS TEXT" />
+      <item value="MENU ITEM NONE" />
+      <item value="LOAD NO CACHE" />
+      <item value="FORCE DARK AUTO" />
+      <item value="set Support Zoom" />
+      <item value="set Media Playback Requires User Gesture" />
+      <item value="set Display Zoom Controls" />
+      <item value="set Allow Content Access" />
+      <item value="set Load With Overview Mode" />
+      <item value="set Enable Smooth Transition" />
+      <item value="set Save Form Data" />
+      <item value="set Save Password" />
+      <item value="get Save Password" />
+      <item value="set Light Touch Enabled" />
+      <item value="set Use Wide View Port" />
+      <item value="set Support Multiple Windows" />
+      <item value="TEXT AUTOSIZING" />
+      <item value="NARROW COLUMNS" />
+      <item value="SINGLE COLUMN" />
+      <item value="NORMAL" />
+      <item value="set Layout Algorithm" />
+      <item value="set Minimum Font Size" />
+      <item value="set Minimum Logical Font Size" />
+      <item value="set Default Fixed Font Size" />
+      <item value="set Loads Images Automatically" />
+      <item value="set Block Network Image" />
+      <item value="get Block Network Image" />
+      <item value="set Java Script Enabled" />
+      <item value="set Allow Universal Access From File UR Ls" />
+      <item value="set Allow File Access From File UR Ls" />
+      <item value="ON" />
+      <item value="OFF" />
+      <item value="ON DEMAND" />
+      <item value="media Playback Requires User Gesture" />
+      <item value="set Plugin State" />
+      <item value="set Database Path" />
+      <item value="set App Cache Enabled" />
+      <item value="set App Cache Max Size" />
+      <item value="set Database Enabled" />
+      <item value="set Dom Storage Enabled" />
+      <item value="set Geolocation Enabled" />
+      <item value="get Java Script Can Open Windows Automatically" />
+      <item value="set Default Text Encoding Name" />
+      <item value="set User Agent String" />
+      <item value="get Default User Agent" />
+      <item value="set Need Initial Focus" />
+      <item value="LOW" />
+      <item value="HIGH" />
+      <item value="set Render Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="649" />
       </map>
     </option>
   </component>
