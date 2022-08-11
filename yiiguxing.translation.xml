@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ACTION DOWN" />
+      <item value="ACTION CANCEL" />
+      <item value="ACTION BUTTON PRESS" />
+      <item value="ACTION BUTTON RELEASE" />
+      <item value="ACTION HOVER MOVE" />
+      <item value="ACTION HOVER ENTER" />
+      <item value="ACTION HOVER EXIT" />
+      <item value="ACTION MASK" />
+      <item value="ACTION OUTSIDE" />
       <item value="ParseError at [row,col]:[8,33] Message: http:www.w3.orgTR1999REC-xml-names-19990114AttributePrefixUnbound?item&amp;app:showAsAction&amp;app). Check logs for more details" />
       <item value="refresh Drawable State" />
       <item value="MENU ITEM PROCESS TEXT" />
@@ -46,20 +55,11 @@
       <item value="set App Cache Enabled" />
       <item value="set App Cache Max Size" />
       <item value="set Database Enabled" />
-      <item value="set Dom Storage Enabled" />
-      <item value="set Geolocation Enabled" />
-      <item value="get Java Script Can Open Windows Automatically" />
-      <item value="set Default Text Encoding Name" />
-      <item value="set User Agent String" />
-      <item value="get Default User Agent" />
-      <item value="set Need Initial Focus" />
-      <item value="LOW" />
-      <item value="HIGH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="648" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="659" />
       </map>
     </option>
   </component>
