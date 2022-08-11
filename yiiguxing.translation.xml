@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ParseError at [row,col]:[8,33] Message: http:www.w3.orgTR1999REC-xml-names-19990114AttributePrefixUnbound?item&amp;app:showAsAction&amp;app). Check logs for more details" />
       <item value="refresh Drawable State" />
       <item value="MENU ITEM PROCESS TEXT" />
       <item value="MENU ITEM NONE" />
@@ -54,12 +55,11 @@
       <item value="set Need Initial Focus" />
       <item value="LOW" />
       <item value="HIGH" />
-      <item value="set Render Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="650" />
       </map>
     </option>
   </component>
