@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error inflating class com.google.android.material.progressindicator.LinearProgressIndicator" />
       <item value="no type arguments expected for class BaseDialog" />
       <item value="Debug]Proces" />
       <item value="total Bytes" />
@@ -54,12 +55,11 @@
       <item value="set Minimum Logical Font Size" />
       <item value="set Default Fixed Font Size" />
       <item value="set Loads Images Automatically" />
-      <item value="set Block Network Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="675" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="676" />
       </map>
     </option>
   </component>
