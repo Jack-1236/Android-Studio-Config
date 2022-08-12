@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SECONDS" />
+      <item value="MILLISECONDS" />
+      <item value="MICROSECONDS" />
+      <item value="NANOSECONDS" />
       <item value="timeout" />
       <item value="set Connect Timeout" />
       <item value="MODE PRIVATE" />
@@ -51,15 +55,11 @@
       <item value="set Light Touch Enabled" />
       <item value="set Use Wide View Port" />
       <item value="set Support Multiple Windows" />
-      <item value="TEXT AUTOSIZING" />
-      <item value="NARROW COLUMNS" />
-      <item value="SINGLE COLUMN" />
-      <item value="NORMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="679" />
-        <entry key="ENGLISH" value="681" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="685" />
       </map>
     </option>
   </component>
