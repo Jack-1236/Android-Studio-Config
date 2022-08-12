@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="total Bytes" />
+      <item value="so Far Bytes" />
       <item value="LOAD DEFAULT" />
       <item value="Operation not permitted" />
       <item value="[Posix_connect Debug]Process com.example.tekweldmachinemonitoring:filedownload" />
@@ -53,13 +55,11 @@
       <item value="set Block Network Image" />
       <item value="get Block Network Image" />
       <item value="set Java Script Enabled" />
-      <item value="set Allow Universal Access From File UR Ls" />
-      <item value="set Allow File Access From File UR Ls" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="673" />
       </map>
     </option>
   </component>
