@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="SECONDS" />
       <item value="MILLISECONDS" />
       <item value="MICROSECONDS" />
@@ -13,7 +14,6 @@
       <item value="set Connect Timeout" />
       <item value="MODE PRIVATE" />
       <item value="MediaPlayer finalized without being released" />
-      <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="Error inflating class com.google.android.material.progressindicator.LinearProgressIndicator" />
       <item value="no type arguments expected for class BaseDialog" />
       <item value="Debug]Proces" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="686" />
       </map>
     </option>
   </component>
