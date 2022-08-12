@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the provided mPath[Download] is invalid, can't find its directory" />
       <item value="PERMISSION GRANTED" />
       <item value="ACTION DOWN" />
       <item value="ACTION CANCEL" />
@@ -54,12 +55,11 @@
       <item value="set Plugin State" />
       <item value="set Database Path" />
       <item value="set App Cache Enabled" />
-      <item value="set App Cache Max Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="658" />
-        <entry key="ENGLISH" value="660" />
+        <entry key="CHINESE" value="659" />
+        <entry key="ENGLISH" value="661" />
       </map>
     </option>
   </component>
