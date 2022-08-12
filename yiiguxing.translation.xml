@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="LOAD DEFAULT" />
       <item value="Operation not permitted" />
       <item value="[Posix_connect Debug]Process com.example.tekweldmachinemonitoring:filedownload" />
       <item value="This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
@@ -54,12 +55,11 @@
       <item value="set Java Script Enabled" />
       <item value="set Allow Universal Access From File UR Ls" />
       <item value="set Allow File Access From File UR Ls" />
-      <item value="ON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="671" />
       </map>
     </option>
   </component>
