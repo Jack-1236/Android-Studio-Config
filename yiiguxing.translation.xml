@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MODE PRIVATE" />
+      <item value="MediaPlayer finalized without being released" />
+      <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="Error inflating class com.google.android.material.progressindicator.LinearProgressIndicator" />
       <item value="no type arguments expected for class BaseDialog" />
       <item value="Debug]Proces" />
@@ -52,14 +55,11 @@
       <item value="NORMAL" />
       <item value="set Layout Algorithm" />
       <item value="set Minimum Font Size" />
-      <item value="set Minimum Logical Font Size" />
-      <item value="set Default Fixed Font Size" />
-      <item value="set Loads Images Automatically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="674" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="677" />
+        <entry key="ENGLISH" value="679" />
       </map>
     </option>
   </component>
