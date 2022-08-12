@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="timeout" />
+      <item value="set Connect Timeout" />
       <item value="MODE PRIVATE" />
       <item value="MediaPlayer finalized without being released" />
       <item value="Firebase Installations Service is unavailable. Please try again later." />
@@ -53,13 +55,11 @@
       <item value="NARROW COLUMNS" />
       <item value="SINGLE COLUMN" />
       <item value="NORMAL" />
-      <item value="set Layout Algorithm" />
-      <item value="set Minimum Font Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="681" />
       </map>
     </option>
   </component>
