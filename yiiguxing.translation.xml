@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Operation not permitted" />
+      <item value="[Posix_connect Debug]Process com.example.tekweldmachinemonitoring:filedownload" />
+      <item value="This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
+      <item value="No Network Security Config specified, using platform default" />
+      <item value="RegisterTcmMonitor from" />
+      <item value="Failed to connect to" />
       <item value="the provided mPath[Download] is invalid, can't find its directory" />
       <item value="PERMISSION GRANTED" />
       <item value="ACTION DOWN" />
@@ -49,17 +55,11 @@
       <item value="set Allow Universal Access From File UR Ls" />
       <item value="set Allow File Access From File UR Ls" />
       <item value="ON" />
-      <item value="OFF" />
-      <item value="ON DEMAND" />
-      <item value="media Playback Requires User Gesture" />
-      <item value="set Plugin State" />
-      <item value="set Database Path" />
-      <item value="set App Cache Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="670" />
       </map>
     </option>
   </component>
