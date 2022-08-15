@@ -5,19 +5,28 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="COMPLETED" />
+      <item value="ERROR" />
+      <item value="CANCELED" />
+      <item value="FILE BUSY" />
+      <item value="SAME TASK BUSY" />
+      <item value="task End" />
+      <item value="download From Breakpoint" />
+      <item value="download From Beginning" />
+      <item value="connect End" />
+      <item value="fetch End" />
+      <item value="PRE ALLOCATE FAILED" />
+      <item value="TaskEnd:The current offset on block-info isn't update correct, 9178455 != 55163448 on 1" />
+      <item value="Fetch End" />
+      <item value="The current offset on block-info isn't update correct," />
       <item value="ty, disconnecting from the service" />
       <item value="Resume failed because of RESPONSE_PRECONDITION_FAILED" />
-      <item value="task End" />
       <item value="is Completed" />
       <item value="Compat change id reported: 147798919; UID 10525; state: ENABLED" />
       <item value="connect Trial Start" />
       <item value="connect Trial End" />
-      <item value="download From Beginning" />
-      <item value="download From Breakpoint" />
       <item value="connect Start" />
-      <item value="connect End" />
       <item value="fetch Start" />
-      <item value="fetch End" />
       <item value="fetch Progress" />
       <item value="do re-download even if the task has already been completed in the past." />
       <item value="the minimal interval millisecond for callback progress" />
@@ -46,20 +55,11 @@
       <item value="RegisterTcmMonitor from" />
       <item value="Failed to connect to" />
       <item value="the provided mPath[Download] is invalid, can't find its directory" />
-      <item value="PERMISSION GRANTED" />
-      <item value="ACTION DOWN" />
-      <item value="ACTION CANCEL" />
-      <item value="ACTION BUTTON PRESS" />
-      <item value="ACTION BUTTON RELEASE" />
-      <item value="ACTION HOVER MOVE" />
-      <item value="ACTION HOVER ENTER" />
-      <item value="ACTION HOVER EXIT" />
-      <item value="ACTION MASK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="706" />
-        <entry key="ENGLISH" value="708" />
+        <entry key="CHINESE" value="725" />
+        <entry key="ENGLISH" value="727" />
       </map>
     </option>
   </component>
