@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="item Text Appearance Inactive" />
       <item value="is Showing" />
       <item value="Cannot format given Object as a Number" />
       <item value="get Total Rx Bytes" />
@@ -54,12 +55,11 @@
       <item value="timeout" />
       <item value="set Connect Timeout" />
       <item value="MODE PRIVATE" />
-      <item value="MediaPlayer finalized without being released" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="745" />
       </map>
     </option>
   </component>
