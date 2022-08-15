@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Total Rx Bytes" />
+      <item value="get Total Tx Bytes" />
       <item value="progress Max" />
       <item value="Returns: true if this task is running, in this case, this task isn't allow to start() again for this task object, and even not allow to reuse(). false this task maybe isUsing() or in idle. See Also: isUsing(), start()" />
       <item value="Returns: true if the this task already has downloading data, it means that this task is running or has ran. See Also: isRunning(), start(), reuse()" />
@@ -53,13 +55,11 @@
       <item value="MediaPlayer finalized without being released" />
       <item value="Error inflating class com.google.android.material.progressindicator.LinearProgressIndicator" />
       <item value="no type arguments expected for class BaseDialog" />
-      <item value="Debug]Proces" />
-      <item value="total Bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="742" />
       </map>
     </option>
   </component>
