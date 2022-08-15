@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="provide sqlite to store breakpoints" />
+      <item value="provide okhttp to connect to backend" />
       <item value="Animations may only be started on the main thread" />
       <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="SECONDS" />
@@ -53,18 +55,16 @@
       <item value="set Save Form Data" />
       <item value="set Save Password" />
       <item value="get Save Password" />
-      <item value="set Light Touch Enabled" />
-      <item value="set Use Wide View Port" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="689" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659926217984" />
+    <option name="lastTrimTime" value="1660529894966" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
