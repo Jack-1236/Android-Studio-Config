@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="connect Trial Start" />
+      <item value="connect Trial End" />
+      <item value="download From Beginning" />
+      <item value="download From Breakpoint" />
+      <item value="connect Start" />
+      <item value="connect End" />
+      <item value="fetch Start" />
+      <item value="task End" />
+      <item value="fetch End" />
+      <item value="fetch Progress" />
+      <item value="do re-download even if the task has already been completed in the past." />
+      <item value="the minimal interval millisecond for callback progress" />
       <item value="provide sqlite to store breakpoints" />
       <item value="provide okhttp to connect to backend" />
       <item value="Animations may only be started on the main thread" />
@@ -43,23 +55,11 @@
       <item value="ParseError at [row,col]:[8,33] Message: http:www.w3.orgTR1999REC-xml-names-19990114AttributePrefixUnbound?item&amp;app:showAsAction&amp;app). Check logs for more details" />
       <item value="refresh Drawable State" />
       <item value="MENU ITEM PROCESS TEXT" />
-      <item value="MENU ITEM NONE" />
-      <item value="LOAD NO CACHE" />
-      <item value="FORCE DARK AUTO" />
-      <item value="set Support Zoom" />
-      <item value="set Media Playback Requires User Gesture" />
-      <item value="set Display Zoom Controls" />
-      <item value="set Allow Content Access" />
-      <item value="set Load With Overview Mode" />
-      <item value="set Enable Smooth Transition" />
-      <item value="set Save Form Data" />
-      <item value="set Save Password" />
-      <item value="get Save Password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="700" />
+        <entry key="ENGLISH" value="702" />
       </map>
     </option>
   </component>
