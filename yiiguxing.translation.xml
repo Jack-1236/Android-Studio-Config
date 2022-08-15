@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ty, disconnecting from the service" />
+      <item value="Resume failed because of RESPONSE_PRECONDITION_FAILED" />
+      <item value="task End" />
+      <item value="is Completed" />
+      <item value="Compat change id reported: 147798919; UID 10525; state: ENABLED" />
       <item value="connect Trial Start" />
       <item value="connect Trial End" />
       <item value="download From Beginning" />
@@ -12,7 +17,6 @@
       <item value="connect Start" />
       <item value="connect End" />
       <item value="fetch Start" />
-      <item value="task End" />
       <item value="fetch End" />
       <item value="fetch Progress" />
       <item value="do re-download even if the task has already been completed in the past." />
@@ -51,15 +55,11 @@
       <item value="ACTION HOVER ENTER" />
       <item value="ACTION HOVER EXIT" />
       <item value="ACTION MASK" />
-      <item value="ACTION OUTSIDE" />
-      <item value="ParseError at [row,col]:[8,33] Message: http:www.w3.orgTR1999REC-xml-names-19990114AttributePrefixUnbound?item&amp;app:showAsAction&amp;app). Check logs for more details" />
-      <item value="refresh Drawable State" />
-      <item value="MENU ITEM PROCESS TEXT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="701" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="706" />
+        <entry key="ENGLISH" value="708" />
       </map>
     </option>
   </component>
