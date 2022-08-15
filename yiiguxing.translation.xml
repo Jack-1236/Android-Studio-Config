@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Frame time is 0.123934 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="delete Recursively" />
+      <item value="delete On Exit" />
+      <item value="exists" />
+      <item value="Returns: true if this task is running, in this case, this task isn't allow to start() again for this task object, and even not allow to reuse(). false this task maybe isUsing() or in idle. See Also: isUsing(), start()" />
+      <item value="Returns: true if the this task already has downloading data, it means that this task is running or has ran. See Also: isRunning(), start(), reuse()" />
+      <item value="Reuse this task withhold request params: path、url、header、isForceReDownloader、etc. Note:If the task has been over(FileDownloadStatus.isOver(int)), but the over-message has not been handover to the listener, since the callback is asynchronous, once your invoke this 'reuse' method, that message would be discard, for free the messenger. Returns: true if reuse this task successfully. false otherwise." />
+      <item value="The pause() also clear all data relate with this task in the memory, so please use pause() instead. Deprecated replace with pause() Returns: true if cancel this task successfully." />
       <item value="COMPLETED" />
       <item value="ERROR" />
       <item value="CANCELED" />
@@ -47,19 +55,11 @@
       <item value="Debug]Proces" />
       <item value="total Bytes" />
       <item value="so Far Bytes" />
-      <item value="LOAD DEFAULT" />
-      <item value="Operation not permitted" />
-      <item value="[Posix_connect Debug]Process com.example.tekweldmachinemonitoring:filedownload" />
-      <item value="This may cause the unexpected use of the original definition of boolean java.lang.Thread.interrupted()in methods that have already been compiled." />
-      <item value="No Network Security Config specified, using platform default" />
-      <item value="RegisterTcmMonitor from" />
-      <item value="Failed to connect to" />
-      <item value="the provided mPath[Download] is invalid, can't find its directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="725" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="736" />
       </map>
     </option>
   </component>
