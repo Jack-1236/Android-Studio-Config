@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Animations may only be started on the main thread" />
       <item value="item Text Appearance Inactive" />
       <item value="is Showing" />
       <item value="Cannot format given Object as a Number" />
@@ -46,7 +47,6 @@
       <item value="the minimal interval millisecond for callback progress" />
       <item value="provide sqlite to store breakpoints" />
       <item value="provide okhttp to connect to backend" />
-      <item value="Animations may only be started on the main thread" />
       <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="SECONDS" />
       <item value="MILLISECONDS" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="746" />
       </map>
     </option>
   </component>
