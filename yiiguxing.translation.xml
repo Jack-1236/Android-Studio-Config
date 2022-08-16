@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The user 10525 does not meet the requirements to access device identifiers." />
       <item value="com.google.android.material.bottomnavigation.BottomNavigationItemView cannot be cast to com.google.android.material.button.MaterialButton" />
       <item value="Do not need to report this plugin launch event!" />
       <item value="Software caused connection abort: recv failed" />
@@ -54,12 +55,11 @@
       <item value="SECONDS" />
       <item value="MILLISECONDS" />
       <item value="MICROSECONDS" />
-      <item value="NANOSECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="748" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="749" />
       </map>
     </option>
   </component>
