@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Inactivity, disconnecting from the service" />
       <item value="Connecting to remote service" />
       <item value="Restarting due to isRestartOnNextWindowFocus as true" />
       <item value="nitializing all Firebase APIs for app" />
@@ -15,7 +16,6 @@
       <item value="This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
       <item value="exists" />
       <item value="is Playing" />
-      <item value="Inactivity, disconnecting from the service" />
       <item value="Task is not yet complete" />
       <item value=": SERVICE_NOT_AVAILABLE. Will retry token retrieval" />
       <item value="The user 10525 does not meet the requirements to access device identifiers." />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="764" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="765" />
       </map>
     </option>
   </component>
