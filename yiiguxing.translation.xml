@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Connecting to remote service" />
+      <item value="Restarting due to isRestartOnNextWindowFocus as true" />
+      <item value="nitializing all Firebase APIs for app" />
+      <item value="FirebaseApp initialization successful" />
+      <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)" />
+      <item value="Accessing hidden method LandroidviewView;-&gt;computeFitSystemWindows(LandroidgraphicsRect;LandroidgraphicsRect;)Z (unsupported, reflection, allowed)" />
+      <item value="Device unlocked: initializing all Firebase APIs for app" />
       <item value="This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
       <item value="exists" />
       <item value="is Playing" />
@@ -48,18 +55,11 @@
       <item value="is Completed" />
       <item value="Compat change id reported: 147798919; UID 10525; state: ENABLED" />
       <item value="connect Trial Start" />
-      <item value="connect Trial End" />
-      <item value="connect Start" />
-      <item value="fetch Start" />
-      <item value="fetch Progress" />
-      <item value="do re-download even if the task has already been completed in the past." />
-      <item value="the minimal interval millisecond for callback progress" />
-      <item value="provide sqlite to store breakpoints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="755" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="764" />
       </map>
     </option>
   </component>
