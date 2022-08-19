@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Playing" />
       <item value="Inactivity, disconnecting from the service" />
       <item value="Task is not yet complete" />
       <item value=": SERVICE_NOT_AVAILABLE. Will retry token retrieval" />
@@ -54,12 +55,11 @@
       <item value="the minimal interval millisecond for callback progress" />
       <item value="provide sqlite to store breakpoints" />
       <item value="provide okhttp to connect to backend" />
-      <item value="Firebase Installations Service is unavailable. Please try again later." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="751" />
+        <entry key="ENGLISH" value="753" />
       </map>
     </option>
   </component>
