@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exists" />
       <item value="is Playing" />
       <item value="Inactivity, disconnecting from the service" />
       <item value="Task is not yet complete" />
@@ -25,7 +26,6 @@
       <item value="Frame time is 0.123934 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="delete Recursively" />
       <item value="delete On Exit" />
-      <item value="exists" />
       <item value="Reuse this task withhold request params: path、url、header、isForceReDownloader、etc. Note:If the task has been over(FileDownloadStatus.isOver(int)), but the over-message has not been handover to the listener, since the callback is asynchronous, once your invoke this 'reuse' method, that message would be discard, for free the messenger. Returns: true if reuse this task successfully. false otherwise." />
       <item value="The pause() also clear all data relate with this task in the memory, so please use pause() instead. Deprecated replace with pause() Returns: true if cancel this task successfully." />
       <item value="COMPLETED" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="752" />
+        <entry key="ENGLISH" value="754" />
       </map>
     </option>
   </component>
