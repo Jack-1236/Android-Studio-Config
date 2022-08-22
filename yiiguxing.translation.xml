@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Frame time is 0.148934 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="Considering local module com.google.android.gms.measurement.dynamite:51 and remote module com.google.android.gms.measurement.dynamite:75" />
       <item value="Tag Manager is not found and thus will not be used" />
       <item value=": Firebase Installations Service is unavailable. Please try again later." />
       <item value="com.google.firebase.installations.FirebaseInstallationsException: Firebase Installations Service is unavailable. Please try again later." />
@@ -53,13 +55,11 @@
       <item value="Task is not yet complete" />
       <item value=": SERVICE_NOT_AVAILABLE. Will retry token retrieval" />
       <item value="The user 10525 does not meet the requirements to access device identifiers." />
-      <item value="com.google.android.material.bottomnavigation.BottomNavigationItemView cannot be cast to com.google.android.material.button.MaterialButton" />
-      <item value="Do not need to report this plugin launch event!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="804" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="806" />
+        <entry key="ENGLISH" value="807" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
