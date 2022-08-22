@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value=": Current dex file has more than one class in it. Calling RetransformClasses on this class might fail if no transformations are applied to it! DCompatibilityChangeReporter: Compat change id reported: 171979766; UID 10534; state: ENABLED" />
       <item value="Failed to write a new fake index." />
       <item value="Connected to remote service" />
@@ -20,7 +21,6 @@
       <item value=": Firebase Installations Service is unavailable. Please try again later." />
       <item value="com.google.firebase.installations.FirebaseInstallationsException: Firebase Installations Service is unavailable. Please try again later." />
       <item value="ailed to get FIS auth token" />
-      <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="[longlink_connect_monitor.cc:474, OnHeartbeatAlarmReceived]:longlink_progress on_heartbeat_alarm, time: 147682038, is_noop_timeout:false" />
       <item value="close socket has done," />
       <item value="Socket closed" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="816" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
