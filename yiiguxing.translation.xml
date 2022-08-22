@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Option Declarations:" />
+      <item value="OPTION COMPATIBILITY ID" />
+      <item value="set Extended Config" />
       <item value="A camera on the device facing the opposite direction as the device's screen." />
       <item value="LENS FACING BACK" />
       <item value="LENS FACING FRONT" />
@@ -52,14 +55,11 @@
       <item value="Recording user engagement, ms: 1204" />
       <item value=": Activity resumed, time: 144493613" />
       <item value="nactivity, disconnecting from the service" />
-      <item value=": App measurement initialized, version: 68000" />
-      <item value="App measurement disabled via the manifest" />
-      <item value="Selected local version of com.google.android.gms.measurement.dynamite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="824" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="828" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
