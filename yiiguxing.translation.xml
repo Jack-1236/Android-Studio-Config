@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="allow Manual Input" />
       <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus scan is also triggered when FLAG_AF is assigned" />
       <item value="Gets a Preview.SurfaceProvider to be used with Preview.setSurfaceProvider(Executor, Preview.SurfaceProvider). This allows the camera feed to start when the Preview use case is bound to a lifecycle. The returned Preview.SurfaceProvider will provide a preview Surface to the camera that's either managed by a TextureView or SurfaceView depending on the PreviewView.ImplementationMode and the device's attributes (e.g. API level, camera hardware support level). Returns: A Preview.SurfaceProvider to attach to a Preview use case. See Also: PreviewView.ImplementationMode" />
       <item value="Preview" />
@@ -54,12 +55,11 @@
       <item value="table records_cdn has no column named request_length in &quot;INSERT INTO records_cdn(request_length,crypto_wall,start_time,bundle,using_http_dns,app_version,battery_level,real_url,signal_level,screen_lock,network_" />
       <item value="MonitorWorkingThread startWadlService" />
       <item value="innerStartService start" />
-      <item value="innerStartService mWadlService is working" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="844" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="CHINESE" value="845" />
+        <entry key="ENGLISH" value="846" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
