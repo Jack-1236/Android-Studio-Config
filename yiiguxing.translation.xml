@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Flushed 9 samples from 9 histograms." />
       <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value=": Current dex file has more than one class in it. Calling RetransformClasses on this class might fail if no transformations are applied to it! DCompatibilityChangeReporter: Compat change id reported: 171979766; UID 10534; state: ENABLED" />
       <item value="Failed to write a new fake index." />
@@ -54,12 +55,11 @@
       <item value="FirebaseApp initialization successful" />
       <item value="Restarting due to isRestartOnNextWindowFocus as true" />
       <item value="nitializing all Firebase APIs for app" />
-      <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="816" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE" value="817" />
+        <entry key="ENGLISH" value="818" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
