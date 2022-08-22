@@ -5,14 +5,18 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=": App measurement initialized, version: 68000" />
+      <item value="App measurement disabled via the manifest" />
+      <item value="Selected local version of com.google.android.gms.measurement.dynamite" />
+      <item value="Considering local module com.google.android.gms.measurement.dynamite:78 and remote module com.google.android.gms.measurement.dynamite:" />
+      <item value="Device unlocked: initializing all Firebase APIs for app" />
+      <item value="FirebaseApp initialization successful" />
       <item value="Inactivity, disconnecting from the service" />
       <item value="Connecting to remote service" />
       <item value="Restarting due to isRestartOnNextWindowFocus as true" />
       <item value="nitializing all Firebase APIs for app" />
-      <item value="FirebaseApp initialization successful" />
       <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)" />
       <item value="Accessing hidden method LandroidviewView;-&gt;computeFitSystemWindows(LandroidgraphicsRect;LandroidgraphicsRect;)Z (unsupported, reflection, allowed)" />
-      <item value="Device unlocked: initializing all Firebase APIs for app" />
       <item value="This may cause the unexpected use of the original definition of java.lang.Thread java.lang.Thread.currentThread()in methods that have already been compiled." />
       <item value="exists" />
       <item value="is Playing" />
@@ -51,20 +55,16 @@
       <item value="Fetch End" />
       <item value="The current offset on block-info isn't update correct," />
       <item value="ty, disconnecting from the service" />
-      <item value="Resume failed because of RESPONSE_PRECONDITION_FAILED" />
-      <item value="is Completed" />
-      <item value="Compat change id reported: 147798919; UID 10525; state: ENABLED" />
-      <item value="connect Trial Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="772" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660529894966" />
+    <option name="lastTrimTime" value="1661135148781" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
