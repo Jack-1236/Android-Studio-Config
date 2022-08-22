@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot access 'com.king.mlkit.vision.camera.BaseCameraScanActivity' which is a supertype of 'com.example.tekweldmachinemonitoring.main.scanner.MkitScannerActivity'. Check your module classpath for missing or conflicting depe" />
       <item value="CAMERA PERMISSION REQUEST CODE" />
       <item value="allow Manual Input" />
       <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus scan is also triggered when FLAG_AF is assigned" />
@@ -54,12 +55,11 @@
       <item value="Socket closed" />
       <item value="Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value." />
       <item value="table records_cdn has no column named request_length in &quot;INSERT INTO records_cdn(request_length,crypto_wall,start_time,bundle,using_http_dns,app_version,battery_level,real_url,signal_level,screen_lock,network_" />
-      <item value="MonitorWorkingThread startWadlService" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
