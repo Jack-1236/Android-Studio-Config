@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[longlink_connect_monitor.cc:474, OnHeartbeatAlarmReceived]:longlink_progress on_heartbeat_alarm, time: 147682038, is_noop_timeout:false" />
+      <item value="close socket has done," />
+      <item value="Socket closed" />
+      <item value="Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value." />
+      <item value="table records_cdn has no column named request_length in &quot;INSERT INTO records_cdn(request_length,crypto_wall,start_time,bundle,using_http_dns,app_version,battery_level,real_url,signal_level,screen_lock,network_" />
+      <item value="MonitorWorkingThread startWadlService" />
+      <item value="innerStartService start" />
+      <item value="innerStartService mWadlService is working" />
+      <item value="create new ContentProviderClient: SLIReport" />
+      <item value="monitorDataMap is empty and ignore this monitor report!" />
+      <item value="Connection reset" />
+      <item value="Processing queued up service tasks: 3" />
+      <item value="Prior agent invocations in this VM: 0" />
+      <item value="Google server connect" />
+      <item value="Google play server connect" />
+      <item value="Failed to resolve: com.google.firebase:firebase-analytics" />
+      <item value="Could not resolve all files for configuration ':app:debugCompileClasspath'." />
+      <item value=": Activity resumed, time: 145443817" />
+      <item value="Connecting to remote service" />
+      <item value="Processing queued up service tasks: 1" />
+      <item value="Avoid using bundled version of Google Play services SDK." />
       <item value="Processing queued up service tasks: 5" />
       <item value="Activity paused, time: 144491611" />
       <item value="Recording user engagement, ms: 1204" />
@@ -17,7 +38,6 @@
       <item value="Considering local module com.google.android.gms.measurement.dynamite:78 and remote module com.google.android.gms.measurement.dynamite:" />
       <item value="Device unlocked: initializing all Firebase APIs for app" />
       <item value="FirebaseApp initialization successful" />
-      <item value="Connecting to remote service" />
       <item value="Restarting due to isRestartOnNextWindowFocus as true" />
       <item value="nitializing all Firebase APIs for app" />
       <item value="Accessing hidden method LandroidviewViewGroup;-&gt;makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)" />
@@ -35,31 +55,12 @@
       <item value="item Text Appearance Inactive" />
       <item value="is Showing" />
       <item value="Cannot format given Object as a Number" />
-      <item value="get Total Rx Bytes" />
-      <item value="get Total Tx Bytes" />
-      <item value="progress Max" />
-      <item value="Returns: true if this task is running, in this case, this task isn't allow to start() again for this task object, and even not allow to reuse(). false this task maybe isUsing() or in idle. See Also: isUsing(), start()" />
-      <item value="Returns: true if the this task already has downloading data, it means that this task is running or has ran. See Also: isRunning(), start(), reuse()" />
-      <item value="Frame time is 0.123934 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
-      <item value="delete Recursively" />
-      <item value="delete On Exit" />
-      <item value="Reuse this task withhold request params: path、url、header、isForceReDownloader、etc. Note:If the task has been over(FileDownloadStatus.isOver(int)), but the over-message has not been handover to the listener, since the callback is asynchronous, once your invoke this 'reuse' method, that message would be discard, for free the messenger. Returns: true if reuse this task successfully. false otherwise." />
-      <item value="The pause() also clear all data relate with this task in the memory, so please use pause() instead. Deprecated replace with pause() Returns: true if cancel this task successfully." />
-      <item value="COMPLETED" />
-      <item value="ERROR" />
-      <item value="CANCELED" />
-      <item value="FILE BUSY" />
-      <item value="SAME TASK BUSY" />
-      <item value="task End" />
-      <item value="download From Breakpoint" />
-      <item value="download From Beginning" />
-      <item value="connect End" />
-      <item value="fetch End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="799" />
+        <entry key="ENGLISH" value="800" />
+        <entry key="GERMAN" value="2" />
       </map>
     </option>
   </component>
