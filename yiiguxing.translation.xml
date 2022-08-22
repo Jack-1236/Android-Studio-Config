@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Processing queued up service tasks: 5" />
+      <item value="Activity paused, time: 144491611" />
+      <item value="Recording user engagement, ms: 1204" />
+      <item value="Inactivity, disconnecting from the service" />
+      <item value=": Activity resumed, time: 144493613" />
       <item value="nactivity, disconnecting from the service" />
       <item value=": App measurement initialized, version: 68000" />
       <item value="App measurement disabled via the manifest" />
@@ -12,7 +17,6 @@
       <item value="Considering local module com.google.android.gms.measurement.dynamite:78 and remote module com.google.android.gms.measurement.dynamite:" />
       <item value="Device unlocked: initializing all Firebase APIs for app" />
       <item value="FirebaseApp initialization successful" />
-      <item value="Inactivity, disconnecting from the service" />
       <item value="Connecting to remote service" />
       <item value="Restarting due to isRestartOnNextWindowFocus as true" />
       <item value="nitializing all Firebase APIs for app" />
@@ -51,15 +55,11 @@
       <item value="download From Beginning" />
       <item value="connect End" />
       <item value="fetch End" />
-      <item value="PRE ALLOCATE FAILED" />
-      <item value="TaskEnd:The current offset on block-info isn't update correct, 9178455 != 55163448 on 1" />
-      <item value="Fetch End" />
-      <item value="The current offset on block-info isn't update correct," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="771" />
-        <entry key="ENGLISH" value="773" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="778" />
       </map>
     </option>
   </component>
