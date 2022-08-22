@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Camera Config" />
+      <item value="ACTION DOWN" />
+      <item value="HOVER TAP SLOP" />
+      <item value="HOVER TAP TIMEOUT" />
+      <item value="STRATEGY KEEP ONLY LATEST" />
+      <item value="Images sent to the analyzer will have RGBA format." />
+      <item value="OUTPUT IMAGE FORMAT RGBA_8888" />
+      <item value="OUTPUT IMAGE FORMAT YUV_420_888" />
       <item value="Option Declarations:" />
       <item value="OPTION COMPATIBILITY ID" />
       <item value="set Extended Config" />
@@ -47,19 +55,11 @@
       <item value="Failed to resolve: com.google.firebase:firebase-analytics" />
       <item value="Could not resolve all files for configuration ':app:debugCompileClasspath'." />
       <item value=": Activity resumed, time: 145443817" />
-      <item value="Connecting to remote service" />
-      <item value="Processing queued up service tasks: 1" />
-      <item value="Avoid using bundled version of Google Play services SDK." />
-      <item value="Processing queued up service tasks: 5" />
-      <item value="Activity paused, time: 144491611" />
-      <item value="Recording user engagement, ms: 1204" />
-      <item value=": Activity resumed, time: 144493613" />
-      <item value="nactivity, disconnecting from the service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="828" />
+        <entry key="CHINESE" value="835" />
+        <entry key="ENGLISH" value="836" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
