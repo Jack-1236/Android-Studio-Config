@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="nactivity, disconnecting from the service" />
       <item value=": App measurement initialized, version: 68000" />
       <item value="App measurement disabled via the manifest" />
       <item value="Selected local version of com.google.android.gms.measurement.dynamite" />
@@ -54,12 +55,11 @@
       <item value="TaskEnd:The current offset on block-info isn't update correct, 9178455 != 55163448 on 1" />
       <item value="Fetch End" />
       <item value="The current offset on block-info isn't update correct," />
-      <item value="ty, disconnecting from the service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="773" />
       </map>
     </option>
   </component>
