@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=": Firebase Installations Service is unavailable. Please try again later." />
+      <item value="com.google.firebase.installations.FirebaseInstallationsException: Firebase Installations Service is unavailable. Please try again later." />
+      <item value="ailed to get FIS auth token" />
+      <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="[longlink_connect_monitor.cc:474, OnHeartbeatAlarmReceived]:longlink_progress on_heartbeat_alarm, time: 147682038, is_noop_timeout:false" />
       <item value="close socket has done," />
       <item value="Socket closed" />
@@ -51,15 +55,11 @@
       <item value="com.google.android.material.bottomnavigation.BottomNavigationItemView cannot be cast to com.google.android.material.button.MaterialButton" />
       <item value="Do not need to report this plugin launch event!" />
       <item value="Software caused connection abort: recv failed" />
-      <item value="Animations may only be started on the main thread" />
-      <item value="item Text Appearance Inactive" />
-      <item value="is Showing" />
-      <item value="Cannot format given Object as a Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="799" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="CHINESE" value="803" />
+        <entry key="ENGLISH" value="804" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
