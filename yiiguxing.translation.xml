@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to find explicit activity class {com.example.tekweldmachinemonitoringcom.example.tekweldmachinemonitoring.main.scanner.MlkitScannerActivity}; have you declared this activity in your AndroidManifest.xml" />
       <item value="Resource shrinker cannot be used for libraries" />
       <item value="We only support parsing EXIF orientation tag from local file on the device. See also:" />
       <item value="Cannot access 'com.king.mlkit.vision.camera.BaseCameraScanActivity' which is a supertype of 'com.example.tekweldmachinemonitoring.main.scanner.MkitScannerActivity'. Check your module classpath for missing or conflicting depe" />
@@ -54,12 +55,11 @@
       <item value="ailed to get FIS auth token" />
       <item value="[longlink_connect_monitor.cc:474, OnHeartbeatAlarmReceived]:longlink_progress on_heartbeat_alarm, time: 147682038, is_noop_timeout:false" />
       <item value="close socket has done," />
-      <item value="Socket closed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="850" />
+        <entry key="ENGLISH" value="851" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
