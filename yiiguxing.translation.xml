@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Fly Compress" />
       <item value="Unable to find explicit activity class {com.example.tekweldmachinemonitoringcom.example.tekweldmachinemonitoring.main.scanner.MlkitScannerActivity}; have you declared this activity in your AndroidManifest.xml" />
       <item value="Resource shrinker cannot be used for libraries" />
       <item value="We only support parsing EXIF orientation tag from local file on the device. See also:" />
@@ -54,12 +55,11 @@
       <item value="com.google.firebase.installations.FirebaseInstallationsException: Firebase Installations Service is unavailable. Please try again later." />
       <item value="ailed to get FIS auth token" />
       <item value="[longlink_connect_monitor.cc:474, OnHeartbeatAlarmReceived]:longlink_progress on_heartbeat_alarm, time: 147682038, is_noop_timeout:false" />
-      <item value="close socket has done," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="851" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
