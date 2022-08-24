@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Can't toast on a thread that has not called Looper.prepare()" />
+      <item value="Default Dispatcher-worker-1" />
       <item value="STORAGE DESKSTATUS" />
       <item value="on Fly Compress" />
       <item value="Unable to find explicit activity class {com.example.tekweldmachinemonitoringcom.example.tekweldmachinemonitoring.main.scanner.MlkitScannerActivity}; have you declared this activity in your AndroidManifest.xml" />
@@ -53,13 +55,11 @@
       <item value="Considering local module com.google.android.gms.measurement.dynamite:51 and remote module com.google.android.gms.measurement.dynamite:75" />
       <item value="Tag Manager is not found and thus will not be used" />
       <item value=": Firebase Installations Service is unavailable. Please try again later." />
-      <item value="com.google.firebase.installations.FirebaseInstallationsException: Firebase Installations Service is unavailable. Please try again later." />
-      <item value="ailed to get FIS auth token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="852" />
-        <entry key="ENGLISH" value="853" />
+        <entry key="CHINESE" value="854" />
+        <entry key="ENGLISH" value="855" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
