@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="soft Input Mode=STATE UNSPECIFIED|ADJUST RESIZE" />
+      <item value="Requires BLUETOOTH permission" />
       <item value="Can't toast on a thread that has not called Looper.prepare()" />
       <item value="Default Dispatcher-worker-1" />
       <item value="STORAGE DESKSTATUS" />
@@ -53,19 +55,17 @@
       <item value="Inactivity, disconnecting from the service" />
       <item value="Frame time is 0.148934 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="Considering local module com.google.android.gms.measurement.dynamite:51 and remote module com.google.android.gms.measurement.dynamite:75" />
-      <item value="Tag Manager is not found and thus will not be used" />
-      <item value=": Firebase Installations Service is unavailable. Please try again later." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
-        <entry key="ENGLISH" value="855" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661135148781" />
+    <option name="lastTrimTime" value="1661833461766" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
