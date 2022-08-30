@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="data parcel size 3951200 bytes" />
       <item value="Views added to a FragmentContainerView must be associated with a Fragment." />
       <item value="clearMetaKeyStates on inactive InputConnection" />
       <item value=": clearMetaKeyStates on inactive InputConnection" />
@@ -54,7 +55,6 @@
       <item value="Connected to remote service" />
       <item value="Processing queued up service tasks" />
       <item value="Connection attempt already in progress" />
-      <item value="Processing queued up service tasks: 3" />
     </histories>
     <option name="languageScores">
       <map>
