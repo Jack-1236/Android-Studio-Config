@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="LOAD NO CACHE" />
+      <item value="LOAD NORMAL" />
+      <item value="FORCE DARK ON" />
+      <item value="LOAD CACHE ELSE NETWORK" />
+      <item value="LOAD CACHE ONLY" />
+      <item value="LOAD DEFAULT" />
       <item value="Timing out request:" />
       <item value="data parcel size 3951200 bytes" />
       <item value="Views added to a FragmentContainerView must be associated with a Fragment." />
@@ -49,17 +55,11 @@
       <item value="LENS FACING FRONT" />
       <item value="DEFAULT BACK CAMERA" />
       <item value="DEFAULT FRONT CAMERA" />
-      <item value="Flushed 9 samples from 9 histograms." />
-      <item value="Firebase Installations Service is unavailable. Please try again later." />
-      <item value=": Current dex file has more than one class in it. Calling RetransformClasses on this class might fail if no transformations are applied to it! DCompatibilityChangeReporter: Compat change id reported: 171979766; UID 10534; state: ENABLED" />
-      <item value="Failed to write a new fake index." />
-      <item value="Connected to remote service" />
-      <item value="Processing queued up service tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="861" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
