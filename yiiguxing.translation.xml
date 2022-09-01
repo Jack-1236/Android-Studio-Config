@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="RegisterTcmMonitor from: Proxy2" />
+      <item value="No such file or directory" />
+      <item value="Failed to open file" />
+      <item value="Unexpected token u in JSON at position 0" />
+      <item value="Uncaught (in promise): SyntaxError: Unexpected token u in JSON at position 0" />
       <item value=": ML Kit has detected that you seem to pass camera frames to the detector as a Bitmap object. This is inefficient. Please use YUV_420_888 format for camera2 API or NV21 format for (legacy) camera API and directly pass down the byte array to ML Kit." />
       <item value="LOAD NO CACHE" />
       <item value="LOAD NORMAL" />
@@ -50,16 +55,11 @@
       <item value="OUTPUT IMAGE FORMAT YUV_420_888" />
       <item value="Option Declarations:" />
       <item value="OPTION COMPATIBILITY ID" />
-      <item value="set Extended Config" />
-      <item value="A camera on the device facing the opposite direction as the device's screen." />
-      <item value="LENS FACING BACK" />
-      <item value="LENS FACING FRONT" />
-      <item value="DEFAULT BACK CAMERA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="868" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="CHINESE" value="873" />
+        <entry key="ENGLISH" value="874" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
