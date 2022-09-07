@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Wrote stack traces to tombstoned" />
+      <item value="Thread[5,tid=14735,WaitingInMainSignalCatcherLoop,Thread=0xb400007a4475e630,peer=0x13a80228,&quot;Signal Catcher&quot;]: reacting to signal 3" />
+      <item value="Could not reconstruct index from disk" />
+      <item value="Inactivity, disconnecting from the service" />
+      <item value="Requires BLUETOOTH permission" />
+      <item value=": To enable faster debug mode event logging run: adb shell setprop debug.firebase.analytics.app com.example.tekweldmachinemonitoring" />
+      <item value="App measurement disabled via the manifest" />
+      <item value=": Considering local module com.google.android.gms.measurement.dynamite:78 and remote module com.google.android.gms.measurement.dynamite:75" />
+      <item value="Processing queued up service tasks: 1" />
+      <item value="TRuntime.CctTransportBackend: Status Code: 200" />
+      <item value="Connecting to remote service" />
+      <item value="Frame time is 0.01916 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="aking request to" />
       <item value="Google Play services missing or without correct permission." />
       <item value="om.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
       <item value="Failed to find provider info for com.google.android.gms.chimera" />
@@ -42,25 +55,13 @@
       <item value=": clearMetaKeyStates on inactive InputConnection" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="No such file or directory (2)" />
-      <item value="soft Input Mode=STATE UNSPECIFIED|ADJUST RESIZE" />
-      <item value="Requires BLUETOOTH permission" />
-      <item value="Can't toast on a thread that has not called Looper.prepare()" />
-      <item value="Default Dispatcher-worker-1" />
-      <item value="STORAGE DESKSTATUS" />
-      <item value="on Fly Compress" />
-      <item value="Unable to find explicit activity class {com.example.tekweldmachinemonitoringcom.example.tekweldmachinemonitoring.main.scanner.MlkitScannerActivity}; have you declared this activity in your AndroidManifest.xml" />
-      <item value="Resource shrinker cannot be used for libraries" />
-      <item value="We only support parsing EXIF orientation tag from local file on the device. See also:" />
-      <item value="Cannot access 'com.king.mlkit.vision.camera.BaseCameraScanActivity' which is a supertype of 'com.example.tekweldmachinemonitoring.main.scanner.MkitScannerActivity'. Check your module classpath for missing or conflicting depe" />
-      <item value="CAMERA PERMISSION REQUEST CODE" />
-      <item value="allow Manual Input" />
-      <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus scan is also triggered when FLAG_AF is assigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="908" />
+        <entry key="ENGLISH" value="909" />
         <entry key="GERMAN" value="2" />
+        <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
