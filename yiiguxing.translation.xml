@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Event not sent since app measurement is disabled" />
       <item value="Uncaught ReferenceError: Notice is not defined&quot;" />
       <item value="Notice is not defined" />
       <item value="Wrote stack traces to tombstoned" />
@@ -54,12 +55,11 @@
       <item value="data parcel size 3951200 bytes" />
       <item value="Views added to a FragmentContainerView must be associated with a Fragment." />
       <item value="clearMetaKeyStates on inactive InputConnection" />
-      <item value=": clearMetaKeyStates on inactive InputConnection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="911" />
+        <entry key="ENGLISH" value="912" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
