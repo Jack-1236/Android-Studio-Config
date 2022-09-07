@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Google Play services missing or without correct permission." />
+      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="No virtual method webViewOnResume()LkotlinU" />
       <item value="Loading com.google.android.webview version 103.0.5060.129 (code 506012934)" />
       <item value="Flushed 9 samples from 9 histograms." />
@@ -12,7 +14,6 @@
       <item value="A WebView method was called on thread 'DefaultDispatcher-worker-3'. All WebView methods must be called on the same thread" />
       <item value="kipped 36 frames! The application may be doing too much work on its main thread." />
       <item value="Skipped 52 frames! The application may be doing too much work on its main thread." />
-      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="RegisterTcmMonitor from: Proxy2" />
       <item value="No such file or directory" />
       <item value="Failed to open file" />
@@ -54,18 +55,17 @@
       <item value="A flag used in metering mode indicating the AWB (Auto White Balance) region is enabled." />
       <item value="he camera interface is used to control the flow of data to use cases, control the camera via the CameraControl, and publish the state of the camera via CameraInfo. An example of how to obtain an instance of this class can be found in the androidx.camera.lifecycle package." />
       <item value="set Camera Config" />
-      <item value="ACTION DOWN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="881" />
-        <entry key="ENGLISH" value="882" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661833461766" />
+    <option name="lastTrimTime" value="1662518588691" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
