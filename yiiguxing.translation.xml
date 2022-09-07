@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to get advertising id: com.google.android.gms.common.GooglePlayServicesNotAvailableException:" />
+      <item value="EGLNativeWindowType 0xb400006eae9ab6b0 disconnect failed" />
+      <item value="Reducing the number of considered missed Gc histogram windows from 104 to 100" />
+      <item value=": Failed to load IDynamiteLoader from GmsCore: Application package com.google.android.gms not found" />
+      <item value="Application package com.google.android.gms not found" />
       <item value="Google Play services missing or without correct permission." />
       <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="No virtual method webViewOnResume()LkotlinU" />
@@ -50,16 +55,11 @@
       <item value="Preview" />
       <item value="DEFAULT SURFACE PROVIDER EXECUTOR" />
       <item value="flag used in metering mode indicating the AWB (Auto White Balance) region is enabled." />
-      <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus scan is also triggered when FLAG_AF is assigned." />
-      <item value="A flag used in metering mode indicating the AE (Auto Exposure) region is enabled." />
-      <item value="A flag used in metering mode indicating the AWB (Auto White Balance) region is enabled." />
-      <item value="he camera interface is used to control the flow of data to use cases, control the camera via the CameraControl, and publish the state of the camera via CameraInfo. An example of how to obtain an instance of this class can be found in the androidx.camera.lifecycle package." />
-      <item value="set Camera Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="883" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="889" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
