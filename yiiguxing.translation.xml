@@ -5,12 +5,14 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Google Play services missing or without correct permission." />
+      <item value="com.google.android.gms.measurement.internal.zzka.zza(com.google.android.gms:play-services-measurement@@21.1.0:10)" />
+      <item value="The service for com.google.android.gms.common.internal.service.zap is not available: ConnectionResult{statusCode=SERVICE_INVALID" />
       <item value="Unable to get advertising id: com.google.android.gms.common.GooglePlayServicesNotAvailableException:" />
       <item value="EGLNativeWindowType 0xb400006eae9ab6b0 disconnect failed" />
       <item value="Reducing the number of considered missed Gc histogram windows from 104 to 100" />
       <item value=": Failed to load IDynamiteLoader from GmsCore: Application package com.google.android.gms not found" />
       <item value="Application package com.google.android.gms not found" />
-      <item value="Google Play services missing or without correct permission." />
       <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
       <item value="No virtual method webViewOnResume()LkotlinU" />
       <item value="Loading com.google.android.webview version 103.0.5060.129 (code 506012934)" />
@@ -53,13 +55,11 @@
       <item value="A flag used in metering mode indicating the AF (Auto Focus) region is enabled. An autofocus scan is also triggered when FLAG_AF is assigned" />
       <item value="Gets a Preview.SurfaceProvider to be used with Preview.setSurfaceProvider(Executor, Preview.SurfaceProvider). This allows the camera feed to start when the Preview use case is bound to a lifecycle. The returned Preview.SurfaceProvider will provide a preview Surface to the camera that's either managed by a TextureView or SurfaceView depending on the PreviewView.ImplementationMode and the device's attributes (e.g. API level, camera hardware support level). Returns: A Preview.SurfaceProvider to attach to a Preview use case. See Also: PreviewView.ImplementationMode" />
       <item value="Preview" />
-      <item value="DEFAULT SURFACE PROVIDER EXECUTOR" />
-      <item value="flag used in metering mode indicating the AWB (Auto White Balance) region is enabled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="888" />
-        <entry key="ENGLISH" value="889" />
+        <entry key="CHINESE" value="891" />
+        <entry key="ENGLISH" value="892" />
         <entry key="GERMAN" value="2" />
       </map>
     </option>
