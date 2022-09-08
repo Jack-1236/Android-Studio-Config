@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A: Inactivity, disconnecting from the service" />
+      <item value="Recording user engagement, ms: 2028" />
+      <item value="Activity resumed, time: 304282470" />
+      <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log messages as quickly as they were being produced." />
+      <item value="Unexpected EOF!" />
       <item value="Processing queued up service tasks: 3" />
       <item value="Google Play services missing or without correct permission." />
       <item value="com.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
@@ -50,16 +55,11 @@
       <item value="Failed to open file" />
       <item value="Unexpected token u in JSON at position 0" />
       <item value="Uncaught (in promise): SyntaxError: Unexpected token u in JSON at position 0" />
-      <item value=": ML Kit has detected that you seem to pass camera frames to the detector as a Bitmap object. This is inefficient. Please use YUV_420_888 format for camera2 API or NV21 format for (legacy) camera API and directly pass down the byte array to ML Kit." />
-      <item value="LOAD NO CACHE" />
-      <item value="LOAD NORMAL" />
-      <item value="FORCE DARK ON" />
-      <item value="LOAD CACHE ELSE NETWORK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="928" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
