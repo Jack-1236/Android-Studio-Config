@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Processing queued up service tasks: 3" />
       <item value="Google Play services missing or without correct permission." />
       <item value="com.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
       <item value="Service invalid" />
@@ -54,12 +55,11 @@
       <item value="LOAD NORMAL" />
       <item value="FORCE DARK ON" />
       <item value="LOAD CACHE ELSE NETWORK" />
-      <item value="LOAD CACHE ONLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
