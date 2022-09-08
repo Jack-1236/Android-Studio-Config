@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Connection was reset" />
       <item value="Failed to play the prompt tone" />
       <item value=": Recording user engagement, ms: 145099" />
       <item value="Processing queued up service tasks: 1" />
@@ -54,12 +55,11 @@
       <item value="Skipped 52 frames! The application may be doing too much work on its main thread." />
       <item value="RegisterTcmMonitor from: Proxy2" />
       <item value="No such file or directory" />
-      <item value="Failed to open file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="930" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="931" />
+        <entry key="ENGLISH" value="932" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
