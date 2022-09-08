@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to play the prompt tone" />
       <item value=": Recording user engagement, ms: 145099" />
       <item value="Processing queued up service tasks: 1" />
       <item value="A: Inactivity, disconnecting from the service" />
@@ -54,12 +55,11 @@
       <item value="RegisterTcmMonitor from: Proxy2" />
       <item value="No such file or directory" />
       <item value="Failed to open file" />
-      <item value="Unexpected token u in JSON at position 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="929" />
-        <entry key="ENGLISH" value="930" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
