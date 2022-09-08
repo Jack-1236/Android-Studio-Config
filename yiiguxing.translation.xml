@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Google Play services missing or without correct permission." />
+      <item value="Load chromium build version message failed." />
       <item value=": Processing queued up service tasks: 3" />
       <item value="Processing queued up service tasks: 1" />
       <item value="Connected to remote service" />
@@ -23,7 +25,6 @@
       <item value="Connecting to remote service" />
       <item value="Frame time is 0.01916 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="aking request to" />
-      <item value="Google Play services missing or without correct permission." />
       <item value="om.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
       <item value="Failed to find provider info for com.google.android.gms.chimera" />
       <item value="Application package com.google.android.gms not found" />
@@ -54,12 +55,11 @@
       <item value="LOAD CACHE ONLY" />
       <item value="LOAD DEFAULT" />
       <item value="Timing out request:" />
-      <item value="data parcel size 3951200 bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="917" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
