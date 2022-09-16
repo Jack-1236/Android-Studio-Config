@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Serializer for class 'NoticeData' is not found." />
+      <item value="Activity paused, time: 57785127" />
       <item value="Application going to the background" />
       <item value="Event not sent since app measurement is disabled" />
       <item value="Processing queued up service tasks: 3" />
@@ -53,13 +55,11 @@
       <item value="No virtual method webViewOnResume()LkotlinU" />
       <item value="Loading com.google.android.webview version 103.0.5060.129 (code 506012934)" />
       <item value="Flushed 9 samples from 9 histograms." />
-      <item value="WebView cannot be initialized on a thread that has no Looper." />
-      <item value="A WebView method was called on thread 'DefaultDispatcher-worker-3'. All WebView methods must be called on the same thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="938" />
-        <entry key="ENGLISH" value="939" />
+        <entry key="CHINESE" value="940" />
+        <entry key="ENGLISH" value="941" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
