@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="AppSystemReceiver onReceive" />
+      <item value="Background young concurrent copying GC freed 627418(17MB) AllocSpace objects, 7(348KB) LOS objects" />
       <item value="Connection was reset" />
       <item value="Failed to play the prompt tone" />
       <item value=": Recording user engagement, ms: 145099" />
@@ -53,20 +55,18 @@
       <item value="A WebView method was called on thread 'DefaultDispatcher-worker-3'. All WebView methods must be called on the same thread" />
       <item value="kipped 36 frames! The application may be doing too much work on its main thread." />
       <item value="Skipped 52 frames! The application may be doing too much work on its main thread." />
-      <item value="RegisterTcmMonitor from: Proxy2" />
-      <item value="No such file or directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="933" />
+        <entry key="ENGLISH" value="934" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662518588691" />
+    <option name="lastTrimTime" value="1663321348152" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
