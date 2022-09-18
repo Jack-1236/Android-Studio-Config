@@ -1,0 +1,74 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1620" />
+    <option name="newTranslationDialogY" value="1070" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="Event not sent since app measurement is disabled" />
+      <item value="Serializer for class 'NoticeData' is not found." />
+      <item value="Activity paused, time: 57785127" />
+      <item value="Application going to the background" />
+      <item value="Processing queued up service tasks: 3" />
+      <item value="Processing queued up service tasks:" />
+      <item value="AppSystemReceiver onReceive" />
+      <item value="Background young concurrent copying GC freed 627418(17MB) AllocSpace objects, 7(348KB) LOS objects" />
+      <item value="Connection was reset" />
+      <item value="Failed to play the prompt tone" />
+      <item value=": Recording user engagement, ms: 145099" />
+      <item value="Processing queued up service tasks: 1" />
+      <item value="A: Inactivity, disconnecting from the service" />
+      <item value="Recording user engagement, ms: 2028" />
+      <item value="Activity resumed, time: 304282470" />
+      <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log messages as quickly as they were being produced." />
+      <item value="Unexpected EOF!" />
+      <item value="Google Play services missing or without correct permission." />
+      <item value="com.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
+      <item value="Service invalid" />
+      <item value="Load chromium build version message failed." />
+      <item value=": Processing queued up service tasks: 3" />
+      <item value="Connected to remote service" />
+      <item value="Uncaught ReferenceError: Notice is not defined&quot;" />
+      <item value="Notice is not defined" />
+      <item value="Wrote stack traces to tombstoned" />
+      <item value="Thread[5,tid=14735,WaitingInMainSignalCatcherLoop,Thread=0xb400007a4475e630,peer=0x13a80228,&quot;Signal Catcher&quot;]: reacting to signal 3" />
+      <item value="Could not reconstruct index from disk" />
+      <item value="Inactivity, disconnecting from the service" />
+      <item value="Requires BLUETOOTH permission" />
+      <item value=": To enable faster debug mode event logging run: adb shell setprop debug.firebase.analytics.app com.example.tekweldmachinemonitoring" />
+      <item value="App measurement disabled via the manifest" />
+      <item value=": Considering local module com.google.android.gms.measurement.dynamite:78 and remote module com.google.android.gms.measurement.dynamite:75" />
+      <item value="TRuntime.CctTransportBackend: Status Code: 200" />
+      <item value="Connecting to remote service" />
+      <item value="Frame time is 0.01916 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="aking request to" />
+      <item value="om.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
+      <item value="Failed to find provider info for com.google.android.gms.chimera" />
+      <item value="Application package com.google.android.gms not found" />
+      <item value="com.google.android.gms.measurement.internal.zzka.zza(com.google.android.gms:play-services-measurement@@21.1.0:10)" />
+      <item value="The service for com.google.android.gms.common.internal.service.zap is not available: ConnectionResult{statusCode=SERVICE_INVALID" />
+      <item value="Unable to get advertising id: com.google.android.gms.common.GooglePlayServicesNotAvailableException:" />
+      <item value="EGLNativeWindowType 0xb400006eae9ab6b0 disconnect failed" />
+      <item value="Reducing the number of considered missed Gc histogram windows from 104 to 100" />
+      <item value=": Failed to load IDynamiteLoader from GmsCore: Application package com.google.android.gms not found" />
+      <item value="Compiler allocated 4304KB to compile void android.view.ViewRootImpl.performTraversals()" />
+      <item value="No virtual method webViewOnResume()LkotlinU" />
+      <item value="Loading com.google.android.webview version 103.0.5060.129 (code 506012934)" />
+      <item value="Flushed 9 samples from 9 histograms." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="941" />
+        <entry key="ENGLISH" value="942" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FILIPINO" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1663321348152" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
