@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="prepare" />
       <item value="set Block Network Image" />
       <item value="Declare the preferred size of the content to be exactly sizedp square. The incoming measurement Constraints may override this value, forcing the content to be either smaller or larger. For a modifier that sets the size of the content regardless of the incoming constraints, see Modifier.requiredSize. See width or height to set width or height alone. See widthIn, heightIn or sizeIn to set a preferred size range. Example usage: Samples: androidx.compose.foundation.layout.samples.SimpleSizeModifier Unresolved" />
       <item value="Application going to the background" />
@@ -54,12 +55,11 @@
       <item value="TRuntime.CctTransportBackend: Status Code: 200" />
       <item value="Connecting to remote service" />
       <item value="Frame time is 0.01916 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
-      <item value="aking request to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="CHINESE" value="959" />
+        <entry key="ENGLISH" value="960" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
