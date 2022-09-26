@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="enable Placeholders" />
+      <item value="prefetch Distance" />
+      <item value="initial Load Size" />
+      <item value="page Size" />
       <item value="Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs" />
       <item value="Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL." />
       <item value="Project with path ':library' could not be found in project ':app'." />
@@ -51,15 +55,11 @@
       <item value="App measurement disabled via the manifest" />
       <item value=": Considering local module com.google.android.gms.measurement.dynamite:78 and remote module com.google.android.gms.measurement.dynamite:75" />
       <item value="TRuntime.CctTransportBackend: Status Code: 200" />
-      <item value="Connecting to remote service" />
-      <item value="Frame time is 0.01916 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
-      <item value="aking request to" />
-      <item value="om.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
-        <entry key="ENGLISH" value="955" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
