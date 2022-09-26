@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs" />
       <item value="Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL." />
       <item value="Project with path ':library' could not be found in project ':app'." />
       <item value="Show in Project Structure dialog" />
@@ -54,12 +55,11 @@
       <item value="Frame time is 0.01916 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="aking request to" />
       <item value="om.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
-      <item value="Failed to find provider info for com.google.android.gms.chimera" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
