@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: java.lang.RuntimeException: Duplicate class com.google.gson.ExclusionStrategy found in modules jetified-gson-2.8.1 (gson-2.8.1.jar) and jetified-gson-2.8.9 (com.google.code.gson:gson:2.8.9)" />
       <item value="initial Load Size" />
       <item value="prefetch Distance" />
       <item value="An operation is not implemented: Not yet implemented" />
@@ -54,12 +55,11 @@
       <item value="Notice is not defined" />
       <item value="Wrote stack traces to tombstoned" />
       <item value="Thread[5,tid=14735,WaitingInMainSignalCatcherLoop,Thread=0xb400007a4475e630,peer=0x13a80228,&quot;Signal Catcher&quot;]: reacting to signal 3" />
-      <item value="Could not reconstruct index from disk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="966" />
-        <entry key="ENGLISH" value="967" />
+        <entry key="CHINESE" value="967" />
+        <entry key="ENGLISH" value="968" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
