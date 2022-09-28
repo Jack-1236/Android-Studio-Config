@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Binary XML file line 13 in com.example.tekweldmachinemonitoring:layoutactivity_scanner: Error inflating class androidx.camera.view.PreviewView" />
+      <item value="Error inflating class androidx.camera.view.PreviewView" />
+      <item value="Error inflating" />
       <item value="A failure occurred while executing com.android.build.gradle.internal.res.ParseLibraryResourcesTaskParseResourcesRunnable" />
       <item value="Failed to parse XML file 'C:\AndroidProject\Mlkit-Jack\MkitBarCode\app\build\intermediates\packaged_res\debug\layout\activity_scanner.xm" />
       <item value="Caused by: java.lang.RuntimeException: Duplicate class com.google.gson.ExclusionStrategy found in modules jetified-gson-2.8.1 (gson-2.8.1.jar) and jetified-gson-2.8.9 (com.google.code.gson:gson:2.8.9)" />
@@ -52,14 +55,11 @@
       <item value="Service invalid" />
       <item value="Load chromium build version message failed." />
       <item value=": Processing queued up service tasks: 3" />
-      <item value="Connected to remote service" />
-      <item value="Uncaught ReferenceError: Notice is not defined&quot;" />
-      <item value="Notice is not defined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
