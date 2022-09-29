@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:debugRuntimeClasspath'." />
       <item value="Failed resolution of:" />
       <item value="Didn't find class &quot;com.google.mlkit.vision.barcode.BarcodeScannerOptionsBuilder&quot; on path: DexPathList" />
       <item value="Compilation error. See log for more details" />
@@ -54,12 +55,11 @@
       <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log messages as quickly as they were being produced." />
       <item value="Unexpected EOF!" />
       <item value="Google Play services missing or without correct permission." />
-      <item value="com.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="975" />
-        <entry key="ENGLISH" value="976" />
+        <entry key="CHINESE" value="976" />
+        <entry key="ENGLISH" value="977" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
