@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Failed resolution of:" />
+      <item value="Didn't find class &quot;com.google.mlkit.vision.barcode.BarcodeScannerOptionsBuilder&quot; on path: DexPathList" />
       <item value="Compilation error. See log for more details" />
       <item value="Binary XML file line 13 in com.example.tekweldmachinemonitoring:layoutactivity_scanner: Error inflating class androidx.camera.view.PreviewView" />
       <item value="Error inflating class androidx.camera.view.PreviewView" />
@@ -53,13 +55,11 @@
       <item value="Unexpected EOF!" />
       <item value="Google Play services missing or without correct permission." />
       <item value="com.example.tekweldmachinemonitoring requires the Google Play Store, but it is missing." />
-      <item value="Service invalid" />
-      <item value="Load chromium build version message failed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="973" />
-        <entry key="ENGLISH" value="974" />
+        <entry key="CHINESE" value="975" />
+        <entry key="ENGLISH" value="976" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
