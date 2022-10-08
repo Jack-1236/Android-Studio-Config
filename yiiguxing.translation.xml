@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="disable Soft keyboard" />
       <item value="division" />
       <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:debugRuntimeClasspath'." />
       <item value="Failed resolution of:" />
@@ -54,12 +55,11 @@
       <item value="Recording user engagement, ms: 2028" />
       <item value="Activity resumed, time: 304282470" />
       <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log messages as quickly as they were being produced." />
-      <item value="Unexpected EOF!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="978" />
+        <entry key="ENGLISH" value="979" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
