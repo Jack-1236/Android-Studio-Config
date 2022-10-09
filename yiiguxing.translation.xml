@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="I don't know why the numbers are like that, maybe the longer the better,wow" />
+      <item value="set listeners" />
+      <item value="SINCE ONLT SINGLE SPLIT PRICE IS HERE ADDING IT DIRECTLY" />
+      <item value="child item" />
+      <item value="ExpandableItemAdapter, ExpandableDraggableItemAdapter and ExpandableSwipeableItemAdapter require stable ID, and also have to implement the getGroupItemId()getChildItemId() methods appropriately." />
       <item value="enable Single Split Price Order" />
       <item value="is Enable Single Split Price" />
       <item value="expand Group" />
@@ -50,16 +55,11 @@
       <item value="Event not sent since app measurement is disabled" />
       <item value="Serializer for class 'NoticeData' is not found." />
       <item value="Activity paused, time: 57785127" />
-      <item value="Application going to the background" />
-      <item value="Processing queued up service tasks: 3" />
-      <item value="Processing queued up service tasks:" />
-      <item value="AppSystemReceiver onReceive" />
-      <item value="Background young concurrent copying GC freed 627418(17MB) AllocSpace objects, 7(348KB) LOS objects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="CHINESE" value="993" />
+        <entry key="ENGLISH" value="994" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
