@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expand Group" />
+      <item value="Expand a group. Params: groupPosition – The group position to be expanded Returns: True if the group was expanded, false otherwise (If the group was already expanded, this will return false)" />
       <item value="&gt;Note: this class is here to provide backwards-compatible way for apps written before the" />
       <item value="sunLook rewrite" />
       <item value="The application may be doing too much work on its main thread." />
@@ -53,13 +55,11 @@
       <item value="Processing queued up service tasks:" />
       <item value="AppSystemReceiver onReceive" />
       <item value="Background young concurrent copying GC freed 627418(17MB) AllocSpace objects, 7(348KB) LOS objects" />
-      <item value="Connection was reset" />
-      <item value="Failed to play the prompt tone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
-        <entry key="ENGLISH" value="985" />
+        <entry key="CHINESE" value="986" />
+        <entry key="ENGLISH" value="987" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
