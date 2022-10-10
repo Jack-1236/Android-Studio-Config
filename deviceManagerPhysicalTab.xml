@@ -19,9 +19,9 @@
             <value value="30628314750058Y" />
           </Key>
         </key>
-        <name value="vivo V2055A" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
