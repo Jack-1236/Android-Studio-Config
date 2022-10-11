@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="target" />
+      <item value="replacement" />
       <item value="unpin if tapped the pinned item" />
       <item value="undo Last Removal" />
       <item value="end Promotion" />
@@ -53,13 +55,11 @@
       <item value="not available in 24 Suggestion: use a compatible library with a minSdk of at most 24, or increase this project's minSdk version to at least 28, or use tools:overrideLibrary=&quot;com.example.baseandroidaar&quot; to force usage (may lead to runtime failures)" />
       <item value="enable Placeholders" />
       <item value="page Size" />
-      <item value="Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs" />
-      <item value="Software Components will not be created automatically for Maven publishing from Android Gradle Plugin 8.0. To opt-in to the future behavior, set the Gradle property android.disableAutomaticComponentCreation=true in the `gradle.properties` file or use the new publishing DSL." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="1007" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
