@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cleartext HTTP traffic to 192.168.1.4 not permitted" />
       <item value="Software caused connection abort" />
       <item value="Activity com.example.nfctools.main.activity.MainActivity has leaked window DecorView@d3d3a7f[MainActivity] that was originally added here" />
       <item value="that was originally added here" />
@@ -54,12 +55,11 @@
       <item value="Caused by: java.lang.RuntimeException: Duplicate class com.google.gson.ExclusionStrategy found in modules jetified-gson-2.8.1 (gson-2.8.1.jar) and jetified-gson-2.8.9 (com.google.code.gson:gson:2.8.9)" />
       <item value="initial Load Size" />
       <item value="prefetch Distance" />
-      <item value="An operation is not implemented: Not yet implemented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1016" />
-        <entry key="ENGLISH" value="1017" />
+        <entry key="CHINESE" value="1017" />
+        <entry key="ENGLISH" value="1018" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
