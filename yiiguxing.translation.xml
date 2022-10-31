@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Stable ids are unsupported on PagingDataAdapter." />
       <item value="This task is dirty to restart, If you want to reuse this task, please invoke reuse method manually and retry to restart again.com.liulishuo.filedownloader.DownloadTaskHunter@4306a40" />
       <item value="Handshake failed" />
       <item value="Couldn't find meta-data for provider with authority com.example.nfctools.fileprovider" />
@@ -54,12 +55,11 @@
       <item value="The application may be doing too much work on its main thread." />
       <item value="cannot be cast to com.dabush.shen.mcrpos.utils.ProductComplexField" />
       <item value="disable Soft keyboard" />
-      <item value="division" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
