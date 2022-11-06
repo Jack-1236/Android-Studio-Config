@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Could not resolve all files for configuration ':app:debugRuntimeClasspath'." />
+      <item value="Could not resolve io.flutter:x86_debug:1.0.0-857bd6b74c5eb56151bfafe91e7fa6a82b6fee25." />
       <item value="This task is dirty to restart, If you want to reuse this task, please invoke reuse method manually and retry to restart again.com.liulishuo.filedownloader.DownloadTaskHunter@4306a40" />
       <item value="Handshake failed" />
       <item value="Couldn't find meta-data for provider with authority com.example.nfctools.fileprovider" />
@@ -53,20 +55,18 @@
       <item value="sunLook rewrite" />
       <item value="The application may be doing too much work on its main thread." />
       <item value="cannot be cast to com.dabush.shen.mcrpos.utils.ProductComplexField" />
-      <item value="disable Soft keyboard" />
-      <item value="division" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1032" />
+        <entry key="ENGLISH" value="1033" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666859128223" />
+    <option name="lastTrimTime" value="1667742391014" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
