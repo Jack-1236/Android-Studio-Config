@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="scroll To Position With Offset" />
       <item value="SSL peer shut down incorrectly" />
       <item value="initial Corner" />
       <item value="final Corner" />
@@ -54,12 +55,11 @@
       <item value="ExpandableItemAdapter, ExpandableDraggableItemAdapter and ExpandableSwipeableItemAdapter require stable ID, and also have to implement the getGroupItemId()getChildItemId() methods appropriately." />
       <item value="enable Single Split Price Order" />
       <item value="is Enable Single Split Price" />
-      <item value="expand Group" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1037" />
-        <entry key="ENGLISH" value="1038" />
+        <entry key="CHINESE" value="1038" />
+        <entry key="ENGLISH" value="1039" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
