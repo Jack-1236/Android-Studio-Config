@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Lat Lng Bounds For Camera Target" />
+      <item value="get Camera" />
+      <item value="zoom Gestures Enabled" />
+      <item value="zoom Controls Enabled" />
+      <item value="z Order On Top" />
+      <item value="use View Lifecycle In Fragment" />
+      <item value="tilt Gestures Enabled" />
+      <item value="scroll Gestures Enabled During Rotate Or Zoom" />
+      <item value="scroll Gestures Enabled" />
+      <item value="min Zoom Preference" />
+      <item value="max Zoom Preference" />
+      <item value="map Type" />
+      <item value="map Toolbar Enabled" />
+      <item value="map Id" />
+      <item value="lite Mode" />
+      <item value="lat Lng Bounds For Camera Target" />
+      <item value="ambient Enabled" />
+      <item value="create From Attributes" />
+      <item value="compass Enabled" />
+      <item value="rotate Gestures Enabled" />
       <item value="Ensure that the following Android Key exists:" />
       <item value="In the Google Developer Console" />
       <item value="Authorization failure." />
@@ -35,31 +55,11 @@
       <item value=": conn is already closed on readError closeConn socketEngineID: 0 socket hashcode: 0java.lang.Throwable" />
       <item value=": Couldn't find meta-data for provider with authority com.example.tekweldmachinemonitoring.fileprovider" />
       <item value="Cleartext HTTP traffic to 192.168.1.4 not permitted" />
-      <item value="Software caused connection abort" />
-      <item value="Activity com.example.nfctools.main.activity.MainActivity has leaked window DecorView@d3d3a7f[MainActivity] that was originally added here" />
-      <item value="that was originally added here" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.nfctools.nfcutil.NfcWriteTools, unresolved supertypes: com.example.nfctools.nfcutil.NfcWrite Adding -Xextended-compiler-checks argument might provide additional information." />
-      <item value="Caused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
-      <item value="StandaloneCoroutine was cancelled" />
-      <item value="spans cannot have a zero length" />
-      <item value="target" />
-      <item value="replacement" />
-      <item value="unpin if tapped the pinned item" />
-      <item value="undo Last Removal" />
-      <item value="end Promotion" />
-      <item value="Collapse a group. @param groupPosition The group position to be collapsed @return True if the group was collapsed, false otherwise (If the group was already collapsed, this will return false)" />
-      <item value="create Wrapped Adapter" />
-      <item value="wrap for expanding" />
-      <item value="turn" />
-      <item value="get All Vectors" />
-      <item value="Attempt to invoke virtual method 'int java.util.Vector.size()' on a null object reference" />
-      <item value="Enable Single Split Price" />
-      <item value="save user configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1047" />
-        <entry key="ENGLISH" value="1048" />
+        <entry key="CHINESE" value="1068" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
