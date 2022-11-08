@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="TODO: Before you run your application, you need a Google Maps API key." />
+      <item value="Google Map" />
       <item value="scroll To Position With Offset" />
       <item value="SSL peer shut down incorrectly" />
       <item value="initial Corner" />
@@ -53,13 +55,11 @@
       <item value="SINCE ONLT SINGLE SPLIT PRICE IS HERE ADDING IT DIRECTLY" />
       <item value="child item" />
       <item value="ExpandableItemAdapter, ExpandableDraggableItemAdapter and ExpandableSwipeableItemAdapter require stable ID, and also have to implement the getGroupItemId()getChildItemId() methods appropriately." />
-      <item value="enable Single Split Price Order" />
-      <item value="is Enable Single Split Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1038" />
-        <entry key="ENGLISH" value="1039" />
+        <entry key="CHINESE" value="1040" />
+        <entry key="ENGLISH" value="1041" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
