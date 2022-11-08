@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Functions marked 'async' must have a return type assignable to 'Future'. (Documentation) Try fixing the return type of the function, or removing the modifier 'async' from the function body." />
       <item value="root View" />
       <item value="Stable ids are unsupported on PagingDataAdapter." />
       <item value="This task is dirty to restart, If you want to reuse this task, please invoke reuse method manually and retry to restart again.com.liulishuo.filedownloader.DownloadTaskHunter@4306a40" />
@@ -54,12 +55,11 @@
       <item value="&gt;Note: this class is here to provide backwards-compatible way for apps written before the" />
       <item value="sunLook rewrite" />
       <item value="The application may be doing too much work on its main thread." />
-      <item value="cannot be cast to com.dabush.shen.mcrpos.utils.ProductComplexField" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1032" />
-        <entry key="ENGLISH" value="1033" />
+        <entry key="CHINESE" value="1033" />
+        <entry key="ENGLISH" value="1034" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
