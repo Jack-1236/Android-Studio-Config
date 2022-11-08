@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ensure that the following Android Key exists:" />
+      <item value="In the Google Developer Console" />
+      <item value="Authorization failure." />
+      <item value="for how to correctly set up the map." />
+      <item value="Obtain the SupportMapFragment and get notified when the map is ready to be used." />
+      <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
       <item value="Always include this permission" />
       <item value="TODO: Before you run your application, you need a Google Maps API key." />
       <item value="Google Map" />
@@ -49,17 +55,11 @@
       <item value="Attempt to invoke virtual method 'int java.util.Vector.size()' on a null object reference" />
       <item value="Enable Single Split Price" />
       <item value="save user configuration" />
-      <item value="current click item position 16, view type -2147483643Error:Attempt to invoke virtual method 'int java.util.Vector.size()' on a null object reference" />
-      <item value="what the hell is this?" />
-      <item value="I don't know why the numbers are like that, maybe the longer the better,wow" />
-      <item value="set listeners" />
-      <item value="SINCE ONLT SINGLE SPLIT PRICE IS HERE ADDING IT DIRECTLY" />
-      <item value="child item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1041" />
-        <entry key="ENGLISH" value="1042" />
+        <entry key="CHINESE" value="1047" />
+        <entry key="ENGLISH" value="1048" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
