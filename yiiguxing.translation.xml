@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Always include this permission" />
       <item value="TODO: Before you run your application, you need a Google Maps API key." />
       <item value="Google Map" />
       <item value="scroll To Position With Offset" />
@@ -54,12 +55,11 @@
       <item value="set listeners" />
       <item value="SINCE ONLT SINGLE SPLIT PRICE IS HERE ADDING IT DIRECTLY" />
       <item value="child item" />
-      <item value="ExpandableItemAdapter, ExpandableDraggableItemAdapter and ExpandableSwipeableItemAdapter require stable ID, and also have to implement the getGroupItemId()getChildItemId() methods appropriately." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
-        <entry key="ENGLISH" value="1041" />
+        <entry key="CHINESE" value="1041" />
+        <entry key="ENGLISH" value="1042" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
