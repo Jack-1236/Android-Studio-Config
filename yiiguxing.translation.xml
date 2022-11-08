@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ui Scroll Gestures" />
+      <item value="ui Rotate Gestures" />
+      <item value="camera Zoom" />
+      <item value="camera Bearing" />
+      <item value="satellite" />
       <item value="get Lat Lng Bounds For Camera Target" />
       <item value="get Camera" />
       <item value="zoom Gestures Enabled" />
@@ -50,16 +55,11 @@
       <item value="on Failure Synchronize" />
       <item value="A resource failed to call close." />
       <item value="Updatable production driver is not supported on the device." />
-      <item value="Failed resolution of: Lokhttp3OkHttpClientBuilder" />
-      <item value="SECONDS" />
-      <item value=": conn is already closed on readError closeConn socketEngineID: 0 socket hashcode: 0java.lang.Throwable" />
-      <item value=": Couldn't find meta-data for provider with authority com.example.tekweldmachinemonitoring.fileprovider" />
-      <item value="Cleartext HTTP traffic to 192.168.1.4 not permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1073" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
