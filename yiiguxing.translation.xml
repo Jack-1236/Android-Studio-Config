@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rect F" />
+      <item value="draw Arc" />
+      <item value="draw Circle" />
       <item value="Stable ids are unsupported on PagingDataAdapter." />
       <item value="This task is dirty to restart, If you want to reuse this task, please invoke reuse method manually and retry to restart again.com.liulishuo.filedownloader.DownloadTaskHunter@4306a40" />
       <item value="Handshake failed" />
@@ -52,21 +55,18 @@
       <item value="Expand a group. Params: groupPosition – The group position to be expanded Returns: True if the group was expanded, false otherwise (If the group was already expanded, this will return false)" />
       <item value="&gt;Note: this class is here to provide backwards-compatible way for apps written before the" />
       <item value="sunLook rewrite" />
-      <item value="The application may be doing too much work on its main thread." />
-      <item value="cannot be cast to com.dabush.shen.mcrpos.utils.ProductComplexField" />
-      <item value="disable Soft keyboard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1031" />
-        <entry key="ENGLISH" value="1032" />
+        <entry key="CHINESE" value="1034" />
+        <entry key="ENGLISH" value="1035" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666859128223" />
+    <option name="lastTrimTime" value="1667877723009" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
