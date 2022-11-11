@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its view" />
       <item value="ui Scroll Gestures" />
       <item value="ui Rotate Gestures" />
       <item value="camera Zoom" />
@@ -54,12 +55,11 @@
       <item value="on Success Synchronize" />
       <item value="on Failure Synchronize" />
       <item value="A resource failed to call close." />
-      <item value="Updatable production driver is not supported on the device." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1073" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="CHINESE" value="1074" />
+        <entry key="ENGLISH" value="1075" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
