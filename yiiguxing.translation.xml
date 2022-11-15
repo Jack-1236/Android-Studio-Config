@@ -1,0 +1,74 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1620" />
+    <option name="newTranslationDialogY" value="1070" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="Scaffold" />
+      <item value="No Windows desktop project configured." />
+      <item value="Functions marked 'async' must have a return type assignable to 'Future'. (Documentation) Try fixing the return type of the function, or removing the modifier 'async' from the function body." />
+      <item value="root View" />
+      <item value="Stable ids are unsupported on PagingDataAdapter." />
+      <item value="This task is dirty to restart, If you want to reuse this task, please invoke reuse method manually and retry to restart again.com.liulishuo.filedownloader.DownloadTaskHunter@4306a40" />
+      <item value="Handshake failed" />
+      <item value="Couldn't find meta-data for provider with authority com.example.nfctools.fileprovider" />
+      <item value="divide by zero" />
+      <item value="on Success Synchronize" />
+      <item value="on Failure Synchronize" />
+      <item value="A resource failed to call close." />
+      <item value="Updatable production driver is not supported on the device." />
+      <item value="Failed resolution of: Lokhttp3OkHttpClientBuilder" />
+      <item value="SECONDS" />
+      <item value=": conn is already closed on readError closeConn socketEngineID: 0 socket hashcode: 0java.lang.Throwable" />
+      <item value=": Couldn't find meta-data for provider with authority com.example.tekweldmachinemonitoring.fileprovider" />
+      <item value="Cleartext HTTP traffic to 192.168.1.4 not permitted" />
+      <item value="Software caused connection abort" />
+      <item value="Activity com.example.nfctools.main.activity.MainActivity has leaked window DecorView@d3d3a7f[MainActivity] that was originally added here" />
+      <item value="that was originally added here" />
+      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.nfctools.nfcutil.NfcWriteTools, unresolved supertypes: com.example.nfctools.nfcutil.NfcWrite Adding -Xextended-compiler-checks argument might provide additional information." />
+      <item value="Caused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
+      <item value="StandaloneCoroutine was cancelled" />
+      <item value="spans cannot have a zero length" />
+      <item value="target" />
+      <item value="replacement" />
+      <item value="unpin if tapped the pinned item" />
+      <item value="undo Last Removal" />
+      <item value="end Promotion" />
+      <item value="Collapse a group. @param groupPosition The group position to be collapsed @return True if the group was collapsed, false otherwise (If the group was already collapsed, this will return false)" />
+      <item value="create Wrapped Adapter" />
+      <item value="wrap for expanding" />
+      <item value="turn" />
+      <item value="get All Vectors" />
+      <item value="Attempt to invoke virtual method 'int java.util.Vector.size()' on a null object reference" />
+      <item value="Enable Single Split Price" />
+      <item value="save user configuration" />
+      <item value="current click item position 16, view type -2147483643Error:Attempt to invoke virtual method 'int java.util.Vector.size()' on a null object reference" />
+      <item value="what the hell is this?" />
+      <item value="I don't know why the numbers are like that, maybe the longer the better,wow" />
+      <item value="set listeners" />
+      <item value="SINCE ONLT SINGLE SPLIT PRICE IS HERE ADDING IT DIRECTLY" />
+      <item value="child item" />
+      <item value="ExpandableItemAdapter, ExpandableDraggableItemAdapter and ExpandableSwipeableItemAdapter require stable ID, and also have to implement the getGroupItemId()getChildItemId() methods appropriately." />
+      <item value="enable Single Split Price Order" />
+      <item value="is Enable Single Split Price" />
+      <item value="expand Group" />
+      <item value="Expand a group. Params: groupPosition – The group position to be expanded Returns: True if the group was expanded, false otherwise (If the group was already expanded, this will return false)" />
+      <item value="&gt;Note: this class is here to provide backwards-compatible way for apps written before the" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1035" />
+        <entry key="ENGLISH" value="1036" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FILIPINO" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1668435372743" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
