@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="reset All Objects" />
       <item value="parse Body" />
       <item value="NAMESPACE" />
       <item value="set Output Soap Object" />
@@ -54,12 +55,11 @@
       <item value="Google Map" />
       <item value="scroll To Position With Offset" />
       <item value="SSL peer shut down incorrectly" />
-      <item value="initial Corner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="CHINESE" value="1088" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
