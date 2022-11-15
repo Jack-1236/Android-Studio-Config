@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Firebase Installations Service is unavailable. Please try again later." />
+      <item value="setGravity() shouldn't be called on text toasts, the values won't be used" />
       <item value="Only the original thread that created a view hierarchy can touch its view" />
       <item value="ui Scroll Gestures" />
       <item value="ui Rotate Gestures" />
@@ -53,20 +55,18 @@
       <item value="Couldn't find meta-data for provider with authority com.example.nfctools.fileprovider" />
       <item value="divide by zero" />
       <item value="on Success Synchronize" />
-      <item value="on Failure Synchronize" />
-      <item value="A resource failed to call close." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1074" />
-        <entry key="ENGLISH" value="1075" />
+        <entry key="CHINESE" value="1076" />
+        <entry key="ENGLISH" value="1077" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667877723009" />
+    <option name="lastTrimTime" value="1668479084439" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
