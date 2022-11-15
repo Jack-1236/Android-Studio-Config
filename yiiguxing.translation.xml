@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="parse Body" />
+      <item value="NAMESPACE" />
+      <item value="set Output Soap Object" />
+      <item value="set Add Adornments" />
+      <item value="get Soap Serialization Envelope" />
+      <item value="element At" />
+      <item value="body In" />
+      <item value="Base Request Ser" />
+      <item value="Soap Serialization Envelope" />
+      <item value="Soap Envelope" />
       <item value="Firebase Installations Service is unavailable. Please try again later." />
       <item value="setGravity() shouldn't be called on text toasts, the values won't be used" />
       <item value="Only the original thread that created a view hierarchy can touch its view" />
@@ -45,21 +55,11 @@
       <item value="scroll To Position With Offset" />
       <item value="SSL peer shut down incorrectly" />
       <item value="initial Corner" />
-      <item value="final Corner" />
-      <item value="rect F" />
-      <item value="draw Arc" />
-      <item value="draw Circle" />
-      <item value="Stable ids are unsupported on PagingDataAdapter." />
-      <item value="This task is dirty to restart, If you want to reuse this task, please invoke reuse method manually and retry to restart again.com.liulishuo.filedownloader.DownloadTaskHunter@4306a40" />
-      <item value="Handshake failed" />
-      <item value="Couldn't find meta-data for provider with authority com.example.nfctools.fileprovider" />
-      <item value="divide by zero" />
-      <item value="on Success Synchronize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1076" />
-        <entry key="ENGLISH" value="1077" />
+        <entry key="CHINESE" value="1087" />
+        <entry key="ENGLISH" value="1088" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
