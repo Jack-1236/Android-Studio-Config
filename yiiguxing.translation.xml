@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error: Cannot invoke a non-'const' constructor where a const expression is expected." />
+      <item value="A value of type 'Null' can't be assigned to a parameter of type 'ImageProvider&lt;Object&gt;' in a const constructor. (Documentation)" />
+      <item value="Expected a key while parsing a block mapping." />
+      <item value="To add assets to your application, add an assets section, like this:" />
+      <item value="line 66, column 4 of pubspec.yaml: Expected a key while parsing a block mapping." />
+      <item value="Exception: Please correct the pubspec.yaml file at .\pubspec.yaml" />
       <item value="decoration" />
       <item value="reset All Objects" />
       <item value="parse Body" />
@@ -49,17 +55,11 @@
       <item value="In the Google Developer Console" />
       <item value="Authorization failure." />
       <item value="for how to correctly set up the map." />
-      <item value="Obtain the SupportMapFragment and get notified when the map is ready to be used." />
-      <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
-      <item value="Always include this permission" />
-      <item value="TODO: Before you run your application, you need a Google Maps API key." />
-      <item value="Google Map" />
-      <item value="scroll To Position With Offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1090" />
+        <entry key="CHINESE" value="1095" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>

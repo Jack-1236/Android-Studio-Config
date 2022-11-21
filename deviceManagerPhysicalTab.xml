@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="a8d8d36f" />
+          </Key>
+        </key>
+        <name value="QUALCOMM V9000P" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="30628314750058Y" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a8d8d36f" />
-          </Key>
-        </key>
-        <name value="QUALCOMM V9000P" />
-        <target value="Android 9.0" />
-        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
