@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="decoration" />
       <item value="reset All Objects" />
       <item value="parse Body" />
       <item value="NAMESPACE" />
@@ -54,19 +55,18 @@
       <item value="TODO: Before you run your application, you need a Google Maps API key." />
       <item value="Google Map" />
       <item value="scroll To Position With Offset" />
-      <item value="SSL peer shut down incorrectly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1088" />
-        <entry key="ENGLISH" value="1089" />
+        <entry key="CHINESE" value="1089" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668479084439" />
+    <option name="lastTrimTime" value="1668999174217" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
