@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Manifest merger failed with multiple errors, see logs" />
+      <item value="Note that updating a library or application's compileSdkVersion (which allows newer APIs to be used) can be done separately from updating targetSdkVersion (which opts the app in to new runtime behavior) and minSdkVersion (which determines which devices the app can be installed on)." />
+      <item value="Recommended action: Update this project to use a newer compileSdkVersion" />
+      <item value="Caused by: org.gradle.workers.internal.DefaultWorkerExecutorWorkExecutionException: A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction" />
+      <item value="Minimum supported Gradle version is 7.0.2. Current version is 7.0." />
+      <item value="Caused by: java.lang.RuntimeException: Manifest merger failed with multiple errors, see logs" />
+      <item value="Can't determine type for tag '&lt;macro name=&quot;m3_comp_bottom_app_bar_container_color&quot;&gt;?attrcolorSurface&lt;macro&gt;'" />
       <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github.Jack-1236:BaseAndroid:1.1.8." />
       <item value="Could not GET 'https:jitpack.iocomgithubJack-1236BaseAndroid1.1.8BaseAndroid-1.1.8.pom'. Received status code 403 from server: Forbidden" />
       <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github" />
@@ -19,7 +26,6 @@
       <item value="OpenSSL SSL_read: Connection was reset, errno 10054" />
       <item value="Direct local .aar file dependencies are not supported when building an AAR. The resulting AAR would be broken because the classes and Android resources from any local .aar file dependencies would not be packaged in the resulting AAR. Previous versions of the Android Gradle Plugin produce broken AARs in this case too (despite not throwing this error). The following direct local .aar file dependencies of the :app project caused this error: C:\WrokProject\AndroidProject\OnlineOrder Project\McrOnlineOrder\McrOnlinelibrary\app\libs\BaseAndroid1@1.0-debug.aar" />
       <item value="The binary version of its metadata is 1.7.1, expected version is 1.5.1." />
-      <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="primary Variant" />
       <item value="Error: Cannot invoke a non-'const' constructor where a const expression is expected." />
       <item value="A value of type 'Null' can't be assigned to a parameter of type 'ImageProvider&lt;Object&gt;' in a const constructor. (Documentation)" />
@@ -49,17 +55,11 @@
       <item value="satellite" />
       <item value="get Lat Lng Bounds For Camera Target" />
       <item value="get Camera" />
-      <item value="zoom Gestures Enabled" />
-      <item value="zoom Controls Enabled" />
-      <item value="z Order On Top" />
-      <item value="use View Lifecycle In Fragment" />
-      <item value="tilt Gestures Enabled" />
-      <item value="scroll Gestures Enabled During Rotate Or Zoom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1113" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="CHINESE" value="1121" />
+        <entry key="ENGLISH" value="1122" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
