@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github.Jack-1236:BaseAndroid:1.1.8." />
+      <item value="Could not GET 'https:jitpack.iocomgithubJack-1236BaseAndroid1.1.8BaseAndroid-1.1.8.pom'. Received status code 403 from server: Forbidden" />
+      <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github" />
+      <item value=": Could not resolve com.github.Jack-1236:BaseAndroid:1.1.7." />
+      <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github.Jack-1236:BaseAndroid:1.1.7." />
+      <item value="Disable Gradle 'offline mode' and sync project" />
+      <item value="Errors limit exceeded. To receive all errors set com.sun.xml.bind logger to FINEST level." />
+      <item value="No cached version of com.github.Jack-1236:BaseAndroid:1.1.7 available for offline mode." />
+      <item value="&gt; Could not get unknown property 'authToken' for Credentials [username: null] of type org.gradle.internal.credentials" />
+      <item value="Received status code 401 from server: Unauthorized" />
+      <item value="Could not resolve host: github.com" />
+      <item value="OpenSSL SSL_read: Connection was reset, errno 10054" />
+      <item value="Direct local .aar file dependencies are not supported when building an AAR. The resulting AAR would be broken because the classes and Android resources from any local .aar file dependencies would not be packaged in the resulting AAR. Previous versions of the Android Gradle Plugin produce broken AARs in this case too (despite not throwing this error). The following direct local .aar file dependencies of the :app project caused this error: C:\WrokProject\AndroidProject\OnlineOrder Project\McrOnlineOrder\McrOnlinelibrary\app\libs\BaseAndroid1@1.0-debug.aar" />
+      <item value="The binary version of its metadata is 1.7.1, expected version is 1.5.1." />
+      <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="primary Variant" />
       <item value="Error: Cannot invoke a non-'const' constructor where a const expression is expected." />
       <item value="A value of type 'Null' can't be assigned to a parameter of type 'ImageProvider&lt;Object&gt;' in a const constructor. (Documentation)" />
@@ -40,26 +55,11 @@
       <item value="use View Lifecycle In Fragment" />
       <item value="tilt Gestures Enabled" />
       <item value="scroll Gestures Enabled During Rotate Or Zoom" />
-      <item value="scroll Gestures Enabled" />
-      <item value="min Zoom Preference" />
-      <item value="max Zoom Preference" />
-      <item value="map Type" />
-      <item value="map Toolbar Enabled" />
-      <item value="map Id" />
-      <item value="lite Mode" />
-      <item value="lat Lng Bounds For Camera Target" />
-      <item value="ambient Enabled" />
-      <item value="create From Attributes" />
-      <item value="compass Enabled" />
-      <item value="rotate Gestures Enabled" />
-      <item value="Ensure that the following Android Key exists:" />
-      <item value="In the Google Developer Console" />
-      <item value="Authorization failure." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1096" />
-        <entry key="ENGLISH" value="1097" />
+        <entry key="CHINESE" value="1113" />
+        <entry key="ENGLISH" value="1114" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
