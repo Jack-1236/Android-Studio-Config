@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="primary Variant" />
       <item value="Error: Cannot invoke a non-'const' constructor where a const expression is expected." />
       <item value="A value of type 'Null' can't be assigned to a parameter of type 'ImageProvider&lt;Object&gt;' in a const constructor. (Documentation)" />
       <item value="Expected a key while parsing a block mapping." />
@@ -54,12 +55,11 @@
       <item value="Ensure that the following Android Key exists:" />
       <item value="In the Google Developer Console" />
       <item value="Authorization failure." />
-      <item value="for how to correctly set up the map." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1095" />
-        <entry key="ENGLISH" value="1096" />
+        <entry key="CHINESE" value="1096" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
