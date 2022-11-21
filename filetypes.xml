@@ -9,8 +9,6 @@
       <mapping pattern="OnlineOrderLibrary" type="AUTO_DETECTED" />
       <mapping pattern="ttt" type="AUTO_DETECTED" />
       <mapping pattern="dsf" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="10*19" type="PLAIN_TEXT" />
       <mapping pattern="ll" type="PLAIN_TEXT" />
       <mapping pattern="10_11" type="PLAIN_TEXT" />
@@ -21,6 +19,8 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
