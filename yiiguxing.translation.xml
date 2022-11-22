@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=": AAPT: error: attribute name (aka com.example.mcrpos.onlineorder:name) not found" />
+      <item value="attribute name (aka com.example.mcrpos.onlineorder:name) not found." />
       <item value="Skipped 30 frames! The application may be doing too much work on its main thread." />
       <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.OnlineDashBoardBean.setPending(com.example.onlinelibrary.onlineorder.javabean.DashBoardBean)' on a null o" />
       <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.DashBoardBean.setItemValue(java.lang.String)' on a null object reference" />
@@ -53,13 +55,11 @@
       <item value="A value of type 'Null' can't be assigned to a parameter of type 'ImageProvider&lt;Object&gt;' in a const constructor. (Documentation)" />
       <item value="Expected a key while parsing a block mapping." />
       <item value="To add assets to your application, add an assets section, like this:" />
-      <item value="line 66, column 4 of pubspec.yaml: Expected a key while parsing a block mapping." />
-      <item value="Exception: Please correct the pubspec.yaml file at .\pubspec.yaml" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1144" />
-        <entry key="ENGLISH" value="1145" />
+        <entry key="CHINESE" value="1145" />
+        <entry key="ENGLISH" value="1146" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
