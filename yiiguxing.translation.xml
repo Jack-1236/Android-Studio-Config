@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error while evaluating property 'hasLocalAarDeps' of task ':app:bundleDebugAar' &gt; Direct local .aar file dependencies are not supported when building an AAR. The resulting AAR would be broken because the classes and Android resources from any local .aar file dependencies would not be packaged in the resulting AAR. Previous versions of the Android Gradle Plugin produce broken AARs in this case too (despite not throwing this error). The following direct local .aar file dependencies of the :app project caused this error:" />
       <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="Note that updating a library or application's compileSdkVersion (which allows newer APIs to be used) can be done separately from updating targetSdkVersion (which opts the app in to new runtime behavior) and minSdkVersion (which determines which devices the app can be installed on)." />
       <item value="Recommended action: Update this project to use a newer compileSdkVersion" />
@@ -54,12 +55,11 @@
       <item value="camera Bearing" />
       <item value="satellite" />
       <item value="get Lat Lng Bounds For Camera Target" />
-      <item value="get Camera" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1121" />
-        <entry key="ENGLISH" value="1122" />
+        <entry key="CHINESE" value="1122" />
+        <entry key="ENGLISH" value="1123" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
