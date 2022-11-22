@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Project with path ':BaseAndroid' could not be found in project ':app'." />
       <item value="&gt; Could not find :BaseAndroid1@1.0-debug:. Required by: project :app" />
       <item value="Failed to resolve: implementation 'com.github.Jack-1236:BaseAndroid:1.1.9 Affected Modules: app" />
       <item value="problem occurred configuring project ':app'. &gt; Failed to notify project evaluation listener. &gt; orggradleapiinternalartifactsDefaultResolvedArtifact" />
@@ -54,12 +55,11 @@
       <item value="Base Request Ser" />
       <item value="Soap Serialization Envelope" />
       <item value="Soap Envelope" />
-      <item value="Firebase Installations Service is unavailable. Please try again later." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1131" />
-        <entry key="ENGLISH" value="1132" />
+        <entry key="CHINESE" value="1132" />
+        <entry key="ENGLISH" value="1133" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
