@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=": failed linking references." />
       <item value="No key with alias 'xyt1236' found in keystore" />
       <item value="Can't determine type for tag" />
       <item value="&gt; Could not get unknown property 'libraryVariants' for extension 'android' of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
@@ -54,12 +55,11 @@
       <item value="decoration" />
       <item value="reset All Objects" />
       <item value="parse Body" />
-      <item value="NAMESPACE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1140" />
-        <entry key="ENGLISH" value="1141" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
