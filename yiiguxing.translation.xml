@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter token" />
       <item value="Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
       <item value="Attempt to invoke interface method 'int java.util.List.size()' on a null object reference" />
       <item value=": AAPT: error: attribute name (aka com.example.mcrpos.onlineorder:name) not found" />
@@ -54,12 +55,11 @@
       <item value="The binary version of its metadata is 1.7.1, expected version is 1.5.1." />
       <item value="primary Variant" />
       <item value="Error: Cannot invoke a non-'const' constructor where a const expression is expected." />
-      <item value="A value of type 'Null' can't be assigned to a parameter of type 'ImageProvider&lt;Object&gt;' in a const constructor. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1148" />
-        <entry key="ENGLISH" value="1149" />
+        <entry key="CHINESE" value="1149" />
+        <entry key="ENGLISH" value="1150" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
