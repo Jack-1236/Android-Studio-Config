@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Didn't find class &quot;com.example.baseandroidaar" />
+      <item value=": Failed resolution of:" />
+      <item value="Didn't find class &quot;com.example.baseandroidaar.DataBinderMapperImpl&quot; on path: DexPathList[[zip file &quot;dataappcom.example.shen.mcrpos-cCp92VGMvbsJUfarY4chmQ==base.apk&quot;],nativeLibraryDirectories=[dataappcom.example.shen.mcrpos-cCp92VGMvbsJUfarY4chm" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNull" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter token" />
       <item value="Parcelable encountered IOException writing serializable object" />
@@ -52,14 +55,11 @@
       <item value="&gt; Could not get unknown property 'authToken' for Credentials [username: null] of type org.gradle.internal.credentials" />
       <item value="Received status code 401 from server: Unauthorized" />
       <item value="Could not resolve host: github.com" />
-      <item value="OpenSSL SSL_read: Connection was reset, errno 10054" />
-      <item value="Direct local .aar file dependencies are not supported when building an AAR. The resulting AAR would be broken because the classes and Android resources from any local .aar file dependencies would not be packaged in the resulting AAR. Previous versions of the Android Gradle Plugin produce broken AARs in this case too (despite not throwing this error). The following direct local .aar file dependencies of the :app project caused this error: C:\WrokProject\AndroidProject\OnlineOrder Project\McrOnlineOrder\McrOnlinelibrary\app\libs\BaseAndroid1@1.0-debug.aar" />
-      <item value="The binary version of its metadata is 1.7.1, expected version is 1.5.1." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1152" />
-        <entry key="ENGLISH" value="1153" />
+        <entry key="CHINESE" value="1155" />
+        <entry key="ENGLISH" value="1156" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
