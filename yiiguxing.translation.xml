@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Parcelable encountered IOException writing serializable object" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter token" />
       <item value="Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
       <item value="Attempt to invoke interface method 'int java.util.List.size()' on a null object reference" />
@@ -54,12 +55,11 @@
       <item value="Direct local .aar file dependencies are not supported when building an AAR. The resulting AAR would be broken because the classes and Android resources from any local .aar file dependencies would not be packaged in the resulting AAR. Previous versions of the Android Gradle Plugin produce broken AARs in this case too (despite not throwing this error). The following direct local .aar file dependencies of the :app project caused this error: C:\WrokProject\AndroidProject\OnlineOrder Project\McrOnlineOrder\McrOnlinelibrary\app\libs\BaseAndroid1@1.0-debug.aar" />
       <item value="The binary version of its metadata is 1.7.1, expected version is 1.5.1." />
       <item value="primary Variant" />
-      <item value="Error: Cannot invoke a non-'const' constructor where a const expression is expected." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1149" />
-        <entry key="ENGLISH" value="1150" />
+        <entry key="CHINESE" value="1150" />
+        <entry key="ENGLISH" value="1151" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
