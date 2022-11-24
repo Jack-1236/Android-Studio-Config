@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to start activity ComponentInfo{com.example.mcrpos.onlineordercom.example.onlinelibrary.onlineorder.activity.OrderListActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String com.example.onlinelibrary.onlineorder.javabean.InterfaceBean.getStatues()' on a null object reference at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3932)" />
       <item value="Function name 'ConfirmOrders' should start with a lowercase letter" />
       <item value="Confirm Orders" />
       <item value="Activity com.example.onlinelibrary.onlineorder.activity.ProductListActivity has leaked window DecorView@5f49183[ProductListActivity] that was originally added here" />
@@ -54,12 +55,11 @@
       <item value="Can't determine type for tag '&lt;macro name=&quot;m3_comp_bottom_app_bar_container_color&quot;&gt;?attrcolorSurface&lt;macro&gt;'" />
       <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github.Jack-1236:BaseAndroid:1.1.8." />
       <item value="Could not GET 'https:jitpack.iocomgithubJack-1236BaseAndroid1.1.8BaseAndroid-1.1.8.pom'. Received status code 403 from server: Forbidden" />
-      <item value="Unable to resolve dependency for ':app@debugcompileClasspath': Could not resolve com.github" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1166" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1167" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
