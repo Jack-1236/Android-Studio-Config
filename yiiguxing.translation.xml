@@ -5,9 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="An instance of PagingSource was re-used when Pager expected to create a new instance. Ensure that the pagingSourceFactory passed to Pager always returns a" />
       <item value="An instance of PagingSource was re-used when Pager expected to create a new" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="begin Delivery Call Back" />
       <item value="Only emit when REFRESH LoadState changes." />
       <item value="collect Latest" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1182" />
-        <entry key="ENGLISH" value="1183" />
+        <entry key="CHINESE" value="1183" />
+        <entry key="ENGLISH" value="1184" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
