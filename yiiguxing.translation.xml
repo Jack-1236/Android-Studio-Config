@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow containing only values of the original flow that do not match the given" />
+      <item value="filter Not" />
       <item value="swap Adapter" />
       <item value="com.example.myonlinelibrary.databinding.LayoutFootholderBindingImpl cannot be cast to com.example.myonlinelibrary.databinding.FragmentLeftItemRecylerviewBinding" />
       <item value="com.example.onlinelibrary.onlineorder.activity.allorder.FootViewHolder cannot be cast to com.example.onlinelibrary.onlineorder.viewholder.SimpleleViewHolder" />
@@ -53,13 +55,11 @@
       <item value="attribute name (aka com.example.mcrpos.onlineorder:name) not found." />
       <item value="Skipped 30 frames! The application may be doing too much work on its main thread." />
       <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.OnlineDashBoardBean.setPending(com.example.onlinelibrary.onlineorder.javabean.DashBoardBean)' on a null o" />
-      <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.DashBoardBean.setItemValue(java.lang.String)' on a null object reference" />
-      <item value=": failed linking references." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1195" />
+        <entry key="ENGLISH" value="1196" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
