@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="swap Adapter" />
+      <item value="com.example.myonlinelibrary.databinding.LayoutFootholderBindingImpl cannot be cast to com.example.myonlinelibrary.databinding.FragmentLeftItemRecylerviewBinding" />
+      <item value="com.example.onlinelibrary.onlineorder.activity.allorder.FootViewHolder cannot be cast to com.example.onlinelibrary.onlineorder.viewholder.SimpleleViewHolder" />
       <item value="A hot [Flow] of [CombinedLoadStates] that emits a snapshot whenever the loading state of the current [PagingData] changes. This flow is conflated, so it buffers the last update to [CombinedLoadStates] and immediately delivers the current load states on collection." />
       <item value="load State Flow" />
       <item value="Method inheritance To ensure the context preservation property, it is not recommended implementing this method directly. Instead, [AbstractFlow] can be used as the base type to properly ensure flow's properties. All default flow implementations ensure context preservation and exception transparency properties on a best-effort basis and throw [IllegalStateException] if a violation was detected." />
@@ -52,14 +55,11 @@
       <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.OnlineDashBoardBean.setPending(com.example.onlinelibrary.onlineorder.javabean.DashBoardBean)' on a null o" />
       <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.DashBoardBean.setItemValue(java.lang.String)' on a null object reference" />
       <item value=": failed linking references." />
-      <item value="No key with alias 'xyt1236' found in keystore" />
-      <item value="Can't determine type for tag" />
-      <item value="&gt; Could not get unknown property 'libraryVariants' for extension 'android' of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
-        <entry key="ENGLISH" value="1191" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
