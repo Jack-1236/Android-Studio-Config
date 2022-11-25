@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Attempt to invoke virtual method 'com.example.baseandroidaar.baseviewmodel.BaseDataViewModel com.example.onlinelibrary.onlineorder.activity.OrderListActivity.getDataModel()' on a null object reference" />
       <item value="lateinit property refreshFoot has not been initialized" />
       <item value="Error inflating class com.google.android.material.button.MaterialButton" />
       <item value="The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
@@ -54,12 +55,11 @@
       <item value="&gt; Compilation error. See log for more details" />
       <item value="Variable 'line' initializer is redundant" />
       <item value="Error while evaluating property 'hasLocalAarDeps' of task ':app:bundleDebugAar' &gt; Direct local .aar file dependencies are not supported when building an AAR. The resulting AAR would be broken because the classes and Android resources from any local .aar file dependencies would not be packaged in the resulting AAR. Previous versions of the Android Gradle Plugin produce broken AARs in this case too (despite not throwing this error). The following direct local .aar file dependencies of the :app project caused this error:" />
-      <item value="Manifest merger failed with multiple errors, see logs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1175" />
+        <entry key="ENGLISH" value="1176" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
