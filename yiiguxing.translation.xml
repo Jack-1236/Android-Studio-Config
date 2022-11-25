@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="begin Delivery Call Back" />
       <item value="Only emit when REFRESH LoadState changes." />
       <item value="collect Latest" />
       <item value="scroll To Position" />
@@ -54,12 +55,11 @@
       <item value="problem occurred configuring project ':app'. &gt; Failed to notify project evaluation listener. &gt; orggradleapiinternalartifactsDefaultResolvedArtifact" />
       <item value="Compilation error. See log for more details" />
       <item value="A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkersGradleKotlinCompilerWorkAction" />
-      <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObjectCustomMessageMissingMethodException: Could not find method android() for arguments [build_1km0nzdxvscx9a23c8nkilyn5_run_closure1@117dba2c] on project ':app' of type org.gradle.api.Project." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1178" />
-        <entry key="ENGLISH" value="1179" />
+        <entry key="CHINESE" value="1179" />
+        <entry key="ENGLISH" value="1180" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
