@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Failed resolution of: LcomhjqxtoastXToast;" />
       <item value="Failed resolution of: LandroidxpagingPagingDataAdapter;" />
       <item value="Class Not Found Exception" />
       <item value="com.example.onlinelibrary.base.basepaging 3 library.adapter.Base Paging Adapter" />
@@ -54,12 +55,11 @@
       <item value="scroll To Position" />
       <item value="Attempt to invoke virtual method 'com.example.baseandroidaar.baseviewmodel.BaseDataViewModel com.example.onlinelibrary.onlineorder.activity.OrderListActivity.getDataModel()' on a null object reference" />
       <item value="lateinit property refreshFoot has not been initialized" />
-      <item value="Error inflating class com.google.android.material.button.MaterialButton" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1224" />
-        <entry key="ENGLISH" value="1224" />
+        <entry key="ENGLISH" value="1225" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
