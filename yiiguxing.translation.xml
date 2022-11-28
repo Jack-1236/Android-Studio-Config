@@ -5,11 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Refresh the data presented by this [PagingDataAdapter]. [refresh] triggers the creation of a new [PagingData] with a new instance of [PagingSource] to represent an updated snapshot of the backing dataset. If a [RemoteMediator] is set, calling [refresh] will also trigger a call to [RemoteMediator.load] with [LoadType] [REFRESH] to allow [RemoteMediator] to check for updates to the dataset backing [PagingSource]. Note: This API is intended for UI-driven refresh signals, such as swipe-to-refresh. Invalidation due repository-layer signals, such as DB-updates, should instead use [PagingSource.invalidate]. @see PagingSource.invalidate @sample androidx.paging.samples.refreshSample" />
+      <item value="Coerces an index in the list, including placeholders, to closest loaded page in [pages]. This function can be called with [anchorPosition] to fetch the loaded page that is closest to the last accessed index in the list. @param anchorPosition Index in the list, including placeholders. @return The closest loaded [Value] in [pages] to the provided [anchorPosition]. `null` if all loaded [pages] are empty." />
+      <item value="anchor Position" />
+      <item value="closest Page To Position" />
       <item value="initial Load Size" />
       <item value="Provide a [Key] used for the initial [load] for the next [PagingSource] due to invalidation of this [PagingSource]. The [Key] is provided to [load] via [LoadParams.key]. The [Key] returned by this method should cause [load] to load enough items to fill the viewport around the last accessed position, allowing the next generation to transparently animate in. The last accessed position can be retrieved via [state.anchorPosition][PagingState.anchorPosition], which is typically the top-most or bottom-most item in the viewport due to access being triggered by binding items as they scroll into view. For example, if items are loaded based on integer position keys, you can return [state.anchorPosition][PagingState.anchorPosition]. Alternately, if items contain a key used to load, get the key from the item in the page at index [state.anchorPosition][PagingState.anchorPosition]. @param state [PagingState] of the currently fetched data, which includes the most recently accessed position in the list via [PagingState.anchorPosition]. @return [Key] passed to [load] after invalidation used for initial load of the next generation. The [Key] returned by [getRefreshKey] should load pages centered around user's current viewport. If the correct [Key] cannot be determined, `null` can be returned to allow [load] decide what default key to use." />
       <item value="prev Key" />
-      <item value="closest Page To Position" />
-      <item value="anchor Position" />
       <item value="key Reuse Supported" />
       <item value="Success result object for [PagingSource.load]. @param data Loaded data @param prevKey [Key] for previous page if more data can be loaded in that direction, `null` otherwise. @param nextKey [Key] for next page if more data can be loaded in that direction, `null` otherwise." />
       <item value="pre Key" />
@@ -53,13 +55,11 @@
       <item value="Activity com.example.onlinelibrary.onlineorder.activity.ProductListActivity has leaked window DecorView@5f49183[ProductListActivity] that was originally added here" />
       <item value="Activity com.example.onlinelibrary.onlineorder.activity.ProductListActivity has leaked window DecorView@17350f5[ProductListActivity] that was originally added here" />
       <item value="Token retrieval failed: SERVICE_NOT_AVAILABLE. Will retry token retrieval" />
-      <item value="&gt; Project with path ':BaseAndroid' could not be found in project ':app'." />
-      <item value="A problem occurred configuring project ':app'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1209" />
-        <entry key="ENGLISH" value="1210" />
+        <entry key="CHINESE" value="1213" />
+        <entry key="ENGLISH" value="1214" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
