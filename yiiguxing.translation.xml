@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Parent job is Cancelling" />
+      <item value="anchor Page Index" />
+      <item value="Refresh the data presented by this [PagingDataAdapter]. [refresh] triggers the creation of a new [PagingData] with a new instance of [PagingSource] to represent an updated snapshot of the backing dataset. If a [RemoteMediator] is set, calling [refresh] will also trigger a call to [RemoteMediator.load] with [LoadType] [REFRESH] to allow [RemoteMediator] to check for updates to the dataset backing [PagingSource]. Note: This API is intended for UI-driven refresh signals, such as swipe-to-refresh. Invalidation due repository-layer signals, such as DB-updates, should instead use" />
       <item value="Returns a flow containing only values of the original flow that do not match the given" />
       <item value="filter Not" />
       <item value="swap Adapter" />
@@ -52,21 +55,18 @@
       <item value="Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
       <item value="Attempt to invoke interface method 'int java.util.List.size()' on a null object reference" />
       <item value=": AAPT: error: attribute name (aka com.example.mcrpos.onlineorder:name) not found" />
-      <item value="attribute name (aka com.example.mcrpos.onlineorder:name) not found." />
-      <item value="Skipped 30 frames! The application may be doing too much work on its main thread." />
-      <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.OnlineDashBoardBean.setPending(com.example.onlinelibrary.onlineorder.javabean.DashBoardBean)' on a null o" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1195" />
-        <entry key="ENGLISH" value="1196" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1199" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668999174217" />
+    <option name="lastTrimTime" value="1669604404429" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
