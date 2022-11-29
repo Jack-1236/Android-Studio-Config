@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expand List" />
+      <item value="progress" />
       <item value="fill" />
       <item value="An array of booleans. When targeting the JVM, instances of this class are represented as `boolean[]`. @constructor Creates a new array of the specified [size], with all elements initialized to `false`." />
       <item value="Motion View Holder" />
@@ -53,13 +55,11 @@
       <item value="Method inheritance To ensure the context preservation property, it is not recommended implementing this method directly. Instead, [AbstractFlow] can be used as the base type to properly ensure flow's properties. All default flow implementations ensure context preservation and exception transparency properties on a best-effort basis and throw [IllegalStateException] if a violation was detected." />
       <item value="collect" />
       <item value="filter" />
-      <item value="distinct Until Changed By" />
-      <item value="end Of Pagination Reached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1234" />
-        <entry key="ENGLISH" value="1235" />
+        <entry key="CHINESE" value="1236" />
+        <entry key="ENGLISH" value="1237" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
