@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="layout constraint Bottom to Bottom Of" />
+      <item value="touch Anchor Id" />
       <item value="TYPE CHILD" />
       <item value="TYPE GROUP" />
       <item value="Failed resolution of: LcomhjqxtoastXToast;" />
@@ -53,13 +55,11 @@
       <item value="An instance of PagingSource was re-used when Pager expected to create a new" />
       <item value="begin Delivery Call Back" />
       <item value="Only emit when REFRESH LoadState changes." />
-      <item value="collect Latest" />
-      <item value="scroll To Position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1226" />
-        <entry key="ENGLISH" value="1227" />
+        <entry key="CHINESE" value="1228" />
+        <entry key="ENGLISH" value="1229" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
