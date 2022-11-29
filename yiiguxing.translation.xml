@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fill" />
+      <item value="An array of booleans. When targeting the JVM, instances of this class are represented as `boolean[]`. @constructor Creates a new array of the specified [size], with all elements initialized to `false`." />
+      <item value="Motion View Holder" />
+      <item value="TYPE CONTACT" />
       <item value="layout constraint Baseline to Bottom Of" />
       <item value="layout constraint Bottom to Bottom Of" />
       <item value="touch Anchor Id" />
@@ -51,15 +55,11 @@
       <item value="filter" />
       <item value="distinct Until Changed By" />
       <item value="end Of Pagination Reached" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="An instance of PagingSource was re-used when Pager expected to create a new instance. Ensure that the pagingSourceFactory passed to Pager always returns a" />
-      <item value="An instance of PagingSource was re-used when Pager expected to create a new" />
-      <item value="begin Delivery Call Back" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1230" />
-        <entry key="ENGLISH" value="1231" />
+        <entry key="CHINESE" value="1234" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
