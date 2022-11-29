@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="layout constraint Baseline to Bottom Of" />
       <item value="layout constraint Bottom to Bottom Of" />
       <item value="touch Anchor Id" />
       <item value="TYPE CHILD" />
@@ -54,12 +55,11 @@
       <item value="An instance of PagingSource was re-used when Pager expected to create a new instance. Ensure that the pagingSourceFactory passed to Pager always returns a" />
       <item value="An instance of PagingSource was re-used when Pager expected to create a new" />
       <item value="begin Delivery Call Back" />
-      <item value="Only emit when REFRESH LoadState changes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1229" />
-        <entry key="ENGLISH" value="1230" />
+        <entry key="CHINESE" value="1230" />
+        <entry key="ENGLISH" value="1231" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
