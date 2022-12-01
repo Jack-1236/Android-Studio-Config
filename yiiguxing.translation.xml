@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
+      <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated. Please use this migration guide" />
+      <item value="Each bind variable in the query must have a matching method parameter. Cannot find method parameters for :ImageUr" />
+      <item value="public abstract com.example.onlinelibrary.onlineorder.sqllite.ProductImageTable findByImageUrl(@org.jetbrains.annotations.NotNull()" />
       <item value="Caused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
       <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
       <item value="There is a problem with the query: [SQLITE_ERROR] SQL error or missing database (no such column: ImageUrl)" />
@@ -51,15 +55,11 @@
       <item value="anchor Position" />
       <item value="closest Page To Position" />
       <item value="initial Load Size" />
-      <item value="Provide a [Key] used for the initial [load] for the next [PagingSource] due to invalidation of this [PagingSource]. The [Key] is provided to [load] via [LoadParams.key]. The [Key] returned by this method should cause [load] to load enough items to fill the viewport around the last accessed position, allowing the next generation to transparently animate in. The last accessed position can be retrieved via [state.anchorPosition][PagingState.anchorPosition], which is typically the top-most or bottom-most item in the viewport due to access being triggered by binding items as they scroll into view. For example, if items are loaded based on integer position keys, you can return [state.anchorPosition][PagingState.anchorPosition]. Alternately, if items contain a key used to load, get the key from the item in the page at index [state.anchorPosition][PagingState.anchorPosition]. @param state [PagingState] of the currently fetched data, which includes the most recently accessed position in the list via [PagingState.anchorPosition]. @return [Key] passed to [load] after invalidation used for initial load of the next generation. The [Key] returned by [getRefreshKey] should load pages centered around user's current viewport. If the correct [Key] cannot be determined, `null` can be returned to allow [load] decide what default key to use." />
-      <item value="prev Key" />
-      <item value="key Reuse Supported" />
-      <item value="Success result object for [PagingSource.load]. @param data Loaded data @param prevKey [Key] for previous page if more data can be loaded in that direction, `null` otherwise. @param nextKey [Key] for next page if more data can be loaded in that direction, `null` otherwise." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1253" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1257" />
+        <entry key="ENGLISH" value="1258" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
