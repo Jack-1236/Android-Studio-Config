@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="resume Requests Recursive" />
       <item value="OutOfMemoryError thrown while trying to throw OutOfMemoryError; no stack trace available" />
       <item value="Unexpected exception thrown by non-Glide code" />
       <item value="trying to use a recycled bitmap android.graphics.Bitmap@2f03e06" />
@@ -54,12 +55,11 @@
       <item value="unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
       <item value="Caused by: org.gradle.internal.resolve.ModuleVersionNotFoundException: Could not find org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.2.0." />
       <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:releaseCompileClasspath'." />
-      <item value="Cannot access com.dabush.shen.mcrpos.tabs.pricechange.PriceChangeAdapter.MyBaseViewHolder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1267" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1268" />
+        <entry key="ENGLISH" value="1269" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
