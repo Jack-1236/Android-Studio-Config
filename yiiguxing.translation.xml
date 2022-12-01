@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Role" />
       <item value="administrator" />
       <item value="jti" />
       <item value="amr" />
@@ -54,12 +55,11 @@
       <item value="layout constraint Baseline to Bottom Of" />
       <item value="layout constraint Bottom to Bottom Of" />
       <item value="touch Anchor Id" />
-      <item value="TYPE CHILD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1279" />
-        <entry key="ENGLISH" value="1280" />
+        <entry key="CHINESE" value="1280" />
+        <entry key="ENGLISH" value="1281" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
