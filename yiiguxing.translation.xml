@@ -5,7 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="trying to use a recycled bitmap android.graphics.Bitmap@2f03e06" />
+      <item value="Canvas: trying to use a recycled bitmap android.graphics.Bitmap@cb660b4" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
+      <item value=": No implementation found for void com.android.tools.profiler.support.profilers.EventProfiler.sendActivityResumed(java.lang.String, int) (tried Java_com_android_tools_profiler_support_profilers_EventProfiler_" />
+      <item value="No direct method" />
+      <item value="No Such Method Error" />
+      <item value="No direct method &lt;init&gt;(LandroidxpagingDifferCallback;LkotlinxcoroutinesCoroutineDispatcher;)V in class LandroidxpagingPagingDataDiffer; or its super classes (declaration of 'androidx.paging.PagingDataDiffer' appears in" />
       <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated. Please use this migration guide" />
       <item value="Each bind variable in the query must have a matching method parameter. Cannot find method parameters for :ImageUr" />
       <item value="public abstract com.example.onlinelibrary.onlineorder.sqllite.ProductImageTable findByImageUrl(@org.jetbrains.annotations.NotNull()" />
@@ -49,17 +55,11 @@
       <item value="Cannot access com.dabush.shen.mcrpos.tabs.pricechange.PriceChangeAdapter.MyBaseViewHolder" />
       <item value="org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:compileReleaseJavaWithJavac'." />
       <item value="Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are cu" />
-      <item value="table ids are unsupported on PagingDataAdapter." />
-      <item value="Refresh the data presented by this [PagingDataAdapter]. [refresh] triggers the creation of a new [PagingData] with a new instance of [PagingSource] to represent an updated snapshot of the backing dataset. If a [RemoteMediator] is set, calling [refresh] will also trigger a call to [RemoteMediator.load] with [LoadType] [REFRESH] to allow [RemoteMediator] to check for updates to the dataset backing [PagingSource]. Note: This API is intended for UI-driven refresh signals, such as swipe-to-refresh. Invalidation due repository-layer signals, such as DB-updates, should instead use [PagingSource.invalidate]. @see PagingSource.invalidate @sample androidx.paging.samples.refreshSample" />
-      <item value="Coerces an index in the list, including placeholders, to closest loaded page in [pages]. This function can be called with [anchorPosition] to fetch the loaded page that is closest to the last accessed index in the list. @param anchorPosition Index in the list, including placeholders. @return The closest loaded [Value] in [pages] to the provided [anchorPosition]. `null` if all loaded [pages] are empty." />
-      <item value="anchor Position" />
-      <item value="closest Page To Position" />
-      <item value="initial Load Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1257" />
-        <entry key="ENGLISH" value="1258" />
+        <entry key="CHINESE" value="1265" />
+        <entry key="ENGLISH" value="1266" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
