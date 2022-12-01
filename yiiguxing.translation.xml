@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="administrator" />
+      <item value="jti" />
+      <item value="amr" />
+      <item value="packer" />
+      <item value="role" />
+      <item value="preferred username" />
+      <item value="given name" />
+      <item value="Web Gateway" />
+      <item value="aud" />
+      <item value="kid" />
       <item value="resume Requests Recursive" />
       <item value="OutOfMemoryError thrown while trying to throw OutOfMemoryError; no stack trace available" />
       <item value="Unexpected exception thrown by non-Glide code" />
@@ -45,25 +55,16 @@
       <item value="layout constraint Bottom to Bottom Of" />
       <item value="touch Anchor Id" />
       <item value="TYPE CHILD" />
-      <item value="TYPE GROUP" />
-      <item value="Failed resolution of: LcomhjqxtoastXToast;" />
-      <item value="Failed resolution of: LandroidxpagingPagingDataAdapter;" />
-      <item value="Class Not Found Exception" />
-      <item value="com.example.onlinelibrary.base.basepaging 3 library.adapter.Base Paging Adapter" />
-      <item value="com.examp" />
-      <item value="Failed resolution of: LcomexampleonlinelibraryonlineorderactivityallorderOrdersAdapter;" />
-      <item value="unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
-      <item value="Caused by: org.gradle.internal.resolve.ModuleVersionNotFoundException: Could not find org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.2.0." />
-      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:releaseCompileClasspath'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1269" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1280" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="WELSH" value="1" />
       </map>
     </option>
   </component>
