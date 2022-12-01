@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="To use Kotlin annotation processing tool (kapt)" />
+      <item value="ould not find method kapt() for arguments [androidx.room:room-compiler:2.4.3] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
+      <item value="Requires Api" />
+      <item value="Async List Differ" />
+      <item value="Helper class for mapping a [PagingData] into a [RecyclerView.Adapter][androidx.recyclerview.widget.RecyclerView.Adapter]. For simplicity, [PagingDataAdapter] can often be used in place of this class. [AsyncPagingDataDiffer] is exposed for complex cases, and where overriding [PagingDataAdapter] to support paging isn't convenient." />
       <item value="expand List" />
       <item value="progress" />
       <item value="fill" />
@@ -50,16 +55,11 @@
       <item value="swap Adapter" />
       <item value="com.example.myonlinelibrary.databinding.LayoutFootholderBindingImpl cannot be cast to com.example.myonlinelibrary.databinding.FragmentLeftItemRecylerviewBinding" />
       <item value="com.example.onlinelibrary.onlineorder.activity.allorder.FootViewHolder cannot be cast to com.example.onlinelibrary.onlineorder.viewholder.SimpleleViewHolder" />
-      <item value="A hot [Flow] of [CombinedLoadStates] that emits a snapshot whenever the loading state of the current [PagingData] changes. This flow is conflated, so it buffers the last update to [CombinedLoadStates] and immediately delivers the current load states on collection." />
-      <item value="load State Flow" />
-      <item value="Method inheritance To ensure the context preservation property, it is not recommended implementing this method directly. Instead, [AbstractFlow] can be used as the base type to properly ensure flow's properties. All default flow implementations ensure context preservation and exception transparency properties on a best-effort basis and throw [IllegalStateException] if a violation was detected." />
-      <item value="collect" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1236" />
-        <entry key="ENGLISH" value="1237" />
+        <entry key="CHINESE" value="1241" />
+        <entry key="ENGLISH" value="1242" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
