@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: org.gradle.api.GradleException: Compilation error. See log for more details" />
+      <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
+      <item value="There is a problem with the query: [SQLITE_ERROR] SQL error or missing database (no such column: ImageUrl)" />
+      <item value="java.lang.reflect.InvocationTargetException (no error message)" />
+      <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptWithoutKotlincTaskKaptExecutionWorkAction" />
+      <item value="The single @PrimaryKey annotated field in an FTS entity must be of INTEGER affinity." />
+      <item value="The single primary key field in an FTS entity must either be named 'rowid' or must be annotated with @ColumnInfo(name = &quot;rowid&quot;)" />
       <item value="Ignore" />
       <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it." />
       <item value="Create drawable from a bitmap, not dealing with density. @deprecated Use {@link BitmapDrawable(Resources, Bitmap)} to ensure that the drawable has correctly set its target density." />
@@ -48,18 +55,11 @@
       <item value="prev Key" />
       <item value="key Reuse Supported" />
       <item value="Success result object for [PagingSource.load]. @param data Loaded data @param prevKey [Key] for previous page if more data can be loaded in that direction, `null` otherwise. @param nextKey [Key] for next page if more data can be loaded in that direction, `null` otherwise." />
-      <item value="pre Key" />
-      <item value="initial Key" />
-      <item value="Prepend" />
-      <item value="get Refresh Key" />
-      <item value="Parent job is Cancelling" />
-      <item value="anchor Page Index" />
-      <item value="Refresh the data presented by this [PagingDataAdapter]. [refresh] triggers the creation of a new [PagingData] with a new instance of [PagingSource] to represent an updated snapshot of the backing dataset. If a [RemoteMediator] is set, calling [refresh] will also trigger a call to [RemoteMediator.load] with [LoadType] [REFRESH] to allow [RemoteMediator] to check for updates to the dataset backing [PagingSource]. Note: This API is intended for UI-driven refresh signals, such as swipe-to-refresh. Invalidation due repository-layer signals, such as DB-updates, should instead use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1246" />
-        <entry key="ENGLISH" value="1247" />
+        <entry key="CHINESE" value="1253" />
+        <entry key="ENGLISH" value="1254" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
