@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Set how long to show the view for. @param duration How long to display the message. Can be {@link LENGTH_SHORT}, {@link LENGTH_LONG}, {@link LENGTH_INDEFINITE}, or a custom duration in milliseconds." />
+      <item value="DST ATOP" />
+      <item value="MULTIPLY" />
+      <item value="DST IN" />
+      <item value="SRC OVER" />
+      <item value="case 1: return Mode.SRC;" />
+      <item value="CLEAR" />
+      <item value="&lt;img src=&quot;{@docRoot}referenceandroidimagesgraphicscomposite_ADD.png&quot; &gt; &lt;figcaption&gt;Adds the source pixels to the destination pixels and saturates the result.&lt;figcaption&gt; &lt;p&gt; &lt;p&gt;\(\alpha_{out} = max(0, min(\alpha_{src} + \alpha_{dst}, 1))\)&lt;p&gt; &lt;p&gt;\(C_{out} = max(0, min(C_{src} + C_{dst}, 1))\)&lt;p&gt;" />
+      <item value="scale Y" />
+      <item value="animate" />
+      <item value="set Scale Y" />
       <item value="The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
       <item value="plus Seconds" />
       <item value="amount" />
@@ -44,22 +55,11 @@
       <item value="There is a problem with the query: [SQLITE_ERROR] SQL error or missing database (no such column: ImageUrl)" />
       <item value="java.lang.reflect.InvocationTargetException (no error message)" />
       <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptWithoutKotlincTaskKaptExecutionWorkAction" />
-      <item value="The single @PrimaryKey annotated field in an FTS entity must be of INTEGER affinity." />
-      <item value="The single primary key field in an FTS entity must either be named 'rowid' or must be annotated with @ColumnInfo(name = &quot;rowid&quot;)" />
-      <item value="Ignore" />
-      <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it." />
-      <item value="Create drawable from a bitmap, not dealing with density. @deprecated Use {@link BitmapDrawable(Resources, Bitmap)} to ensure that the drawable has correctly set its target density." />
-      <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it" />
-      <item value="Column Info" />
-      <item value="To use Kotlin annotation processing tool (kapt)" />
-      <item value="ould not find method kapt() for arguments [androidx.room:room-compiler:2.4.3] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
-      <item value="Requires Api" />
-      <item value="Async List Differ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1291" />
-        <entry key="ENGLISH" value="1292" />
+        <entry key="CHINESE" value="1302" />
+        <entry key="ENGLISH" value="1303" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
