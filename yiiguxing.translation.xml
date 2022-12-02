@@ -5,8 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="refresh Token" />
+      <item value="date the milliseconds since January 1, 1970, 00:00:00 GMT." />
+      <item value="Allocates a {@code Date} object and initializes it to represent the specified number of milliseconds since the standard base time known as &quot;the epoch&quot;, namely January 1, 1970, 00:00:00 GMT. @param date the milliseconds since January 1, 1970, 00:00:00 GMT." />
       <item value="access Token Lifetime" />
+      <item value="refresh Token" />
       <item value="Attempt to invoke virtual method 'androidx.lifecycle.MutableLiveData com.example.onlinelibrary.onlineorder.viewmodel.ProductListViewModel.getOrderType()' on a null object reference" />
       <item value="get Role" />
       <item value="administrator" />
@@ -53,13 +55,11 @@
       <item value="progress" />
       <item value="fill" />
       <item value="An array of booleans. When targeting the JVM, instances of this class are represented as `boolean[]`. @constructor Creates a new array of the specified [size], with all elements initialized to `false`." />
-      <item value="Motion View Holder" />
-      <item value="TYPE CONTACT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1284" />
+        <entry key="CHINESE" value="1286" />
+        <entry key="ENGLISH" value="1287" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
