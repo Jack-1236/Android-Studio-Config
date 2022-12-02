@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plus Seconds" />
+      <item value="amount" />
+      <item value="Temporal Amount" />
+      <item value="plus Months" />
       <item value="date the milliseconds since January 1, 1970, 00:00:00 GMT." />
       <item value="Allocates a {@code Date} object and initializes it to represent the specified number of milliseconds since the standard base time known as &quot;the epoch&quot;, namely January 1, 1970, 00:00:00 GMT. @param date the milliseconds since January 1, 1970, 00:00:00 GMT." />
       <item value="access Token Lifetime" />
@@ -51,15 +55,11 @@
       <item value="Requires Api" />
       <item value="Async List Differ" />
       <item value="Helper class for mapping a [PagingData] into a [RecyclerView.Adapter][androidx.recyclerview.widget.RecyclerView.Adapter]. For simplicity, [PagingDataAdapter] can often be used in place of this class. [AsyncPagingDataDiffer] is exposed for complex cases, and where overriding [PagingDataAdapter] to support paging isn't convenient." />
-      <item value="expand List" />
-      <item value="progress" />
-      <item value="fill" />
-      <item value="An array of booleans. When targeting the JVM, instances of this class are represented as `boolean[]`. @constructor Creates a new array of the specified [size], with all elements initialized to `false`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1287" />
+        <entry key="CHINESE" value="1290" />
+        <entry key="ENGLISH" value="1291" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
