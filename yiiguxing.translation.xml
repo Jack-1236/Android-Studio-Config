@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="subscribe On" />
+      <item value="observe On" />
       <item value="SECONDS" />
       <item value="new Scheduled Thread Pool" />
       <item value="Creates a thread pool that can schedule commands to run after a given delay, or to execute periodically. Params: corePoolSize – the number of threads to keep in the pool, even if they are idle threadFactory – the factory to use when the executor creates a new thread Returns: the newly created scheduled thread pool Throws: IllegalArgumentException – if corePoolSize &lt; 0 NullPointerException – if threadFactory is null" />
@@ -53,13 +55,11 @@
       <item value="amr" />
       <item value="packer" />
       <item value="role" />
-      <item value="preferred username" />
-      <item value="given name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1325" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="CHINESE" value="1327" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
