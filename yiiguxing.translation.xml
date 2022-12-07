@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handleWindowVisibility: no activity for token android.os.BinderProxy@7942768" />
       <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 519 path .role" />
       <item value="subscribe On" />
       <item value="observe On" />
@@ -54,12 +55,11 @@
       <item value="administrator" />
       <item value="jti" />
       <item value="amr" />
-      <item value="packer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1328" />
-        <entry key="ENGLISH" value="1329" />
+        <entry key="CHINESE" value="1329" />
+        <entry key="ENGLISH" value="1330" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
