@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Expected a string but was BEGIN_ARRAY at line 1 column 519 path .role" />
+      <item value="Error:javax.net.ssl.SSLHandshakeException: Handshake failed" />
+      <item value="Attempt to invoke virtual method 'java.lang.String com.example.onlinelibrary.onlineorder.javabean.TokenInfo.getRole()' on a null object reference" />
       <item value="Code:401 -&gt; Error:Unauthorized" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter startTime" />
       <item value="handleWindowVisibility: no activity for token android.os.BinderProxy@7942768" />
@@ -52,14 +55,11 @@
       <item value="Allocates a {@code Date} object and initializes it to represent the specified number of milliseconds since the standard base time known as &quot;the epoch&quot;, namely January 1, 1970, 00:00:00 GMT. @param date the milliseconds since January 1, 1970, 00:00:00 GMT." />
       <item value="access Token Lifetime" />
       <item value="refresh Token" />
-      <item value="Attempt to invoke virtual method 'androidx.lifecycle.MutableLiveData com.example.onlinelibrary.onlineorder.viewmodel.ProductListViewModel.getOrderType()' on a null object reference" />
-      <item value="get Role" />
-      <item value="administrator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1332" />
-        <entry key="ENGLISH" value="1333" />
+        <entry key="CHINESE" value="1335" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
