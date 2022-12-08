@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Failed resolution of:" />
+      <item value="Didn't find class &quot;com.auth0.android.jwt.JWT&quot; on path: DexPathList[[zip file &quot;dataappcom.example.shen.mcrpos-25Mt8smFy53hFlrb6Ey4Hw==base.apk&quot;],nativeLibraryDirectories=[dataappcom.example.shen.mcrpos-25Mt8smFy53hFlrb6Ey4Hw==libarm" />
+      <item value="========Private Methods===========" />
+      <item value="Get the value of the &quot;iss&quot; claim, or null if it's not available. @return the Issuer value or null." />
+      <item value="Get the value of the &quot;aud&quot; claim, or an empty list if it's not available. @return the Audience value or an empty list." />
+      <item value="get Audience" />
       <item value="Expected a string but was BEGIN_ARRAY at line 1 column 519 path .role" />
       <item value="Error:javax.net.ssl.SSLHandshakeException: Handshake failed" />
       <item value="Attempt to invoke virtual method 'java.lang.String com.example.onlinelibrary.onlineorder.javabean.TokenInfo.getRole()' on a null object reference" />
@@ -49,17 +55,11 @@
       <item value="The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
       <item value="plus Seconds" />
       <item value="amount" />
-      <item value="Temporal Amount" />
-      <item value="plus Months" />
-      <item value="date the milliseconds since January 1, 1970, 00:00:00 GMT." />
-      <item value="Allocates a {@code Date} object and initializes it to represent the specified number of milliseconds since the standard base time known as &quot;the epoch&quot;, namely January 1, 1970, 00:00:00 GMT. @param date the milliseconds since January 1, 1970, 00:00:00 GMT." />
-      <item value="access Token Lifetime" />
-      <item value="refresh Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1335" />
-        <entry key="ENGLISH" value="1336" />
+        <entry key="CHINESE" value="1341" />
+        <entry key="ENGLISH" value="1342" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
