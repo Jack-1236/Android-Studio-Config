@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Code:401 -&gt; Error:Unauthorized" />
+      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter startTime" />
       <item value="handleWindowVisibility: no activity for token android.os.BinderProxy@7942768" />
       <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 519 path .role" />
       <item value="subscribe On" />
@@ -53,13 +55,11 @@
       <item value="Attempt to invoke virtual method 'androidx.lifecycle.MutableLiveData com.example.onlinelibrary.onlineorder.viewmodel.ProductListViewModel.getOrderType()' on a null object reference" />
       <item value="get Role" />
       <item value="administrator" />
-      <item value="jti" />
-      <item value="amr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1330" />
+        <entry key="CHINESE" value="1332" />
+        <entry key="ENGLISH" value="1333" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
