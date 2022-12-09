@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="String resource ID 0x0" />
+      <item value="Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
       <item value="Load Error:Attempt to invoke virtual method 'boolean com.tencent.mmkv.MMKV.containsKey(java.lang.String)' on a null object reference" />
       <item value="&gt; Error:javax.net.ssl.SSLHandshakeException: Handshake failed" />
       <item value="Attempt to get length of null array" />
@@ -53,13 +55,11 @@
       <item value="Set how long to show the view for. @param duration How long to display the message. Can be {@link LENGTH_SHORT}, {@link LENGTH_LONG}, {@link LENGTH_INDEFINITE}, or a custom duration in milliseconds." />
       <item value="DST ATOP" />
       <item value="MULTIPLY" />
-      <item value="DST IN" />
-      <item value="SRC OVER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1351" />
-        <entry key="ENGLISH" value="1352" />
+        <entry key="CHINESE" value="1353" />
+        <entry key="ENGLISH" value="1354" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
