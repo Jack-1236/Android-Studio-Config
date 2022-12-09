@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="&gt; Error:javax.net.ssl.SSLHandshakeException: Handshake failed" />
+      <item value="Attempt to get length of null array" />
+      <item value="trying to use a recycled bitmap android.graphics.Bitmap@6d57f84" />
+      <item value="Attempt to invoke virtual method 'void com.example.onlinelibrary.onlineorder.javabean.ProductImage.setProductImage(android.graphics.drawable.Drawable)' on a null object reference" />
+      <item value="Failed to connect or obtain data, status code: -1" />
       <item value="SINGLE PROCESS MODE" />
       <item value="MULTI PROCESS MODE" />
       <item value="milliseconds" />
@@ -50,16 +55,11 @@
       <item value="DST IN" />
       <item value="SRC OVER" />
       <item value="case 1: return Mode.SRC;" />
-      <item value="CLEAR" />
-      <item value="&lt;img src=&quot;{@docRoot}referenceandroidimagesgraphicscomposite_ADD.png&quot; &gt; &lt;figcaption&gt;Adds the source pixels to the destination pixels and saturates the result.&lt;figcaption&gt; &lt;p&gt; &lt;p&gt;\(\alpha_{out} = max(0, min(\alpha_{src} + \alpha_{dst}, 1))\)&lt;p&gt; &lt;p&gt;\(C_{out} = max(0, min(C_{src} + C_{dst}, 1))\)&lt;p&gt;" />
-      <item value="scale Y" />
-      <item value="animate" />
-      <item value="set Scale Y" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1344" />
-        <entry key="ENGLISH" value="1345" />
+        <entry key="CHINESE" value="1350" />
+        <entry key="ENGLISH" value="1351" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
