@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="milliseconds" />
       <item value="Failed resolution of:" />
       <item value="Didn't find class &quot;com.auth0.android.jwt.JWT&quot; on path: DexPathList[[zip file &quot;dataappcom.example.shen.mcrpos-25Mt8smFy53hFlrb6Ey4Hw==base.apk&quot;],nativeLibraryDirectories=[dataappcom.example.shen.mcrpos-25Mt8smFy53hFlrb6Ey4Hw==libarm" />
       <item value="========Private Methods===========" />
@@ -54,12 +55,11 @@
       <item value="set Scale Y" />
       <item value="The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
       <item value="plus Seconds" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1341" />
-        <entry key="ENGLISH" value="1342" />
+        <entry key="CHINESE" value="1342" />
+        <entry key="ENGLISH" value="1343" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
