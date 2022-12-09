@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SINGLE PROCESS MODE" />
+      <item value="MULTI PROCESS MODE" />
       <item value="milliseconds" />
       <item value="Failed resolution of:" />
       <item value="Didn't find class &quot;com.auth0.android.jwt.JWT&quot; on path: DexPathList[[zip file &quot;dataappcom.example.shen.mcrpos-25Mt8smFy53hFlrb6Ey4Hw==base.apk&quot;],nativeLibraryDirectories=[dataappcom.example.shen.mcrpos-25Mt8smFy53hFlrb6Ey4Hw==libarm" />
@@ -53,13 +55,11 @@
       <item value="scale Y" />
       <item value="animate" />
       <item value="set Scale Y" />
-      <item value="The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
-      <item value="plus Seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1342" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1344" />
+        <entry key="ENGLISH" value="1345" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
