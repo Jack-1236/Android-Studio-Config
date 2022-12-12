@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=": Attempt to invoke virtual method 'java.util.List com.example.onlinelibrary.onlineorder.adapter.OnlineFragmentAdapter.getListItems()' on a null object reference" />
       <item value="String resource ID 0x0" />
       <item value="Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
       <item value="Load Error:Attempt to invoke virtual method 'boolean com.tencent.mmkv.MMKV.containsKey(java.lang.String)' on a null object reference" />
@@ -54,12 +55,11 @@
       <item value="Opt In" />
       <item value="Set how long to show the view for. @param duration How long to display the message. Can be {@link LENGTH_SHORT}, {@link LENGTH_LONG}, {@link LENGTH_INDEFINITE}, or a custom duration in milliseconds." />
       <item value="DST ATOP" />
-      <item value="MULTIPLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1353" />
-        <entry key="ENGLISH" value="1354" />
+        <entry key="CHINESE" value="1354" />
+        <entry key="ENGLISH" value="1355" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670209063198" />
+    <option name="lastTrimTime" value="1670817036208" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
