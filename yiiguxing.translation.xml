@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:debugCompileC" />
+      <item value="Dependency 'androidx.navigation:navigation-compose:2.6.0-alpha04' requires libraries and applications that depend on it to compile against version 33 or later of the Android APIs." />
       <item value=": Attempt to invoke virtual method 'java.util.List com.example.onlinelibrary.onlineorder.adapter.OnlineFragmentAdapter.getListItems()' on a null object reference" />
       <item value="String resource ID 0x0" />
       <item value="Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
@@ -53,13 +55,11 @@
       <item value="lifecycle Scope" />
       <item value="Delicate Coroutines Api" />
       <item value="Opt In" />
-      <item value="Set how long to show the view for. @param duration How long to display the message. Can be {@link LENGTH_SHORT}, {@link LENGTH_LONG}, {@link LENGTH_INDEFINITE}, or a custom duration in milliseconds." />
-      <item value="DST ATOP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1354" />
-        <entry key="ENGLISH" value="1355" />
+        <entry key="CHINESE" value="1356" />
+        <entry key="ENGLISH" value="1357" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
