@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1070" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="For input string:" />
       <item value="Nothing to printer" />
       <item value="the setID to where the object is derived from server" />
       <item value="parent Layout" />
@@ -54,12 +55,11 @@
       <item value="responseTask.get(2, TimeUnit.MINUTES) must not be null" />
       <item value="io.swagger.client.ApiException: Bad Request" />
       <item value="MINUTES" />
-      <item value="Empty Coroutine Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1359" />
-        <entry key="ENGLISH" value="1360" />
+        <entry key="CHINESE" value="1360" />
+        <entry key="ENGLISH" value="1361" />
         <entry key="GERMAN" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
