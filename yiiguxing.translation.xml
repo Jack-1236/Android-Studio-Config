@@ -1,14 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no draw overlay permission" />
+      <item value="The permission should be defined JO- com.example.plushservice.permission.JOPERATE_MESSAGE" />
+      <item value="get Receiver Permission:com.example.plushservice.permission.JPUSH MESSAGE" />
+      <item value="No Network Security Config specified, using platform default" />
+      <item value="Attribute meta-dataJPUSH_CHANNEL@value at AndroidManifest.xml requires a placeholder substitution but no value for &lt;JPUSH_CHANNEL&gt; is provided." />
+      <item value="A failure occurred while executing" />
       <item value="Unable to delete directory 'C:\Users\TAN18\.gradle\caches\transforms-3\45748b5940486b718adf20af2b1847e6\transformed' Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="Flag for requesting that window content changes should be animated using a TransitionManager. The TransitionManager is set using setTransitionManager(TransitionManager). If none is set, a default TransitionManager will be used. See Also: setContentView" />
       <item value="uild was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'jiguang\build.gradle'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
