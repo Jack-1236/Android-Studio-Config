@@ -1,17 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to delete directory 'C:\Users\TAN18\.gradle\caches\transforms-3\45748b5940486b718adf20af2b1847e6\transformed' Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
       <item value="Flag for requesting that window content changes should be animated using a TransitionManager. The TransitionManager is set using setTransitionManager(TransitionManager). If none is set, a default TransitionManager will be used. See Also: setContentView" />
       <item value="uild was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'jiguang\build.gradle'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1674873321587" />
+    <option name="lastTrimTime" value="1675307342780" />
   </component>
 </application>
