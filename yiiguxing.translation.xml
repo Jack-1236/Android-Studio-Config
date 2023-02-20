@@ -24,17 +24,18 @@
     <option name="lastTrimTime" value="1675307342780" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676009102582" />
+    <option name="lastTrimTime" value="1676879183712" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value=": requestFeature() must be called before adding content" />
       <item value="set Track Corner Radius" />
       <item value="set Indicator Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
