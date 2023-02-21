@@ -28,6 +28,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Invalid" />
+      <item value="Use the upright glyphs" />
+      <item value="Use glyphs designed for slanting" />
+      <item value="TODO(b205312869) This constructor should not be public as it leads to FontStyle([cursor]) in AS" />
       <item value="Shape used by large components like ModalDrawer or ModalBottomSheetLayout." />
       <item value="hape used by small components like Button or Snackbar. Components like FloatingActionButton, ExtendedFloatingActionButton use this shape, but override the corner size to be 50%. TextField uses this shape with overriding the bottom corners to zero." />
       <item value="Shape used by medium components like Card or AlertDialog." />
@@ -52,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
