@@ -28,6 +28,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Constant for uiMode: a UI_MODE_NIGHT_MASK value that corresponds to the night resource qualifier." />
       <item value="border" />
       <item value="Frame Metrics" />
       <item value="set Display Home As Up Enabled" />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
