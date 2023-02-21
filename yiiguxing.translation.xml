@@ -28,6 +28,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Shape used by large components like ModalDrawer or ModalBottomSheetLayout." />
+      <item value="hape used by small components like Button or Snackbar. Components like FloatingActionButton, ExtendedFloatingActionButton use this shape, but override the corner size to be 50%. TextField uses this shape with overriding the bottom corners to zero." />
+      <item value="Shape used by medium components like Card or AlertDialog." />
+      <item value="- body1 is the largest body, and is typically used for long-form writing as it works well for small text sizes. For longer sections of text, a serif or sans serif typeface is recommended. body2 - body2 is the smallest body, and is typically used for long-form writing as it works well for small text sizes. For longer sections of text, a serif or sans serif typeface is recommended." />
+      <item value="subtitle2 is the smallest subtitle, and is typically reserved for medium-emphasis text that is shorter in length. Serif or sans serif typefaces work well for subtitles." />
+      <item value="subtitle1 is the largest subtitle, and is typically reserved for medium-emphasis text that is shorter in length. Serif or sans serif typefaces work well for subtitles." />
+      <item value="- body2 is the smallest body, and is typically used for long-form writing as it works well for small text sizes. For longer sections of text, a serif or sans serif typeface is recommended" />
+      <item value="body 2" />
+      <item value="typography" />
+      <item value="small" />
+      <item value="medium" />
+      <item value="large" />
       <item value="Constant for uiMode: a UI_MODE_NIGHT_MASK value that corresponds to the night resource qualifier." />
       <item value="border" />
       <item value="Frame Metrics" />
@@ -40,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
