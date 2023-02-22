@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Keep" />
+      <item value="Cleartext HTTP traffic to www.baidu.com not permitted" />
+      <item value="[Penguin]can't get PerfManager" />
       <item value="git@github.com: Permission denied (publickey). fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
       <item value="kex_exchange_identification: Connection closed by remote host Connection closed by 20.205.243.166 port 22 fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
       <item value="no draw overlay permission" />
@@ -15,13 +18,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1675307342780" />
+    <option name="lastTrimTime" value="1676991203247" />
   </component>
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1676879183712" />
