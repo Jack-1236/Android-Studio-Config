@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Storage state if the media is present and mounted at its mount point with read-only access" />
+      <item value="Storage state if the media is not present." />
       <item value="Storage state if the media is present and mounted at its mount point with readwrite access." />
       <item value="Storage state if the media is present and mounted at its mount point with read-only acces" />
       <item value="Activity com.dabush.shen.mcrpos.MainActivity has leaked window DecorView@73802be[MainActivity] that was originally added here" />
@@ -65,8 +67,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
