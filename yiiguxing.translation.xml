@@ -27,10 +27,12 @@
     <option name="lastTrimTime" value="1676991203247" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679645705551" />
+    <option name="lastTrimTime" value="1681724245238" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Storage state if the media is present and mounted at its mount point with readwrite access." />
+      <item value="Storage state if the media is present and mounted at its mount point with read-only acces" />
       <item value="Activity com.dabush.shen.mcrpos.MainActivity has leaked window DecorView@73802be[MainActivity] that was originally added here" />
       <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.9.0-runtime (androidx.core:core:1.9.0) and" />
       <item value="Constrain the width of the content to be between mindp and maxdp as permitted by the incoming measurement Constraints. If the incoming constraints are more restrictive the requested size will obey the incoming constraints and attempt to be as close as possible to the preferred size." />
@@ -63,8 +65,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
