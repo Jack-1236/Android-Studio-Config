@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Directory" />
+      <item value="exists" />
       <item value="get Manufacturer" />
       <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
       <item value="Storage state if the media is present and mounted at its mount point with read-only access" />
@@ -69,8 +71,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
