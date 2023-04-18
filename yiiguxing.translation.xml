@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get External Files Dir" />
       <item value="is Directory" />
       <item value="exists" />
       <item value="mkdirs" />
@@ -72,8 +73,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
