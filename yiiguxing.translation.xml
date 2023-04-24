@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="At this point the view has been loaded and set to true" />
       <item value="Indicates that the ViewPager2 is in an idle, settled state. The current page is fully in view and no animation is in progress." />
       <item value="Value to indicate that the default caching mechanism of RecyclerView should be used instead of explicitly prefetch and retain pages to either side of the current page. @see setOffscreenPageLimit(int)" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (getSearchModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;):" />
@@ -78,8 +79,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
