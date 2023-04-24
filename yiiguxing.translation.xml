@@ -27,10 +27,13 @@
     <option name="lastTrimTime" value="1676991203247" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681724245238" />
+    <option name="lastTrimTime" value="1682305211757" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Platform declaration clash: The following declarations have the same JVM signature (getSearchModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;):" />
+      <item value="Platform declaration clash: The following declarations have the same JVM signature (getLauncher()LandroidxactivityresultActivityResultLauncher;):" />
+      <item value="have the same JVM signature (getDataModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;): fun `&lt;get-dataModel&gt;`(): SearchOrdersViewModel defined in com.example.nfctools.view.ui.fragment.SearchFragment fun getDataModel(): SearchOrdersViewModel defined in com.example.nfctools.view.ui.fragment.SearchFragment" />
       <item value="get External Files Dir" />
       <item value="is Directory" />
       <item value="exists" />
@@ -73,8 +76,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
