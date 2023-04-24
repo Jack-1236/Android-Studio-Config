@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ceshi" />
+    <option name="mostRecentlyUsed" value="Demo Test" />
     <option name="nonFavorites">
       <list>
+        <option value="Demo Test" />
+        <option value="demo Test" />
         <option value="ceshi" />
         <option value="Start" />
         <option value="demo" />
