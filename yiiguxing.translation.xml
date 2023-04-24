@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Indicates that the ViewPager2 is in an idle, settled state. The current page is fully in view and no animation is in progress." />
+      <item value="Value to indicate that the default caching mechanism of RecyclerView should be used instead of explicitly prefetch and retain pages to either side of the current page. @see setOffscreenPageLimit(int)" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (getSearchModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;):" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (getLauncher()LandroidxactivityresultActivityResultLauncher;):" />
       <item value="have the same JVM signature (getDataModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;): fun `&lt;get-dataModel&gt;`(): SearchOrdersViewModel defined in com.example.nfctools.view.ui.fragment.SearchFragment fun getDataModel(): SearchOrdersViewModel defined in com.example.nfctools.view.ui.fragment.SearchFragment" />
@@ -76,8 +78,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
