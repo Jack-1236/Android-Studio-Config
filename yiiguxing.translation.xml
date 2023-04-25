@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="item Animator" />
       <item value="add Duration" />
       <item value="Slide In Right Animator" />
       <item value="Could not set unknown property 'nav_version' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
@@ -82,8 +83,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
