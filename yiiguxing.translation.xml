@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns the first non-null value produced by [transform] function being applied to elements of this collection in iteration order, or `null` if no non-null value was produced. @sample samples.collections.Collections.Transformations.firstNotNullOf" />
       <item value="Not Loading" />
       <item value="item Animator" />
       <item value="add Duration" />
@@ -80,7 +81,6 @@
       <item value="current Click Folder Bean" />
       <item value=": requestFeature() must be called before adding content" />
       <item value="set Track Corner Radius" />
-      <item value="set Indicator Color" />
     </histories>
     <option name="languageScores">
       <map>
