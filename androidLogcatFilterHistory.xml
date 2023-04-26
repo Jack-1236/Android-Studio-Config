@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="Log out at regular intervals" />
+        <option value="测试" />
         <option value="ce" />
         <option value="cr" />
         <option value="Test" />

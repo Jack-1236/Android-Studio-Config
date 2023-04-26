@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="et deadline which is the maximum scheduling latency. The job will be run by this deadline even if other requirements (including a delay set through setMinimumLatency(long)) are not met. Because it doesn't make sense setting this property on a periodic job, doing so will throw an IllegalArgumentException when build() is called. See Also: getMaxExecutionDelayMillis()" />
       <item value="delay in milliseconds before task is to be executed." />
       <item value="verified" />
       <item value="dispatch Touch Event" />
@@ -80,12 +81,11 @@
       <item value="typography" />
       <item value="small" />
       <item value="medium" />
-      <item value="large" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
