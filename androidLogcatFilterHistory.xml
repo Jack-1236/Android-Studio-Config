@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="测试" />
+    <option name="mostRecentlyUsed" value="Logout" />
     <option name="nonFavorites">
       <list>
+        <option value="Logout" />
         <option value="测试" />
         <option value="TAG" />
-        <option value="Logout" />
         <option value="Log out at regular intervals" />
         <option value="ce" />
         <option value="cr" />
