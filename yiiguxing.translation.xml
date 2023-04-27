@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Net Error Deal Utils" />
+      <item value="token Verification" />
       <item value="to Millis" />
       <item value="to Minutes" />
       <item value="Equivalent to {@link convert(long, TimeUnit) MINUTES.convert(duration, this)}. @param duration the duration @return the converted duration, or {@code Long.MIN_VALUE} if conversion would negatively overflow, or {@code Long.MAX_VALUE} if it would positively overflow." />
@@ -79,13 +81,11 @@
       <item value="Shape used by medium components like Card or AlertDialog." />
       <item value="- body1 is the largest body, and is typically used for long-form writing as it works well for small text sizes. For longer sections of text, a serif or sans serif typeface is recommended. body2 - body2 is the smallest body, and is typically used for long-form writing as it works well for small text sizes. For longer sections of text, a serif or sans serif typeface is recommended." />
       <item value="subtitle2 is the smallest subtitle, and is typically reserved for medium-emphasis text that is shorter in length. Serif or sans serif typefaces work well for subtitles." />
-      <item value="subtitle1 is the largest subtitle, and is typically reserved for medium-emphasis text that is shorter in length. Serif or sans serif typefaces work well for subtitles." />
-      <item value="- body2 is the smallest body, and is typically used for long-form writing as it works well for small text sizes. For longer sections of text, a serif or sans serif typeface is recommended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
