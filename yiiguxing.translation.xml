@@ -31,6 +31,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Convert database results CurrentWeatherDB to CurrentWeather UI domain object" />
+      <item value="Update View with the latest currentWeatherDB Writes to the value property of MutableStateFlow, adding a new element to the flow and updating all of its collectors" />
+      <item value="A currentWeather displayed on the screen. publicly exposed live data, not mutable" />
+      <item value="A dailyForecastWeather displayed on the screen. publicly exposed live data, not mutable" />
+      <item value="Inject" />
+      <item value="Hilt View Model" />
+      <item value="repeatOnLifecycle launches the block in a new coroutine every time the lifecycle is in the STARTED state (or above) and cancels it when it's STOPPED." />
+      <item value="repeat On Lifecycle" />
       <item value="Current Weather View Model Factory" />
       <item value="Provider" />
       <item value="Interface for classes whose instances can be written to and restored from a {@link Parcel}. Classes implementing the Parcelable interface must also have a non-null static field called &lt;code&gt;CREATOR&lt;code&gt; of a type that implements the {@link Parcelable.Creator} interface. &lt;p&gt;A typical implementation of Parcelable is:&lt;p&gt; &lt;div&gt; &lt;div class=&quot;ds-selector-tabs&quot;&gt;&lt;section&gt;&lt;h3 id=&quot;kotlin&quot;&gt;Kotlin&lt;h3&gt; &lt;pre class=&quot;prettyprint lang-kotlin&quot;&gt;" />
@@ -73,19 +81,11 @@
       <item value="get External Files Dir" />
       <item value="is Directory" />
       <item value="exists" />
-      <item value="mkdirs" />
-      <item value="get Manufacturer" />
-      <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
-      <item value="Storage state if the media is present and mounted at its mount point with read-only access" />
-      <item value="Storage state if the media is not present." />
-      <item value="Storage state if the media is present and mounted at its mount point with readwrite access." />
-      <item value="Storage state if the media is present and mounted at its mount point with read-only acces" />
-      <item value="Activity com.dabush.shen.mcrpos.MainActivity has leaked window DecorView@73802be[MainActivity] that was originally added here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
       </map>
     </option>
   </component>
