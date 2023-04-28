@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="repeatOnLifecycle launches the block in a new coroutine every time the lifecycle is in the STARTED state (or above) and cancels it when it's STOPPED." />
+      <item value="Start a coroutine in the lifecycle scope viewLifecycleOwner.lifecycleScope.launch {" />
       <item value="current" />
       <item value="Mutable State Flow" />
       <item value="State Flow" />
@@ -41,7 +43,6 @@
       <item value="A dailyForecastWeather displayed on the screen. publicly exposed live data, not mutable" />
       <item value="Inject" />
       <item value="Hilt View Model" />
-      <item value="repeatOnLifecycle launches the block in a new coroutine every time the lifecycle is in the STARTED state (or above) and cancels it when it's STOPPED." />
       <item value="repeat On Lifecycle" />
       <item value="Current Weather View Model Factory" />
       <item value="Provider" />
@@ -80,12 +81,11 @@
       <item value="Indicates that the ViewPager2 is in an idle, settled state. The current page is fully in view and no animation is in progress." />
       <item value="Value to indicate that the default caching mechanism of RecyclerView should be used instead of explicitly prefetch and retain pages to either side of the current page. @see setOffscreenPageLimit(int)" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (getSearchModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;):" />
-      <item value="Platform declaration clash: The following declarations have the same JVM signature (getLauncher()LandroidxactivityresultActivityResultLauncher;):" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
