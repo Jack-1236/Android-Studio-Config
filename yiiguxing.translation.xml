@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="An {@linkplain Scope unscoped} {@link Provider}. While a {@link Provider} &lt;i&gt;may&lt;i&gt; apply scoping semantics while providing an instance, a factory implementation is guaranteed to exercise the binding logic ({@link Inject} constructors, {@link Provides} methods) upon each call to {@link get}. &lt;p&gt;Note that while subsequent calls to {@link get} will create new instances for bindings such as those created by {@link Inject} constructors, a new instance is not guaranteed by all bindings. For example, {@link Provides} methods may be implemented in ways that return the same instance for each call." />
       <item value="Convert database results CurrentWeatherDB to CurrentWeather UI domain object" />
       <item value="Update View with the latest currentWeatherDB Writes to the value property of MutableStateFlow, adding a new element to the flow and updating all of its collectors" />
       <item value="A currentWeather displayed on the screen. publicly exposed live data, not mutable" />
@@ -80,12 +81,11 @@
       <item value="have the same JVM signature (getDataModel()LcomexamplenfctoolsviewviewmodelSearchOrdersViewModel;): fun `&lt;get-dataModel&gt;`(): SearchOrdersViewModel defined in com.example.nfctools.view.ui.fragment.SearchFragment fun getDataModel(): SearchOrdersViewModel defined in com.example.nfctools.view.ui.fragment.SearchFragment" />
       <item value="get External Files Dir" />
       <item value="is Directory" />
-      <item value="exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
       </map>
     </option>
   </component>
