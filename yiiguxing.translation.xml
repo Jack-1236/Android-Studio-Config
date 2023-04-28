@@ -31,6 +31,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="com.android.build.gradle.internal.crash.ExternalApiUsageException: groovy.lang.MissingPropertyException: Could not get unknown property 'versionName' for object of type com.android.build.gradle.internal.api.LibraryVariantOutputImpl. &gt; Could not get unknown property 'release' for SoftwareComponentInternal set of type org.gradle.api.internal.component.DefaultSoftwareComponentContainer." />
+      <item value="package attribute is specified in the source AndroidManifest.xml, it can be migrated automatically to the namespace value in the build.gradle file using the AGP Upgrade Assistant; please refer to https:developer.android.comstudiobuildagp-upgrade-assistant for more information." />
+      <item value="Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
       <item value="set Current Printer" />
       <item value="get Printers Vector" />
       <item value="finish Edit Mode" />
@@ -78,14 +81,11 @@
       <item value="Click on the blank area to shadow the soft keyboard" />
       <item value="transform" />
       <item value="Returns the first non-null value produced by [transform] function being applied to elements of this collection in iteration order, or `null` if no non-null value was produced." />
-      <item value="Returns the first non-null value produced by [transform] function being applied to elements of this collection in iteration order, or `null` if no non-null value was produced. @sample samples.collections.Collections.Transformations.firstNotNullOf" />
-      <item value="Not Loading" />
-      <item value="item Animator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
       </map>
     </option>
   </component>
