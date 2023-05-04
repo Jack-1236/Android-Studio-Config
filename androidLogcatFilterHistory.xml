@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="MCRPOSTest" />
     <option name="nonFavorites">
       <list>
+        <option value="MCRPOSTest" />
+        <option value="MCR" />
         <option value="package:mine " />
         <option value="Logout" />
         <option value="测试" />
