@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="NFC Test" />
     <option name="nonFavorites">
       <list>
+        <option value="NFC Test" />
+        <option value="Nfc Test" />
         <option value="MCRPOSTest" />
         <option value="MCR" />
         <option value="package:mine " />
@@ -21,7 +23,6 @@
         <option value="demo Test" />
         <option value="ceshi" />
         <option value="Start" />
-        <option value="SearchFragment" />
       </list>
     </option>
   </component>
