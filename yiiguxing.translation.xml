@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns `true` if collection has at least one element." />
       <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptWithoutKotlincTaskKaptExecutionWorkAction &gt; java.lang.reflect.InvocationTargetException (no error message)" />
       <item value="The specified Android SDK Build Tools version (24.0.3) is ignored, as it is below the minimum supported version (30.0.3) for Android Gradle Plugin 8.0.0. Android SDK Build Tools 30.0.3 will be used. To suppress this warning, remove &quot;buildToolsVersion '24.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
       <item value="'compileDebugJavaWithJavac' task (current target is 11) and 'compileDebugKotlin' task (current target is 1.8) jvm target compatibility should be set to the same Java version." />
@@ -80,12 +81,11 @@
       <item value="The number of millis in the future from the call" />
       <item value="millis In Future" />
       <item value="count Down Interval" />
-      <item value="@param millisInFuture The number of millis in the future from the call to {@link start()} until the countdown is done and {@link onFinish()} is called. @param countDownInterval The interval along the way to receive {@link onTick(long)} callbacks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
       </map>
     </option>
   </component>
