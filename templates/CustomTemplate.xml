@@ -1,0 +1,9 @@
+<templateSet group="CustomTemplate">
+  <template name="tab" value="/**&#10;  *&#10;  * description : null&#10;  *&#10;  * param       : null&#10;  *&#10;  * return     : null&#10;  *&#10;  * author     : TAN&#10;  *&#10;  * time       : $date$ $time$&#10;  */" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="date" expression="date()" defaultValue="data()" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="time()" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
