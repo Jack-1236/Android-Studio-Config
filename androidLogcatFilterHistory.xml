@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="NFC Test" />
     <option name="nonFavorites">
       <list>
-        <option value="53" />
         <option value="NFC Test" />
+        <option value="53" />
         <option value="Nfc Test" />
         <option value="MCRPOSTest" />
         <option value="MCR" />
