@@ -31,6 +31,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Convenience for combined behavior of [APPEND][LoadType.REFRESH] [LoadState], which generally defers to [mediator] if it exists, but if previously was [LoadState.Loading], awaits for both [source] and [mediator] to become [LoadState.NotLoading] to ensure the remote load was applied. For use cases that require reacting to [LoadState] of [source] and [mediator] specifically, e.g., showing cached data when network loads via [mediator] fail, [LoadStates] exposed via [source] and [mediator] should be used directly." />
+      <item value="append" />
+      <item value="mediator" />
+      <item value="collect As State" />
+      <item value="collect Latest" />
       <item value="Destroyed state for a LifecycleOwner. After this event, this Lifecycle will not dispatch any more events. For instance, for an {@link android.app.Activity}, this state is reached &lt;b&gt;right before&lt;b&gt; Activity's {@link android.app.ActivityonDestroy() onDestroy} call." />
       <item value="Initialized state for a LifecycleOwner. For an {@link android.app.Activity}, this is the state when it is constructed but has not received {@link android.app.ActivityonCreate(android.os.Bundle) onCreate} yet." />
       <item value="Resumed state for a LifecycleOwner. For an {@link android.app.Activity}, this state is reached after {@link android.app.ActivityonResume() onResume} is called." />
@@ -76,16 +81,11 @@
       <item value="A dailyForecastWeather displayed on the screen. publicly exposed live data, not mutable" />
       <item value="Hilt View Model" />
       <item value="Current Weather View Model Factory" />
-      <item value="Provider" />
-      <item value="Interface for classes whose instances can be written to and restored from a {@link Parcel}. Classes implementing the Parcelable interface must also have a non-null static field called &lt;code&gt;CREATOR&lt;code&gt; of a type that implements the {@link Parcelable.Creator} interface. &lt;p&gt;A typical implementation of Parcelable is:&lt;p&gt; &lt;div&gt; &lt;div class=&quot;ds-selector-tabs&quot;&gt;&lt;section&gt;&lt;h3 id=&quot;kotlin&quot;&gt;Kotlin&lt;h3&gt; &lt;pre class=&quot;prettyprint lang-kotlin&quot;&gt;" />
-      <item value="Parcelable" />
-      <item value="WEATHER BASE URL" />
-      <item value="If a binding adapter provides the getter, check that the adapter is annotated correctly and that the parameter type matches." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
       </map>
     </option>
   </component>
