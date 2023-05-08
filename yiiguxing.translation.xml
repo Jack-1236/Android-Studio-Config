@@ -31,6 +31,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Collection of pagination [LoadState]s for both a [PagingSource], and [RemoteMediator]. Note: The [LoadType] [REFRESH][LoadType.REFRESH] always has [LoadState.endOfPaginationReached] set to `false`." />
+      <item value="Combined Load States" />
+      <item value="prepend" />
       <item value="Convenience for combined behavior of [APPEND][LoadType.REFRESH] [LoadState], which generally defers to [mediator] if it exists, but if previously was [LoadState.Loading], awaits for both [source] and [mediator] to become [LoadState.NotLoading] to ensure the remote load was applied. For use cases that require reacting to [LoadState] of [source] and [mediator] specifically, e.g., showing cached data when network loads via [mediator] fail, [LoadStates] exposed via [source] and [mediator] should be used directly." />
       <item value="append" />
       <item value="mediator" />
@@ -78,14 +81,11 @@
       <item value="Convert database results CurrentWeatherDB to CurrentWeather UI domain object" />
       <item value="Update View with the latest currentWeatherDB Writes to the value property of MutableStateFlow, adding a new element to the flow and updating all of its collectors" />
       <item value="A currentWeather displayed on the screen. publicly exposed live data, not mutable" />
-      <item value="A dailyForecastWeather displayed on the screen. publicly exposed live data, not mutable" />
-      <item value="Hilt View Model" />
-      <item value="Current Weather View Model Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
       </map>
     </option>
   </component>
