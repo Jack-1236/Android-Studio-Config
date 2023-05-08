@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:releaseCompileClasspath'." />
       <item value="Collection of pagination [LoadState]s for both a [PagingSource], and [RemoteMediator]. Note: The [LoadType] [REFRESH][LoadType.REFRESH] always has [LoadState.endOfPaginationReached] set to `false`." />
       <item value="Combined Load States" />
       <item value="prepend" />
@@ -80,12 +81,11 @@
       <item value="An {@linkplain Scope unscoped} {@link Provider}. While a {@link Provider} &lt;i&gt;may&lt;i&gt; apply scoping semantics while providing an instance, a factory implementation is guaranteed to exercise the binding logic ({@link Inject} constructors, {@link Provides} methods) upon each call to {@link get}. &lt;p&gt;Note that while subsequent calls to {@link get} will create new instances for bindings such as those created by {@link Inject} constructors, a new instance is not guaranteed by all bindings. For example, {@link Provides} methods may be implemented in ways that return the same instance for each call." />
       <item value="Convert database results CurrentWeatherDB to CurrentWeather UI domain object" />
       <item value="Update View with the latest currentWeatherDB Writes to the value property of MutableStateFlow, adding a new element to the flow and updating all of its collectors" />
-      <item value="A currentWeather displayed on the screen. publicly exposed live data, not mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
       </map>
     </option>
   </component>
