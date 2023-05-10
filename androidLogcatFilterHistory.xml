@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="测试" />
         <option value="E" />
         <option value="getLoadCompanyConfig" />
         <option value="getCompanyConfig" />
@@ -16,7 +17,6 @@
         <option value="MCRPOSTest" />
         <option value="MCR" />
         <option value="Logout" />
-        <option value="测试" />
         <option value="TAG" />
         <option value="Log out at regular intervals" />
         <option value="ce" />
