@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="E" />
         <option value="getLoadCompanyConfig" />
         <option value="getCompanyConfig" />
         <option value="测试Dialog" />
@@ -22,7 +23,6 @@
         <option value="cr" />
         <option value="Test" />
         <option value="Test Demo" />
-        <option value="demo" />
       </list>
     </option>
   </component>
