@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getCompanyConfig" />
+    <option name="mostRecentlyUsed" value="getLoadCompanyConfig" />
     <option name="nonFavorites">
       <list>
+        <option value="getLoadCompanyConfig" />
         <option value="getCompanyConfig" />
         <option value="测试Dialog" />
         <option value="orderLogin" />
@@ -22,7 +23,6 @@
         <option value="Test" />
         <option value="Test Demo" />
         <option value="demo" />
-        <option value="XYT" />
       </list>
     </option>
   </component>
