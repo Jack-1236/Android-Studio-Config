@@ -31,6 +31,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Type Name" />
+      <item value="get Canonical Name" />
+      <item value="get Simple Name" />
       <item value="unregister" />
       <item value="dispatch Touch Event" />
       <item value="get Current Focus" />
@@ -78,14 +81,11 @@
       <item value="task (current target is 11) and 'compileDebugKotlin' task (current target is 1.8) jvm target compatibility should be set to the same Java version." />
       <item value="Incorrect package=&quot;com.example.baseandroidaar&quot; found in source AndroidManifest.xml: C:\AndroidProject\BaseAndroid\app\src\main\AndroidManifest.xml. Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported. Recommendation: remove package=&quot;com.example.baseandroidaar&quot; from the source AndroidManifest.xml: C:\AndroidProject\BaseAndroid\app\src\main\AndroidManifest.xml." />
       <item value="com.android.build.gradle.internal.crash.ExternalApiUsageException: groovy.lang.MissingPropertyException: Could not get unknown property 'versionName' for object of type com.android.build.gradle.internal.api.LibraryVariantOutputImpl. &gt; Could not get unknown property 'release' for SoftwareComponentInternal set of type org.gradle.api.internal.component.DefaultSoftwareComponentContainer." />
-      <item value="package attribute is specified in the source AndroidManifest.xml, it can be migrated automatically to the namespace value in the build.gradle file using the AGP Upgrade Assistant; please refer to https:developer.android.comstudiobuildagp-upgrade-assistant for more information." />
-      <item value="Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
-      <item value="set Current Printer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
       </map>
     </option>
   </component>
