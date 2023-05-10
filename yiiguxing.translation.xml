@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="unregister" />
       <item value="dispatch Touch Event" />
       <item value="get Current Focus" />
       <item value="add On Attach State Change Listener" />
@@ -80,12 +81,11 @@
       <item value="package attribute is specified in the source AndroidManifest.xml, it can be migrated automatically to the namespace value in the build.gradle file using the AGP Upgrade Assistant; please refer to https:developer.android.comstudiobuildagp-upgrade-assistant for more information." />
       <item value="Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
       <item value="set Current Printer" />
-      <item value="get Printers Vector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
       </map>
     </option>
   </component>
