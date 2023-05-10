@@ -31,6 +31,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="dispatch Touch Event" />
+      <item value="get Current Focus" />
+      <item value="add On Attach State Change Listener" />
+      <item value="on View Detached From Window" />
+      <item value="on View Attached To Window" />
       <item value="Click on the blank area to shadow the soft keyboard" />
       <item value="hide System Soft Keyboard" />
       <item value="Returns `true` if this char sequence is not empty. @sample samples.text.Strings.stringIsNotEmpty" />
@@ -76,16 +81,11 @@
       <item value="Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
       <item value="set Current Printer" />
       <item value="get Printers Vector" />
-      <item value="finish Edit Mode" />
-      <item value="is Sure Size Print" />
-      <item value="begin Print" />
-      <item value="constructor" />
-      <item value="Inject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
       </map>
     </option>
   </component>
