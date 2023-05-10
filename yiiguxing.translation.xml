@@ -27,10 +27,11 @@
     <option name="lastTrimTime" value="1676991203247" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683198637466" />
+    <option name="lastTrimTime" value="1683686730653" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns `true` if this char sequence is not empty. @sample samples.text.Strings.stringIsNotEmpty" />
       <item value="Delicate Coroutines Api" />
       <item value="is Redirect" />
       <item value="is Successful" />
@@ -80,12 +81,11 @@
       <item value="Inject" />
       <item value="Use this if you want to return Flow to ViewModel" />
       <item value="repeatOnLifecycle launches the block in a new coroutine every time the lifecycle is in the STARTED state (or above) and cancels it when it's STOPPED." />
-      <item value="Start a coroutine in the lifecycle scope viewLifecycleOwner.lifecycleScope.launch {" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
       </map>
     </option>
   </component>
