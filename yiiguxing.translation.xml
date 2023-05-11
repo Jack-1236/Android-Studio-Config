@@ -31,6 +31,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Index -1 out of bounds for length 73" />
+      <item value="The paint used to draw the circle" />
+      <item value="The radius of the circle to be drawn" />
+      <item value="The y-coordinate of the center of the circle to be drawn" />
+      <item value="The x-coordinate of the center of the circle to be drawn" />
       <item value="out" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="Nothing" />
@@ -76,16 +81,11 @@
       <item value="'compileDebugJavaWithJavac' task (current target is 11) and 'compileDebugKotlin' task (current target is 1.8) jvm target compatibility should be set to the same Java version." />
       <item value="Soap Object" />
       <item value="Soap Fault" />
-      <item value="Get User Configuration" />
-      <item value="enough To Filter" />
-      <item value="App Compat Auto Complete Text View" />
-      <item value="My Auto Complete Text View" />
-      <item value="set Configuration Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
       </map>
     </option>
   </component>
