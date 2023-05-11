@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
+      <item value="Nothing" />
       <item value="Big Decimal" />
       <item value="add Path Segments" />
       <item value="add Encoded Query Parameter" />
@@ -79,13 +81,11 @@
       <item value="My Auto Complete Text View" />
       <item value="set Configuration Name" />
       <item value="get User Conf Method" />
-      <item value="Failed to connect to github.com port 443 after 21025 ms: Couldn't connect to server" />
-      <item value="Connection was reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
       </map>
     </option>
   </component>
