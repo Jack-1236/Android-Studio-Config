@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="out" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="Nothing" />
       <item value="Big Decimal" />
@@ -80,12 +81,11 @@
       <item value="App Compat Auto Complete Text View" />
       <item value="My Auto Complete Text View" />
       <item value="set Configuration Name" />
-      <item value="get User Conf Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
       </map>
     </option>
   </component>
