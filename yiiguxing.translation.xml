@@ -31,6 +31,15 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Geometry and text drawn with this style will be stroked, respecting the stroke-related fields on the paint." />
+      <item value="Geometry and text drawn with this style will be both filled and stroked at the same time, respecting the stroke-related fields on the paint. This mode can give unexpected results if the geometry is oriented counter-clockwise. This restriction does not apply to either FILL or STROKE." />
+      <item value="Geometry and text drawn with this style will be filled, ignoring all stroke-related settings in the paint." />
+      <item value="bottom" />
+      <item value="If true, include the center of the oval in the arc, and close it if it is being stroked. This will draw a wedge" />
+      <item value="Sweep angle (in degrees) measured clockwise" />
+      <item value="Starting angle (in degrees) where the arc begins" />
+      <item value="The X coordinate of the left side of the rectangle" />
+      <item value="draw Arc" />
       <item value="Index -1 out of bounds for length 73" />
       <item value="The paint used to draw the circle" />
       <item value="The radius of the circle to be drawn" />
@@ -72,20 +81,11 @@
       <item value="Destroyed state for a LifecycleOwner. After this event, this Lifecycle will not dispatch any more events. For instance, for an {@link android.app.Activity}, this state is reached &lt;b&gt;right before&lt;b&gt; Activity's {@link android.app.ActivityonDestroy() onDestroy} call." />
       <item value="Initialized state for a LifecycleOwner. For an {@link android.app.Activity}, this is the state when it is constructed but has not received {@link android.app.ActivityonCreate(android.os.Bundle) onCreate} yet." />
       <item value="Resumed state for a LifecycleOwner. For an {@link android.app.Activity}, this state is reached after {@link android.app.ActivityonResume() onResume} is called." />
-      <item value="STARTED" />
-      <item value="launch When Resumed" />
-      <item value="repeat On Lifecycle" />
-      <item value="Returns `true` if collection has at least one element." />
-      <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptWithoutKotlincTaskKaptExecutionWorkAction &gt; java.lang.reflect.InvocationTargetException (no error message)" />
-      <item value="The specified Android SDK Build Tools version (24.0.3) is ignored, as it is below the minimum supported version (30.0.3) for Android Gradle Plugin 8.0.0. Android SDK Build Tools 30.0.3 will be used. To suppress this warning, remove &quot;buildToolsVersion '24.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="'compileDebugJavaWithJavac' task (current target is 11) and 'compileDebugKotlin' task (current target is 1.8) jvm target compatibility should be set to the same Java version." />
-      <item value="Soap Object" />
-      <item value="Soap Fault" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
       </map>
     </option>
   </component>
