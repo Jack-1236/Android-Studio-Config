@@ -31,6 +31,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="A snapshot of the replay cache." />
+      <item value="replay Cache" />
       <item value="deposit" />
       <item value="Geometry and text drawn with this style will be stroked, respecting the stroke-related fields on the paint." />
       <item value="Geometry and text drawn with this style will be both filled and stroked at the same time, respecting the stroke-related fields on the paint. This mode can give unexpected results if the geometry is oriented counter-clockwise. This restriction does not apply to either FILL or STROKE." />
@@ -79,13 +81,11 @@
       <item value="mediator" />
       <item value="collect As State" />
       <item value="collect Latest" />
-      <item value="Destroyed state for a LifecycleOwner. After this event, this Lifecycle will not dispatch any more events. For instance, for an {@link android.app.Activity}, this state is reached &lt;b&gt;right before&lt;b&gt; Activity's {@link android.app.ActivityonDestroy() onDestroy} call." />
-      <item value="Initialized state for a LifecycleOwner. For an {@link android.app.Activity}, this is the state when it is constructed but has not received {@link android.app.ActivityonCreate(android.os.Bundle) onCreate} yet." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
       </map>
     </option>
   </component>
