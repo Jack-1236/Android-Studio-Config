@@ -1,5 +1,5 @@
 <application>
-  <component name="ToStringTemplates" defaultTemplateName="StringBuffer">
+  <component name="ToStringTemplates" defaultTemplateName="StringBuilder (JDK 1.5)">
     <option name="templates">
       <list>
         <TemplateResource>
