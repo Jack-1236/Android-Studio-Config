@@ -3,8 +3,9 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="getOrderLogin" />
         <option value="测试" />
+        <option value="package:mine " />
+        <option value="getOrderLogin" />
         <option value="E" />
         <option value="getLoadCompanyConfig" />
         <option value="getCompanyConfig" />
@@ -12,7 +13,6 @@
         <option value="orderLogin" />
         <option value="loginOrderService" />
         <option value="NFC Test" />
-        <option value="package:mine " />
         <option value="53" />
         <option value="Nfc Test" />
         <option value="MCRPOSTest" />

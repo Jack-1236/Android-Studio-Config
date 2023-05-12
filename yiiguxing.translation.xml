@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="reverse Layout" />
       <item value="A snapshot of the replay cache." />
       <item value="replay Cache" />
       <item value="deposit" />
@@ -80,12 +81,11 @@
       <item value="append" />
       <item value="mediator" />
       <item value="collect As State" />
-      <item value="collect Latest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
       </map>
     </option>
   </component>
