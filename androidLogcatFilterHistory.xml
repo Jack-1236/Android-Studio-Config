@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="companyr" />
         <option value="测试" />
         <option value="package:mine " />
         <option value="getOrderLogin" />
@@ -22,7 +23,6 @@
         <option value="Log out at regular intervals" />
         <option value="ce" />
         <option value="cr" />
-        <option value="Test" />
       </list>
     </option>
   </component>
