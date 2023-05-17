@@ -31,6 +31,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Login By Card" />
       <item value="this format changeable" />
       <item value="sorted By Descending" />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function. The sort is _stable_. It means that equal elements preserve their order relative to each other after sorting. @sample samples.collections.Collections.Sorting.sortedBy" />
@@ -80,12 +81,11 @@
       <item value="Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details" />
       <item value="Media Type" />
       <item value="Creates a new JSONObject with namevalue mappings from the JSON string. Params: json – a JSON-encoded string containing an object. Throws: JSONException – if the parse fails or doesn't yield a JSONObject." />
-      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:releaseCompileClasspath'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
       </map>
     </option>
   </component>
