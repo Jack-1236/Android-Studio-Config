@@ -2,7 +2,18 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
+        <option name="configurationSetId" value="cf217910-8cee-43bd-90cb-56e38460aaed" />
+        <option name="customConfigurationSets">
+          <map>
+            <entry key="cf217910-8cee-43bd-90cb-56e38460aaed">
+              <value>
+                <CustomConfigurationSet />
+              </value>
+            </entry>
+          </map>
+        </option>
         <option name="firstTimeOpen" value="false" />
+        <option name="visible" value="true" />
       </GlobalState>
     </option>
   </component>
